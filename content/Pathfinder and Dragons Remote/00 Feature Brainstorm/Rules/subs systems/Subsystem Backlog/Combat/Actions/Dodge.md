@@ -1,0 +1,2 @@
+2 action
+All attacks against you that you can see are [[Favored and Hindered (Advantage System)|Hindered]] and you make Dexterity saving throws with [[Favored and Hindered (Advantage System)|Favored]]. You lose this benefit if can't move or are [[01 Condition#Unconscious|Uncon[[Favored and Hindered (Advantage System)|Favored]]

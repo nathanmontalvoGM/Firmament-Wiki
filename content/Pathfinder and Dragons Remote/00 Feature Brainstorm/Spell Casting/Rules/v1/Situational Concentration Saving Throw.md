@@ -1,0 +1,1 @@
+Instead of rolling a con save when you are hit, you only have to make one if you want to cast a second concentration spell.

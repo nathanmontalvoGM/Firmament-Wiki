@@ -1,0 +1,1 @@
+Allows you to pick more skills at level 1. Some more advanced skills and abilities might have an intelligence requirement to learn them. 

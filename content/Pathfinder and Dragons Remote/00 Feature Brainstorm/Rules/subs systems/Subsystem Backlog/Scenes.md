@@ -1,0 +1,1 @@
+some abilities will be balanced around a scene in game. Once a scene completes, that ability can be used again. 

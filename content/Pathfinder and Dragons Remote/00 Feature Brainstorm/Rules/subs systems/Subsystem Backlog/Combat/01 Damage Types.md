@@ -1,0 +1,1 @@
+**True:** Applies to all received damage

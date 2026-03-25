@@ -1,0 +1,1 @@
+Trained, expert, master, legendary

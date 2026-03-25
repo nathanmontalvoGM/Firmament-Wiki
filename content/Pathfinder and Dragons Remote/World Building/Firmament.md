@@ -1,0 +1,1 @@
+The origin of magic in this system. Kind of like the warp from 40k but for god. Heaven provides the magic for the world and has control voer all magic. They allow for evil to sue magic cause free will.

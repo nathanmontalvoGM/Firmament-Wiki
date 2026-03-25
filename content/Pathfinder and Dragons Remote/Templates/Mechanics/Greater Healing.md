@@ -1,0 +1,1 @@
+[[Greater and Lesser Healing|Greater Healing]]

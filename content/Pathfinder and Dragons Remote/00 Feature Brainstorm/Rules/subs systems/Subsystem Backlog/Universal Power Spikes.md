@@ -1,0 +1,3 @@
+As characters level up, older feats will scale in level similar to cantrips. This will use the TEML system to make feats better as listed in the feats description. At X level, players can either increase expertise in a feat to certain amount (for example, a a player couldn't just go straight to legendary in feat, that would be blocked off by a level prereq). Doing so rewards an upgrade to that feat. 
+
+Maybe once they reach this spike, they can select training in two feats instead of one?

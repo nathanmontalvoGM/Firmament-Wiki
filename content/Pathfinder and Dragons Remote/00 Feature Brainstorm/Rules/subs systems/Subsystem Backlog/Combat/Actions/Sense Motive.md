@@ -1,0 +1,1 @@
+You make an [[insight]] d20 roll contested by a creatures [[deception]]  DC to determine a their intentions.  This roll is kept secret.

@@ -1,0 +1,1 @@
+You've become acclimated to the heat and work required by someone working in the forge. This grants you fire resistance equal to half your level (minimum 1). You also gain training in [[Smithing Tools]] and Crafting. 

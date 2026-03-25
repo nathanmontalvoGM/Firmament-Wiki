@@ -1,0 +1,1 @@
+When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost.

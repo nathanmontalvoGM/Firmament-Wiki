@@ -1,0 +1,1 @@
+“Attacking means you are making an offensive d20 roll intended to harm or directly affect an enemy. This commonly listed as "Spell Attack" for spellcasters.

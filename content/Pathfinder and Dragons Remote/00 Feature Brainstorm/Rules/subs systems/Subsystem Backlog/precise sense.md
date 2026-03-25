@@ -1,0 +1,1 @@
+For most creature their only precise sense is vision but for others it could be smell or hearing. You can never be more than untrained in a sense not listed in your senses. These precise senses are listed under snese on your character sheet 

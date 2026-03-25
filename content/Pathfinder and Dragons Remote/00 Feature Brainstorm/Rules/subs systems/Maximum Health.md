@@ -1,0 +1,1 @@
+The combined total of your [[Hit Points]] and [[Stamina]]. If your stamina

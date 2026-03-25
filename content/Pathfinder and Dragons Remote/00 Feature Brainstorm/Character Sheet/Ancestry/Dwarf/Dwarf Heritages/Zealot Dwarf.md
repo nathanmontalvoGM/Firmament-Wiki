@@ -1,0 +1,1 @@
+You believe that a dwarves real power come from above. You gain one cantrip from the [[Divine Spell List]] (Using Wisdom as your spellcasting ability for it). You are also trained in Religion.

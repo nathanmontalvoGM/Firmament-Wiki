@@ -1,0 +1,2 @@
+If you can't see a creature you are attacking you are  [[Favored and Hindered(Advantage System)|Hindered]]
+If a creature that you can't see is attacking you, they have  [[[Favored and Hindered(Advantage System)|Favored]][[Favored and Hindered (Advantage System)|Favored]]

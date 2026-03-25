@@ -1,0 +1,1 @@
+being within 5ft. of an enemy while making a ranged attack or ranged spell attack causes the attack to be  [[Favored and Hindered(Advantage System)|Hindered]]

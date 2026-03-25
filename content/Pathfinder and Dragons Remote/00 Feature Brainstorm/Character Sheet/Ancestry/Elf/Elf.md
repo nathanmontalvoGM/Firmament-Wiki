@@ -1,0 +1,10 @@
+ **[[Hit Points]]:** 6
+* **Age:** 
+* **Speed:** 35ft.
+* **Ability Score Increase:** +1 to three stats, -1 to one stat
+* **Features:**
+	* [[Darkvision]]
+	* **Trance.** Elves do not sleep. Instead they meditate deeply, remaining semi-conscious, for 4 hours a day. The Common word for this meditation is "trance." While meditating, you dream after a fashion; such dreams are actually mental exercises that have become reflexive after years of practice. After resting in this way, you gain the same benefit a human would from 8 hours of sleep.
+	* **Elven Heritage Versatility.** You gain a cantrip determined by your Heritage. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
+	* Lore Flavor Feat WIP
+* **Languages:**

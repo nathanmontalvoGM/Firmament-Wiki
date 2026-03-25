@@ -1,0 +1,12 @@
+Some spells and special abilities confer temporary hit points to a creature. Temporary hit points aren't actual [[Hit Points]] they are a buffer against damage.
+
+When you have temporary hit points and take damage, the temporary hit points are lost first, and any leftover damage carries over to your [[Stamina]] then [[Hit Points]] as normal. For example, if you have 5 temporary hit points and take 7 damage, you lose the temporary hit points and then take 2 damage.
+
+Because temporary hit points are separate from your actual [[Hit Points]], they can exceed your [[Maximum Health]]. A character can, therefore, be at THEIR [[Maximum Health]] and receive temporary hit points.
+
+Healing can't restore temporary hit points, and they can't be added together. If you have temporary hit points and receive more of them, you decide whether to keep the ones you have or to gain the new ones. For example, if a spell grants you 12 temporary hit points when you already have 10, you can have 12 or 10, not 22.
+
+If you have 0 [[Hit Points]], receiving temporary hit points doesn't restore you to consciousness or stabilize you. They can still absorb damage directed at you while you're in that state, but only [[Greater and Lesser Healing|Greater Healing]] can save you.
+
+Unless a feature that grants you temporary hit points has a duration, they last until they're depleted or you finish a [[Long Rest]]
+#Rule 

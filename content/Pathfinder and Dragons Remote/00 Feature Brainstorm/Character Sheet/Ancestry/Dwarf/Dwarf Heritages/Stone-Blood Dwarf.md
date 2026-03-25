@@ -1,0 +1,1 @@
+Your blood is thick and tough and won't leave your body without a fight. You gain resistance to bleed damage equal to half your level (minimum 1) and the DC of checks to remove [[01 Condition#Persistent Damage WIP|Persistent Damage]] from bleed effects is 10 instead of 15. 

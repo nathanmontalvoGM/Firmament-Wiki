@@ -1,0 +1,1 @@
+Area of effect spells affect all creatures within their radius. This means that healing spells will heal enemies the same as allies.
