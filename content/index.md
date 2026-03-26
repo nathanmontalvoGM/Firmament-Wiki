@@ -13,7 +13,7 @@ title: Home
 </div>
 
 <div class="category-grid">
-  <a class="category-card" href="00 Feature Brainstorm/Classes/v2/Classes">
+  <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00-Feature-Brainstorm/Classes/v2/Classes">
     <div class="card-icon"></div>
     <div class="card-title">Classes</div>
   </a>

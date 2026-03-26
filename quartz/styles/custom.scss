@@ -71,3 +71,47 @@
   font-weight: 600;
   font-size: 1rem;
 }
+
+.hub-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem 0;
+}
+
+.hub-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 1px solid var(--lightgray);
+  background: var(--darkgray);
+  text-decoration: none;
+  transition: border-color 0.2s, transform 0.2s;
+}
+
+.hub-card:hover {
+  border-color: var(--secondary);
+  transform: translateY(-3px);
+}
+
+.hub-title {
+  color: #ffffff;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.hub-desc {
+  color: var(--gray);
+  font-size: 0.9rem;
+  flex-grow: 1;
+  margin-bottom: 0.75rem;
+  line-height: 1.5;
+}
+
+.hub-tags {
+  color: var(--secondary);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
