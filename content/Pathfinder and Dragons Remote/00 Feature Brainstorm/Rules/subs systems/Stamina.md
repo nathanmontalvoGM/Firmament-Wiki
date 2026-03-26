@@ -1,3 +1,9 @@
+# v1 
 Stamina represents your character ability to dodge, evade or otherwise avoid getting injured. The amount of Stamina you have is determined by your class and Dexterity modifier and you gain more as you level up. Stamina takes up a portion of your [[Maximum Health]] which combines your [[Hit Points]] and Stamina together. When your stamina is reduced to 0, you gain the [[01 Condition#Bloodied (WIP)|Bloodied]] condition and start reducing your [[Hit Points]]. Any excess damage from your stamina being reduced to 0 is carried over to your [[Hit Points]]. 
+
+For example, if you had 5 stamina left, and 15 [[Hit Points]] and took 10 damage, you’re stamina is reduced to 0, you gain the [[01 Condition#Bloodied (WIP)|Bloodied]] condition and now you have 10 [[Hit Points]].
+
+# v2
+Stamina represents your character ability to dodge, evade or otherwise avoid getting injured. The amount of Stamina you have is determined by your class and Dexterity modifier and you gain more as you level up. Your [[Maximum Health]] health is the combination of your [[Hit Points]] and [[Stamina]].  When your stamina is reduced to 0, you gain the [[01 Condition#Bloodied (WIP)|Bloodied]] condition and start reducing your [[Hit Points]]. Any excess damage from your stamina being reduced to 0 is carried over to your [[Hit Points]]. 
 
 For example, if you had 5 stamina left, and 15 [[Hit Points]] and took 10 damage, you’re stamina is reduced to 0, you gain the [[01 Condition#Bloodied (WIP)|Bloodied]] condition and now you have 10 [[Hit Points]].

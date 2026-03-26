@@ -1,4 +1,4 @@
-# Notes
+# Barbarian Class Features
 
 # Maximum Health
 

@@ -35,8 +35,8 @@ You are hidden from a creatures sight, but they know the space you are in but ca
 You can't be seen. Your location can be detected by noises, tracks or magical effects. Your attacks gain [[Favore[[Favored and Hindered(Advantage System)|Favored]]y attacks against you are [[Favored[[Favored and Hindered(Advantage System)|Hindered]]ard
 You're distracted or otherwise unable to focus your full attention on defense. You gain a -2 penalty to your AC. 
 
-# Paralyzed
-You're frozen in place. You are [[01 Condition#Unconscious|Unconscious]]. You automatically fail Strength and Dexterity based saving throws. Attack rolls against you gain [[Favored [[Favored and Hindered(Advantage System)|Favored]]e within 5ft increase the [[01 Success Level]] of its attacks by 1 step.
+# Paralyzed X
+You're frozen in place. Paralyzed always has a value. The value determines in how many rounds it takes before you become paralyzed. While you are being paralyzed but before its effects have applied, your movement is [[Strained Movement]]. If you become paralzyed, you are [[01 Condition#Unconscious|Unconscious]]. You automatically fail Strength and Dexterity based saving throws. Attack rolls against you are [[Favored and Hindered (Advantage System)|Favored]] and any attack within 5ft increase its [[Degree of Success]] of its attacks by 1 step.
 
 # Persistent Damage WIP
 ## P[[Favored and Hindered (Advantage System)|Favored]]ct, such as from being lit on fire. Persistent damage always lists a die value (i.e. 1d4) you will be taking and a damage type dealt (such as fire). This damage is taken at the end of your turn. Afterwards, you roll a DC 15 flat check to see if you recover from the persistent damage. If you succeed this condition ends.

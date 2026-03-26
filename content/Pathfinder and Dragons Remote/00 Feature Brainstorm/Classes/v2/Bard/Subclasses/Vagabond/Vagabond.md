@@ -18,6 +18,7 @@ Your travels have provided you insight into the magical worlds of other spellcas
 # Subclass Identity
 Could be about Gaining features or spells from other classes similar to Lore bard. 
 ### What unique aspect does this subclass emphasize?
+Your travels give you access to knowledge about locations, creature's and items and perks at different levels
 
 
 

@@ -4,17 +4,18 @@
 * unhappy with the turn undead feature, I would replace this 
 
 UPDATE: spell table
+# Cleric Class Features
 
 | Level | Features                                                                                                                                                                                                                    | 1st | 2nd | 3rd | 4th | 5th |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- |
-| 1st   | [[Cleric Class Features#Spellcasting\|Spellcasting]], [[Cleric Class Features#Divine Domain\| Divine Domain]]. [[Cleric Class Features#Divine Font\|Divine Font]], [[Cleric Class Features#Favored Weapon\|Favored Weapon]] | 2   |     |     |     |     |
+| 1st   | [[Cleric#Spellcasting\|Spellcasting]], [[Cleric#Divine Domain\| Divine Domain]]. [[Cleric#Divine Font\|Divine Font]], [[Cleric#Favored Weapon\|Favored Weapon]] | 2   |     |     |     |     |
 | 2nd   | [[Cleric Class Feat]]                                                                                                                                                                                                       | 3   |     |     |     |     |
-| 3rd   | [[Cleric Class Features#Skill Increases\|Skill Increases]]                                                                                                                                                                  | 4   | 2   |     |     |     |
+| 3rd   | [[Cleric#Skill Increases\|Skill Increases]]                                                                                                                                                                  | 4   | 2   |     |     |     |
 | 4th   | Domain Feature                                                                                                                                                                                                              | 4   | 3   |     |     |     |
-| 5th   | General feat, [[Cleric Class Features#Perception Expertise\| Perception Expertise]]                                                                                                                                         | 4   | 3   | 2   |     |     |
+| 5th   | General feat, [[Cleric#Perception Expertise\| Perception Expertise]]                                                                                                                                         | 4   | 3   | 2   |     |     |
 | 6th   | , Domain Feature                                                                                                                                                                                                            | 4   | 3   | 3   |     |     |
 | 7th   |                                                                                                                                                                                                                             | 4   | 3   | 3   | 2   |     |
-| 8th   | Domain Feature. [[Cleric Class Features#Potent Divinity]]                                                                                                                                                                   | 4   | 3   | 3   | 3   |     |
+| 8th   | Domain Feature. [[Cleric#Potent Divinity]]                                                                                                                                                                   | 4   | 3   | 3   | 3   |     |
 | 9th   |                                                                                                                                                                                                                             | 4   | 3   | 3   | 3   | 2   |
 | 10th  |                                                                                                                                                                                                                             | 4   | 3   | 3   | 3   | 3   |
 **Key Ability:** Wisdom
@@ -22,10 +23,10 @@ When you choose this class at 1st level, you gain an attribute boost to Wisdom.
 
 # Maximum Health
 **[[Hit Dice]]:** 1d8 per Cleric level
-**[[Maximum Health]]:** 8 + your Constitution modifier
-You increase your maximum health by this number at 1st level and every level thereafter.
-**[[Stamina]]:** 4 + your Dexterity modifier (Minimum of 1). Stamina cannot exceed half of your of your Maximum Health.
-You increase your Stamina by this number at 1st level and every level thereafter.
+**[[Hit Points]]:** 8 + your Constitution modifier
+You increase your maximum [[Hit Points]] by this number at 1st level and every level thereafter.
+**[[Stamina]]:** 4 + your Dexterity modifier (Minimum of 1).
+You increase your [[Stamina]] by this number at 1st level and every level thereafter.
 # Proficiencies
 **Armor:** Trained in [[01 Light Armor]], [[01 medium armor]], [[01 Shields]]
 **Weapons:** Trained in all simple weapons and the favored weapon determined by your [[Domain]] (see [[Favored Weapon List]])

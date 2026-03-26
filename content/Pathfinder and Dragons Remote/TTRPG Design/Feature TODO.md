@@ -2,7 +2,7 @@
 # 1. Core System Engine
 ## Resolution System
 * [x] [[Dice Engine (d20)]]
-* [x] [[01 Success Level]]
+* [x] [[Degree of Success]]
 * [ ] [[DC]]
 
 ## Increasing or Decreasing odds of success
@@ -111,7 +111,7 @@ One subclass per class for the time being. Once all classes are made, might expa
 	* [ ] needs v2 revision
 * [ ] Martyr Domain
 ### Fighter - Status: Partially Complete
-* [x] [[Fighter Class Features]]
+* [x] [[Fighter]]
 * [ ] needs equipment
 #### Disciplines
 * [x] Dueling Discipline 

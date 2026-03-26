@@ -3,21 +3,21 @@
 * add the boring saving throw level up stuff
 * add training level up
 * add class DC level up
-# Intro
+# Fighter Class Features
 As a fighter, you gain the following class features.
 
 | Level | Features                                                                                                                                                                                |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st   | [[Fighter Class Features#Fighting Discipline\|Fighting Discipline]], [[Fighter Class Features#Maneuvers\|Maneuvers]], [[Fighter Class Features#Opportunity Attack\|Opportunity Attack]] |
-| 2nd   | [[Fighter Class feat]], [[Fighter Class Features#Bravery\|Bravery]]                                                                                                                     |
-| 3rd   | [[Fighter Class Features#Martial Archetype\|Martial Archetype]], Martial Archetype Feat                                                                                                 |
+| 1st   | [[Fighter#Fighting Discipline\|Fighting Discipline]], [[Fighter#Maneuvers\|Maneuvers]], [[Fighter#Opportunity Attack\|Opportunity Attack]] |
+| 2nd   | [[Fighter Class feat]], [[Fighter#Bravery\|Bravery]]                                                                                                                     |
+| 3rd   | [[Fighter#Martial Archetype\|Martial Archetype]], Martial Archetype Feat                                                                                                 |
 | 4th   | [[Fighter Class feat]], Fighting Discipline Feat                                                                                                                                        |
-| 5th   | General Feat, [[Fighter Class Features#Extra Attack\|Extra Attack]]                                                                                                                     |
+| 5th   | General Feat, [[Fighter#Extra Attack\|Extra Attack]]                                                                                                                     |
 | 6th   | [[Fighter Class feat]], Fighting Discipline Feat                                                                                                                                        |
-| 7th   | Martial Archetype Feat, [[Fighter Class Features#Battlefield Surveyor\|Battlefield Surveyor]]                                                                                           |
-| 8th   | [[Fighter Class feat]], [[Fighter Class Features#Battle Hardened\|Battle Hardened]]                                                                                                     |
-| 9th   | Fighting Discipline Feat, [[Fighter Class Features#Combat Flexibility\|Combat Flexibility ]]                                                                                            |
-| 10th  | [[Fighter Class feat]], [[Fighter Class Features#Armor Expertise\|Armor Expertise]], General feat                                                                                       |
+| 7th   | Martial Archetype Feat, [[Fighter#Battlefield Surveyor\|Battlefield Surveyor]]                                                                                           |
+| 8th   | [[Fighter Class feat]], [[Fighter#Battle Hardened\|Battle Hardened]]                                                                                                     |
+| 9th   | Fighting Discipline Feat, [[Fighter#Combat Flexibility\|Combat Flexibility ]]                                                                                            |
+| 10th  | [[Fighter Class feat]], [[Fighter#Armor Expertise\|Armor Expertise]], General feat                                                                                       |
 
 
 # [[Hit Points]]
