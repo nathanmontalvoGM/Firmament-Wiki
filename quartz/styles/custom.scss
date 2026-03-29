@@ -115,3 +115,93 @@
   font-size: 0.8rem;
   font-weight: 600;
 }
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&display=swap');
+
+.hub-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem 0;
+}
+
+.hub-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 1px solid var(--lightgray);
+  border-top: 4px solid var(--lightgray);
+  background: var(--darkgray);
+  text-decoration: none;
+  transition: transform 0.2s, border-color 0.2s;
+}
+
+.hub-card:hover {
+  transform: translateY(-3px);
+}
+
+.hub-card.bard {
+  border-top-color: #9b59b6;
+}
+
+.hub-card.bard:hover {
+  border-color: #9b59b6;
+}
+
+.hub-card.cleric {
+  border-top-color: #f1c40f;
+}
+
+.hub-card.cleric:hover {
+  border-color: #f1c40f;
+}
+
+.hub-card.fighter {
+  border-top-color: #e74c3c;
+}
+
+.hub-card.fighter:hover {
+  border-color: #e74c3c;
+}
+
+.hub-card.barbarian {
+  border-top-color: #e67e22;
+}
+
+.hub-card.barbarian:hover {
+  border-color: #e67e22;
+}
+
+.hub-status {
+  font-size: 0.75rem;
+  margin-bottom: 0.5rem;
+  color: var(--gray);
+}
+
+.hub-title {
+  font-family: 'Cinzel', serif;
+  color: #ffffff;
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 0.75rem;
+}
+
+.hub-desc {
+  color: var(--gray);
+  font-size: 0.9rem;
+  flex-grow: 1;
+  margin-bottom: 0.75rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.hub-tags {
+  color: var(--gray);
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-align: center;
+  border-top: 1px solid var(--lightgray);
+  padding-top: 0.6rem;
+  margin-top: auto;
+}
