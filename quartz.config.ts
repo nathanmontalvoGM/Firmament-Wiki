@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian", "TTRPG Design",],
+    ignorePatterns: ["Templates/**", "Private/**", "Archive/**","TTRPG Design/**"],
     defaultDateType: "modified",
     theme: {
       cdnCaching: true,
@@ -83,7 +83,8 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
-      }),
+        includeEmptyFiles: false,
+}),
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
