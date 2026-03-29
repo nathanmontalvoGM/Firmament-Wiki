@@ -22,7 +22,7 @@ A creature can benefit from Travelers Tale a number of times equal to half your 
 # Polyglot Magic 
 At 3rd level, your travels have provided you insight into the magical worlds of other spellcasters. You learn two additional sources from any magical tradition. A source you choose must be of a level you already have access to. These sources don’t count against your maximum sources. You can change which two sources you have access to on a level up. 
 # Lay of the Land
-At 6tth level, your extensive travels have granted you an encyclopedic memory of terrain, settlements, and the hidden quirks of the natural world. When you enter a new area or at the start of combat, you may make a Bardic Lore recall knowledge check about your current terrain as an action.
+At 6th level, your extensive travels have granted you an encyclopedic memory of terrain, settlements, and the hidden quirks of the natural world. When you enter a new area or at the start of combat, you may make a Bardic Lore recall knowledge check about your current terrain as an action.
 
 **On a success**, you recall one of the following benefits of your choice:
 
