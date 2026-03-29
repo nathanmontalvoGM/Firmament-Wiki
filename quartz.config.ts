@@ -8,7 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Pathfinder & Dragons WIKI",
+    ignorePatterns: [
+      "Pathfinder and Dragons Remote/Templates/**",
+      "Pathfinder and Dragons Remote/Rejected Ideas/**",
+      "Pathfinder and Dragons Remote/PAD TODO/**",
+      "Pathfinder and Dragons Remote/TTRPG Design/**",
+    ],
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
