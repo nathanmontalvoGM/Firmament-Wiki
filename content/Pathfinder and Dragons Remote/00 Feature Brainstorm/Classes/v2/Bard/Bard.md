@@ -28,7 +28,7 @@ You increase your maximum [[Hit Points]] by this number at 1st level and every l
 **[[Stamina]]:** 3 + your Dexterity modifier (Minimum of 1). 
 You increase your [[Stamina]] by this number at 1st level and every level thereafter.
 # Proficiencies
-**Armor:** Trained in [[01 Light Armor]] 
+**Armor:** Trained in [[Light Armor]] 
 **Weapons:** Trained in simple and martial weapons.
 **Tools:** None  
 **Saving Throws:** Expert in Dexterity and Charisma and trained in the other ones.
@@ -38,7 +38,7 @@ Trained in one skill determined by your subclass
 Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 
 # Key Words
-* **Inspired:** Commonly associated with eh Bards Performing Arts feature. Creatures that have the inspired condition gain the benefits of whatever performance granted the condition. A creature can not have more than one instance of inspired and if inspired would be applied, it replaces the old inspired condition
+* **Inspired:** Commonly given with the Bards Performing Arts feature. Creatures that have the inspired condition gain the benefits of whatever performance granted the condition. A creature cannot have more than one instance of inspired and if inspired would be applied, it replaces the old inspired condition
 	* Wording bad, fix. 
 # Equipment
 
@@ -58,7 +58,7 @@ At 1st level, you use your artistic medium to aid your allies in battle.
 1 action
 You start a performance, choosing from **Favored Performance** or a performance given by your subclass or a feat. These performances will have the #PerformingArt tag. This performance lasts a minute and requires you to sustain the performance on subsequent turns as a free action. If bard is unable to perform any actions, the performance ends early. The amount of creatures that can be [[01 Condition#Inspired|Inspired]] by you at once is equal to your Charisma modifier. 
 
-## **Favored Performance.**
+## Favored Performance.
 **Tag:** #PerformingArt 
 **Aura:** 30 feet
 **Targets:** a number of creatures equal to your charisma modifier that can see or hear you within 30 feet.

@@ -22,7 +22,7 @@
 **[[Hit Points]] at Higher Levels:** 1d8 (or 5) + your Constitution modifier per cleric level after 1st
 
 # Proficiencies
-**Armor:** Trained in [[01 Light Armor]], [[01 medium armor]], [[01 Shields]]
+**Armor:** Trained in [[Light Armor]], [[01 medium armor]], [[01 Shields]]
 **Weapons:** Trained in all simple weapons and the favored weapon determined by your [[Domain]] (see [[Favored Weapon List]])
 **Tools:** None  
 **Saving Throws:** Expert in Wisdom and Charisma and trained in the other ones.
