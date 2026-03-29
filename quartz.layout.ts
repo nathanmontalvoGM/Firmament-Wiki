@@ -30,7 +30,12 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+    const hiddenFolders = ["Templates", "Archive", "Private"];
+    return !hiddenFolders.includes(node.name);
+  },
+}),
   ],
   right: [
     Component.Graph(),
@@ -45,7 +50,13 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+    const hiddenFolders = ["Templates", "Archive", "Private"];
+    return !hiddenFolders.includes(node.name);
+  },
+}),
+
   ],
   right: [],
 }
