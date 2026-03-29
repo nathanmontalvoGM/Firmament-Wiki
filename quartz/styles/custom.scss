@@ -234,3 +234,18 @@ tr, td,
   content: "";
   margin-top: 0.5rem;
 }
+
+.center ul {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.center ul li::before {
+  display: none;
+}
+
+.center ul li {
+  padding-left: 0;
+  margin-left: 0;
+}
