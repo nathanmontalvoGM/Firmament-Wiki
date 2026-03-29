@@ -4,5 +4,5 @@
 
 Flavor text.
 
-# Master Rune
+## Master Rune
 Attacks with this rune increase its degree of success by one step.

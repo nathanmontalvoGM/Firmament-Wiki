@@ -1,10 +1,10 @@
-# **TTRPG Systems Design 101** 
+## **TTRPG Systems Design 101** 
 
 Now with additional electrolytes\! (meaning I did a full edit pass recently: 8/21/25)
 
 *By Klok Kaos (2022), [Project Chimera: E.C.O.](https://www.facebook.com/groups/1993142787742991) Lead Designer*
 
-##### Legal
+###### Legal
 
 ![][image1]
 
@@ -28,9 +28,9 @@ Please provide a digital link in digital references to this page or a printed li
 
 **This guide is not sponsored in any way by any of the mentioned products.**
 
-#### 
+##### 
 
-#### **Introduction**
+##### **Introduction**
 
 There are many schools of thought in TTRPG (tabletop role-playing game) design. Opinions, theories, philosophies, and patterns are plentiful, but few give you a concrete list of steps to begin making your own game. That is what this guide aims to provide, a simple structure to help you start shaping your design.
 
@@ -95,7 +95,7 @@ Outline
 \-Closing thoughts  
 \-Additional Resources
 
-#### **Step 0: There is No One True Way**
+##### **Step 0: There is No One True Way**
 
 There is no single correct path in TTRPG design. Most of it rests on opinion and subjective table experience. Even when research is involved, success often comes from timing and circumstance more than any universal formula. Do not assume your choices are absolute, and do not accept others’ as absolute. There is generally good wisdom to lean on, and there are always exceptions. Think less in terms of right and wrong, and more in terms of what works in most cases, or what is right for your game, not every game.
 
@@ -105,7 +105,7 @@ Treat this guide as tools, not dogma. Use the principles when they help, and sub
 
 Design is defined less by what you choose than by why you choose it and how it plays at the table. Rules should serve the game’s premise in practice. As with music, restraint matters. What you leave out, when you add variation, and where you allow space can matter as much as what you emphasize. The same lesson applies to TTRPG design.
 
-##### Preparations
+###### Preparations
 
 To get good at something, you usually have to do it poorly first for a long time. That process is often better known as practice.
 
@@ -119,7 +119,7 @@ This is not a strict or mandatory path. Entire books, blogs, and channels are de
 
 Finally, you do not need to follow this process or even read this guide to make a game. But you will likely design more thoughtfully if you do. Considering these ideas, including the ones you may not agree with, will help you form clearer opinions and stronger design choices.
 
-##### Perfect is the Enemy of Good
+###### Perfect is the Enemy of Good
 
 Perfect is the enemy of good. This lesson applies whether your game is intended for commercial use or private, and further applies to pretty much any creative endeavor.
 
@@ -135,17 +135,17 @@ Points 1 and 2 are both almost the same thing, but not quite. It’s important y
 
 When doing all of this, expect to fall short on some things. You aren't a bad game designer if you make a bad design or play test. You're a bad game designer if you had a chance to learn a game design lesson and didn't/refused to recognize it when it spat on your shoes.
 
-##### Understand the Core Strength of the TTRPG Format
+###### Understand the Core Strength of the TTRPG Format
 
 The core strength of the TTRPG format unique from other entertainment media such as books, television/movies, video games, board games and others is that it has infinitely branching narrative possibilities, limited only minimally by the system that governs the game and the imaginations of the participants.
 
 No other entertainment media provides this breadth of possible experiences. Additionally, it can be argued that while other media can provide various amounts of entertainment immersion value, because the TTRPG has infinite possible branches of narrative, it provides a unique style of collaborative engagement for players that is not well replicated by other media, even those that consider themselves RPGs (such as video game formats or choose your own adventure books).
 
-##### Get in touch with your Feelings
+###### Get in touch with your Feelings
 
 Almost all of design is rooted in preference and opinion.  What you like and what I like are very likely different things. Same for any two players or GMs or Designers. Even if we like the same system/genre, we might like it for very different or even contradicting reasons. The good news is, if you’ve ever made a house rule, you’ve already exercised your design muscles a little. Because you found a pain point and created a solution that you found more fun (fun being an opinion and subject to various interpretations).  And maybe you were good or bad at it (and you’ll get better with practice), but that process is pretty much the same thing for making a hack or original system, you just do that same thing over and over again until you have a full game. Get into the habit of investigating what you like and don’t like, and why, and how you think you can make it better.  That’s pretty much the whole ball game.
 
-##### What is your game about?
+###### What is your game about?
 
 There are three things I recommend strongly figuring out before designing anything at all:  
 What is your game specifically about/what is the product identity?  
@@ -193,7 +193,7 @@ Don’t be afraid to rethink what you started with.  Listen to what the game wan
 4. You can iterate and refine with playtesting.  
 5. Return to step 1 of this list and review as many times as necessary until you internalize.  Return if you find yourself asking if an idea is any good.
 
-##### Other Starter Wisdom
+###### Other Starter Wisdom
 
 New designers often run into the same common concerns. These tips may seem obvious, but they are worth keeping in mind.
 
@@ -207,7 +207,7 @@ New designers often run into the same common concerns. These tips may seem obvio
 
 5. **Consider system hacks over system design.** If you love design (not the idea, but the activity), create your own system. But if you are more interested in customizing than building from scratch (i.e. you just want a system to deliver your setting or specific mechanical ideas), consider using a flexible framework like [BRP](https://www.drivethrurpg.com/en/product/431991/basic-roleplaying-universal-game-engine) or some other open license hackable system. 
 
-#### **Step 1: Start with a Small Design**
+##### **Step 1: Start with a Small Design**
 
 Just do it. The biggest benefit of beginning small is that you will actually finish something. A short project is manageable, gives you a writing sample for the future, and avoids the common trap of biting off more than you can chew. Many designers abandon their first projects because the scope was too large. Starting small helps prevent that.
 
@@ -217,7 +217,7 @@ The principle can be seen in the video game [*Legacy of Kain: Soul Reaver*](http
 
 In short: beware scope creep. You can under-design a system, but bloated design is a far more common problem, and one that will derail your project quickly. 
 
-##### The Importance of World Building in System Design
+###### The Importance of World Building in System Design
 
 System design is world building. Rules define what is and is not possible in a game world, and traditional world building will directly shape the values, goals, and intent of your system.
 
@@ -241,7 +241,7 @@ Practical tools can help. Create vision boards ([Pinterest](https://www.pinteres
 
 In most cases it’s best to not consider that your first or any design will be a gold mine that will compete financially with corporate giants in the industry of TTRPGs. In many cases “finishing the design” and “having my name on a finished product” are likely your best goals starting out. Things like any degree of financial success that looks like financial freedom, for most, is not a reasonable expectation for a starting hobbyist. The important thing is that you know what you want to achieve. Maybe it’s just a game with a neat new mechanic you dreamed up, maybe it’s just to have something you can play with your friends at your gaming table that you all find fun. It doesn’t matter exactly what the goals are, so long as you understand what they are and have realistic expectations regarding them. 
 
-##### Why you shouldn’t expect your first game to gain massive appeal/attention/sales
+###### Why you shouldn’t expect your first game to gain massive appeal/attention/sales
 
 * An estimated \~20 games/systems per calendar day are launched daily, with an expected 12 of those being English speaking.\*  
 * Many of these are made by individuals or full teams of educated professionals with decades of experience (and many times those fail to gain traction).  
@@ -271,13 +271,13 @@ In most cases it’s best to not consider that your first or any design will be 
 
 **Take Away:** The only really, truly good reason to make your game is because you have an idea that isn’t better served elsewhere and want to see that game made, AND, because you enjoy the act of making it. If those reasons aren’t both true for you, consider finding a better system fit to houserule or hack (extensively house rule/reinterpret) for use, it’s far easier to do with much less effort and skill level required. Any other reasons or expectations for engaging with TTRPG System Design are likely to be folly. 
 
-##### Spectacle Vs. Substance
+###### Spectacle Vs. Substance
 
 While it is true that players buy with their eyes first, and largely if you want commercial success you need to meet certain art, layout, and general polish standards (and even if you aren’t seeking commercial success these things will only help your system’s circulation and adoption rates), it’s important to remember that this alone is not enough to carry a system. You still need substance and while players will tolerate a certain amount of bad design (which is why players will home brew rules and world build custom settings they find to be of better use) they will reach a critical point where your game is no longer a game they will want to play and is instead mined for content ideas and is otherwise relegated to the shelf, closet, attic, or external HD to collect dust. You’re going to want both substance and spectacle if you want your game design to exist meaningfully beyond your personal playgroup. 
 
 Also keep in mind that there is nothing new under the sun. There’s a strong chance that if you think you created something “new” in TTRPG design, no you didn’t. This isn’t to say this is impossible, but the industry is iterative, not one rooted in invention. The basics of most things have all been mapped out in decades past, and while once a decade or so some individual brings a new idea into the fold, there’s a much stronger chance that idea will come from someone who is a career professional with years of industry experience rather than a first time designer.  All of this is to say, don’t fall into the illusion that what you are doing is new. That doesn’t mean it’s not a unique take on an old idea, but there’s a significant chance whatever you thought up in your first several years of doing this have already been done elsewhere to some extent.  Lastly, don't forget the mantra: Execution \> Premise.
 
-##### General Guidelines for Systems Design and Rules Crafting 
+###### General Guidelines for Systems Design and Rules Crafting 
 
 **Writing a rule:**  
 1\) Clarity, the rule must make sense to the reader. This starts with understanding the purpose of the rule.  
@@ -355,7 +355,7 @@ Another important but more abstract bit is something I call how to bake rules, a
 If you’d like to view the full discussion with myself, Dr. Ben, and Peter (Tales from Elsewhere): [PART 1](https://www.youtube.com/watch?v=aM7vJ0ZinNk&ab_channel=TalesfromElsewhere) , [PART 2](https://www.youtube.com/watch?v=y8HXpj8Gi3g&ab_channel=RPGPHD)  
 Just be aware this is an especially long TTRPG design discussion (4 hours in total), but I’d argue, is a particularly great one.
 
-#### **Step 3: Establish your Design Values**
+##### **Step 3: Establish your Design Values**
 
 Design values are your compass. They help prevent design decision paralysis, keep scope in check, and clarify what your game is about. Early on, your values can be as simple as six or more adjectives that describe the kind of experience you want to create. These will evolve over time, but starting with them will make design decisions easier.
 
@@ -395,7 +395,7 @@ Remember that size and bloat are different. Size is word count. Bloat is *unnece
 * Avoid repetition/duplication/extensive overlap in skills, combat, or other mechanics. Variety keeps play engaging.  
 * Be cautious when mixing unrelated ideas. Not all good concepts belong together. Use playtesting to confirm whether they fit.
 
-##### Gimmick Concerns
+###### Gimmick Concerns
 
 At this stage it is worth addressing a common trap: “You don’t need a gimmick… sort of.” Many new designers fixate on inventing a gimmick that will make their game stand out. The problem is that unique does not automatically mean good or useful.
 
@@ -416,7 +416,7 @@ Creativity is not magic or innate talent. It is a skill that strengthens with pr
 9. Apply what you learned and repeat the process until you are satisfied.  
 10. Celebrate the result once it feels right.
 
-##### Balance in a Vacuum is Useless
+###### Balance in a Vacuum is Useless
 
 Just like gimmicks, balance often receives too much attention from new designers. Balance alone is not fun, if you don’t believe me, watch [this video](https://www.youtube.com/watch?v=bsC8io4w1sY) (I’d also recommend it either way for any TTRPG designer). What matters most is whether your game is engaging and exciting/fun. Balance comes second. Treat mechanical balance as a tool rather than a destination. 
 
@@ -428,7 +428,7 @@ For numeric balance, start small. If you are torn between giving a \+2 or \+3 on
 
 Ultimately, balance only makes sense in context. A brutal horror game like *Call of Cthulhu* or *Warhammer 40K* expects high failure rates and death. A superhero or anime-inspired game may expect near-immortality and over-the-top physics. Both can be fun, but each requires a different balance philosophy. Tie your approach to your product identity and intended play experience. Balance is important, but “fun” should always come first.
 
-##### Be Mindful
+###### Be Mindful
 
 Promote a healthy TTRPG design space. Consider the social ramifications of your design and, when appropriate, seek perspectives from sensitivity readers. Remember one of the two worst outcomes in design: creating content that harms others or encourages harmful attitudes. This does not mean that games must avoid difficult subjects, only that designers should approach them thoughtfully and responsibly. Here’s some key points to help you avoid pitfalls if this isn’t immediately clear and obvious or you feel yourself wanting to push back:
 
@@ -448,7 +448,7 @@ Promote a healthy TTRPG design space. Consider the social ramifications of your 
 
 **Key Takeaway:** Genuine inclusivity isn’t about pleasing everyone or performative posturing. It’s about making thoughtful design choices, giving players tools, and committing to continual learning.
 
-##### Refining the Elevator Pitch
+###### Refining the Elevator Pitch
 
 Once you understand what your game is supposed to be in concept it’s time to put together an elevator pitch to help guide you as a mission statement and draw attention to your product/give you a way to talk about it with others. You might think you should design the game before that, but that usually works against you. Do this first (and amend if needed) so you can meaningfully talk about your design with appropriate context ASAP (to get good feedback you need to be able to thoroughly explain what the game is supposed to be, otherwise others are using their best guess).
 
@@ -473,7 +473,7 @@ Notice a few things about the post:
 
 Your elevator pitch might be more or less further along in development, but the point is that it should do at least the first one of those to be able to communicate and drum up interest about your project, starting with inspiring yourself. If you can’t explain why your game is exciting and interesting and worthwhile, who can? You need to understand the value proposition of your game and be able to effectively communicate it as soon as possible as this not only helps generate interest/community early, but it also helps work as another lens to filter your design choices.
 
-#### **Step 4: Determine the Basics**
+##### **Step 4: Determine the Basics**
 
 Start by answering two simple but essential questions:
 
@@ -505,7 +505,7 @@ With that in mind, here are some common categories of resolution engines to cons
 * **Narrative Focus**: Minimal tracking, relying on algorithms, GM negotiation, and/or collaborative storytelling.  
 * **Hybrids**: The most common approach, mixing elements of the above.
 
-##### Designing your CRM
+###### Designing your CRM
 
 Which CRM (core resolution mechanics) dice should You choose? You don’t have to use dice at all, but percentile (d100) is often the best starting point. With a d100 you can map probabilities first while designing as a simple percentage without having to worry about solidifying your CRM just yet, then later convert those odds into whatever resolution engine you want, single rolls, dice pools, cards, marbles, even bidding systems (though those are trickier). This saves time by focusing on probability and outcomes before worrying about dice structures. Not every mapping will be exact (non–base 5 or 10 dice like d6, d8, or d12 rarely line up perfectly), but you can usually get close enough, and adjust further with pools.
 
@@ -538,7 +538,7 @@ These principles apply to any resolution tool, dice, cards, tokens, or others. W
 
 A brief historical note: in the 1980s, many games leaned heavily on use of the d6 because it was universally available in most homes included in popular board games people were likely to have as hobby stores that carried sets of polyhedral dice were often inaccessible (this was most popularly pushed by GURPS). That’s no longer relevant. Polyhedral sets are cheap (full sets can be purchased online for as low as 1 cent, the shipping costing more than the product), widely available for free online in most search engines (type “roll 3d6” in your search engine of choice, it probably does this), dice rollers are commonly built into website playspaces, downloadable apps,  and VTTs for free. Further, digital dice rollers can often emulate even more dice combinations like rolling a d57 (if you have such a need). Accessibility is not a valid reason today to restrict yourself to d6-only design. Use it only if it genuinely fits your design’s desired feel, not because of outdated accessibility assumptions.
 
-##### Edit Down Your Work
+###### Edit Down Your Work
 
 *“Refrain against overt utilizations of superfluous and extraneous verbosity when a singularly unloquacious and diminutive linguistic expression will satisfactorily accomplish the contemporary necessity.”*
 
@@ -562,7 +562,7 @@ Complexity, choice, and "realism" in a general RAW (rules as written) feel is AT
 
 As a quick note here I would recommend [THIS Video](https://www.youtube.com/watch?v=GSc0t8vk-gI) as a general overview of Realism vs. Authenticity and Consistency.
 
-##### Generating Lore
+###### Generating Lore
 
 As mentioned in Step 1, it’s best to work on lore before diving too deeply into the rules. There’s no “correct” amount of lore, but a good guideline for a core rulebook is this: give a short vibe-setting description at the front, keep the big lore dump in the back, and scatter smaller lore pieces throughout the text where they support rules or examples. Supplements work differently, they should match their own design goals, whether that’s expanding the setting or drilling into a specific aspect of the game, or being mechanics focused, etc.
 
@@ -575,7 +575,7 @@ Endless fact lists that must be memorized tend to discourage play by creating ba
 
 The best lore gives players and GMs room to decide what they want to include, sparking creativity and ownership. Details are fine, but keep flexibility so players can easily carve out a place for themselves in your world and GMs have space to adapt minutia to make it their own.
 
-##### Good vs. Bad Mechanics
+###### Good vs. Bad Mechanics
 
 A mechanic can be “bad” for many reasons, but the real measure comes down to your design values and how well you can articulate *why* a mechanic belongs in your game. “Why” is usually more important than “what” or “how.” Reasonable minds will disagree, but the key is clarity of purpose.
 
@@ -600,7 +600,7 @@ Finally, be cautious with overreliance on math or statistics. Numbers only matte
 
 As a common example of use of bad statistics, citing medieval accuracy is irrelevant in a world with dragons and spellcasters. Research your influences, but always filter them through the lens of your game’s reality and desired tone.
 
-#### **Step 5: Determine your Game Modes**
+##### **Step 5: Determine your Game Modes**
 
 A game mode in the context of a TTRPG is any distinct phase of play where different rules apply. Modes often define how time flows are measured (dilation or contraction), what actions players can take within the mode, and may affect how resolution is handled.
 
@@ -641,7 +641,7 @@ This prevents overlap and confusion when rules “bleed” into each other. It a
 
 You don’t need to use all of these. What matters is having an explicit answer, even if that answer is, “This game doesn’t use that mode.”
 
-#### **Step 6: Determine your Sub Systems**
+##### **Step 6: Determine your Sub Systems**
 
 For larger systems, decide early whether you want modular subsystems. These are self-contained rulesets that reference themselves (and often the core resolution engine), but don’t depend on other subsystems. The benefit is flexibility, tables can choose to use or ignore them depending on player needs. For example, a hacking mini-game might only apply if someone is playing a hacker.
 
@@ -672,7 +672,7 @@ You won’t get every subsystem right on the first pass. Some may get cut, other
 
 You don’t need all of these. But you *do* need clear answers for each, even if the answer is, *This game does not include that subsystem.*
 
-#### **Step 7: Designing your Systems**
+##### **Step 7: Designing your Systems**
 
 At this stage, you’re taking your decision engine, applying it to each game mode or subsystem, filtering it through your design values, and balancing until you’ve achieved the intended play experience. That’s the whole process in its simplest form.
 
@@ -696,7 +696,7 @@ Once you know the variables, the job becomes mostly about form filling and balan
 
 After each test, identify pain points, adjust solutions, and test again. Rinse and repeat. With each iteration you’ll inch closer to  the best version of your playable demo.
 
-##### Naming Conventions
+###### Naming Conventions
 
 A naming convention is just a set of rules for naming things consistently. The question is usually framed as: should names be clear and easy to understand, or thematic and immersive? The real answer is both, like peanut butter and jelly, the balance just depends on how much of each you can merge effectively.
 
@@ -711,7 +711,7 @@ Audience also matters. For example, my current project leans into espionage. If 
 
 General Guideline: add as much atmosphere as you can without losing accessibility for your audience. And don’t rename things simply to be different (have a thematic reasoning). If a common, established term already describes your mechanic perfectly, use it. That makes onboarding new players easier.
 
-##### Using A.I. for Working Through Ideas
+###### Using A.I. for Working Through Ideas
 
 **Absolute Basic Rules for AI use:**
 
@@ -773,7 +773,7 @@ This is less of a misconception and more of a reality check. Every tool, EVERY T
 **Additional Concerns with AI Usage**  
 Any use of generative AI in the final TTRPG production workflow (particularly regarding image generation) is still currently very much disliked very vocally by many.  In extreme cases this has even led to death threats to people who openly label their TTRPG product as having used AI assets and gave it away for free in more than one instance. If further clarity is needed: death threats and harassment are not acceptable behavior and that kind of activity is indefensible. This is very slowly changing as people are starting to become more concerned about larger issues rather than AI existing as a fact of matter, and becoming more educated about it. To that end, here's [an article](https://medium.com/@markus_brinsa/between-idealism-and-reality-ethically-sourced-data-in-ai-9138446d2a5c) you can use to be better informed when speaking about ethical data claims and AI, please consider that essential reading if you choose to use it. If you do use AI in your workflows be sure to indicate how much, where, and why so that others can make informed decisions if they would like to purchase. Additionally, it’s not at all uncommon to find that even when confronted with scientific papers as evidence as I’ve linked above, and articulately and thoughtfully responding to all concerns, that some people will not change their minds in light of expert evidence and will choose to be very angry about AI not matter what you say. This should not be shocking if you’ve ever argued with anyone on the internet that insisted they were right even when you functionally proved their argument to be invalid. In those cases it’s best to identify early and move on so as not to waste your own time.
 
-##### Understanding What has Come Before
+###### Understanding What has Come Before
 
 The best way to improve at design is to study what has come before. This means both understanding the design conventions past games established and seeing how later systems iterated on them. The most direct way to do this is to **read and play many different kinds of games**. While TTRPGs should be your main focus, don’t ignore board games, video games, or card games—each offers valuable lessons you can adapt to RPG design. Inspiration can come from anywhere.
 
@@ -909,7 +909,7 @@ Shadowdark is generally best loved for its OSR style (though disputes of if it i
 
 *Further Reading:* While we’ve covered a significant portion of the most widely represented games with specific design values to give, once you are sufficiently familiar with their mechanical strengths and weaknesses as a basic primer, be sure to investigate niche indie publications.  Frequently cult classic games with minimal production values will often be home to some of the weirdest, most interesting/inspiring, and experimental mechanics that you might be able to polish just right to suit your game’s specific needs.
 
-##### Think Like a Designer
+###### Think Like a Designer
 
 *According to wikipedia: “Design thinking refers to the set of cognitive, strategic and practical procedures used by designers in the process of designing, and to the body of knowledge that has been developed about how people reason when engaging with design problems. Design thinking is also associated with prescriptions for the innovation of products and services within business and social contexts.”*
 
@@ -948,7 +948,7 @@ Additional Notes:
 
 ![][image6]
 
-#### **Step 8: Play Testing**
+##### **Step 8: Play Testing**
 
 ![][image7]
 
@@ -1060,7 +1060,7 @@ Near the end of alpha, combine your current playtests to prepare a sample advent
 * **Motivation:** Clarify why players choose *your* game over competitors. What’s your hook?  
 * **Engagement:** Track when players are most absorbed vs. when their attention drifts. Reduce downtime, maximize table engagement.
 
-##### Do Not Attempt to Design the Perfect Game
+###### Do Not Attempt to Design the Perfect Game
 
 As noted back in Step 0, perfect is the enemy of good. Another lesson, borrowed from the AAA video game industry, is that the bigger the net you cast for your audience, the more bland, shallow, and forgettable the experience becomes (Ubisoft games, particularly franchises like Assassin’s Creed and FarCry tend to have the most extreme criticisms of increasingly watered down designs with year after year entries).
 
@@ -1070,7 +1070,7 @@ Your job as a designer is to lean into your game’s inspired bits—the unique 
 
 You can always compromise later if you’re old, gray, and ready to sell the rights to your system for a cash grab payout to sip Mai Thais on a tropical beach. But while your name is on the cover, especially when starting out, integrity matters. Your game should be something you’re proud to point at and say, “that is mine, it’s fun, and I think you’ll like it” with confidence.
 
-#### **Step 9: Editing, Layout, Art Direction, Character Sheets and UX**
+##### **Step 9: Editing, Layout, Art Direction, Character Sheets and UX**
 
 By now you’ve tested your game to death and are ready to move from demo into a release-ready product. As the old saying goes: the last 10% of production is 90% of the work. Some stuff for professional grade will cost you money. Do as much as you can for free, but don’t skimp on the important bits.
 
@@ -1216,7 +1216,7 @@ Additionally don’t overlook basic navigation features either, such as side mar
 3\. Layout and graphic design rules as listed by various tutorials are there much in the same ways as musical theory rules.  They are a foundation to build knowledge upon, but are largely suggestions and it’s OK to break those rules with style, provided you understand and know what they are and why they exist to begin with.  See Mork Borg and similar X-Borg games for games that radically break many layout design rules and still manage to have excellent layouts. See Shadowdark for excellent examples of best practices layout.  
 4\. Print on demand is a great economic option for things like drive thru if you can’t afford printing.  It is not a great option for high quality printing of a collector’s tome. If you are going to print books with a professional, seek to budget for offset printing rather than limited small runs to get far better deals.
 
-#### **Step 10: Marketing, Advertising and Beyond**
+##### **Step 10: Marketing, Advertising and Beyond**
 
 Marketing doesn’t begin after your game is finished, it should start the moment you commit to making a system (I told you to start on this at the beginning of the guide, I hope you listened). Build awareness early: put up a splash page, collect emails from interested players, start a Discord server, and present yourself as a TTRPG designer. Even small steps like getting playtesters streaming your game or reaching out to content creators can pay dividends.
 
@@ -1266,7 +1266,7 @@ But VTT module development is expensive and usually out of reach for first-time 
 
 Currently, only the largest systems are expected to have full VTT integration. Still, having fillable online character sheets is becoming a baseline expectation. Even without a VTT module, don’t skip this.
 
-##### Hiring Other Writers/Artists
+###### Hiring Other Writers/Artists
 
 The TTRPG industry is small. Reputations—good or bad—travel fast. If you hire others, treat them with respect and professionalism. I’ve been on both sides of the table, and here’s what matters:
 
@@ -1294,7 +1294,7 @@ The TTRPG industry is small. Reputations—good or bad—travel fast. If you hir
 * **AI use.** Ask openly about AI in their workflow. AI can be a tool, but copy-paste use may raise copyright/ownership issues. Establish expectations clearly by having a clear AI policy.  
 * **Scheduling.** Ask how much time they can realistically devote per week so deadlines are achievable.
 
-##### How Long is a Game?
+###### How Long is a Game?
 
 **Short answer:** As long as it needs to be, but no longer.
 
@@ -1325,7 +1325,7 @@ The reason is partly cognitive load:
 
 **Takeaway:** Break your large system designs into manageable volumes. You’ll help players learn more naturally *and* avoid triggering the “too big/expensive to start” reaction.
 
-##### Selecting your Storefront
+###### Selecting your Storefront
 
 There are presently 2 major online distributors of indie creators in the English speaking internet unless you are big enough as a creator to have your own proprietary storefront.  
 The first and best known is Drive Thru RPG.  They are known for getting the most business and traffic but they will take a steep cut and will push for exclusivity of your title.  I believe the current numbers are 30% non exclusive, 20% exclusive, but don’t quote me.  
@@ -1335,7 +1335,7 @@ I’ll also make an honorable mention for Hedron as a growing store front as wel
 
 You can also set up your own webstore on your site (do not expect this to pay for itself without sufficient market penetration) and offer hard and digital copies on Amazon and other bookstores.
 
-##### Doing your first Convention
+###### Doing your first Convention
 
 Conventions are equal parts advertising, networking, community-building, and exhausting. Sales are nice, but the main goal is exposure early on. Treat it as a long party where you meet people, make connections, and share what you’ve made.
 
@@ -1374,7 +1374,7 @@ Conventions are equal parts advertising, networking, community-building, and exh
 
 * **Sleep matters.** Day 2 often outperforms Day 1\. Attendees buy what they came for first, then spend extra money on impulse buys the next day, so be rested.
 
-##### Expectations of duties for solo publishing and professional production
+###### Expectations of duties for solo publishing and professional production
 
 So you’ve decided to make your game a professional product for release.  That’s great, but it’s very different from making your own home game or an indie free/PWYW game. If what follows looks like a lot of work, that’s because it is and why so few achieve this level of production.
 
@@ -1475,7 +1475,7 @@ Project Manager:
 * Engagement and relationship building with supporting content creators  
 * May include technical skills/positions for higher budget productions (such as lets-plays with paid actors that have makeup and wardrobe done, lighting, camera, digital techs, etc.)
 
-##### Pricing your product as a small company
+###### Pricing your product as a small company
 
 1. Account for total COGS (cost of goods sold). This is your total manufacturing, shipping, etc.  Whatever it costs to put a product in the hands of a consumer.  There are different ways to account for this, but in the end it doesn’t matter how you classify your expenses for various tax purposes as long as you determine your COGS per unit (which varies per product). Notably this does not include standard overhead, but does include specific commissioned costs.  
 2. Determine your MSRP (manufacturer’s suggested retail price).  In most cases this will be between 5x to 10x your COGS, and it varies a bit by MSRP and how slim your margins are.  On average 7x will be a healthy growth rate, while it’s more ethical and sustainable to lower your multiplier for larger scale and pricier products, while very cheap products might be on the higher side to make it worth producing at all, depending on audience size.  Keep in mind you do not make the MSRP unless you sell it directly (ie from your personal website or at a convention).  
@@ -1490,7 +1490,7 @@ Project Manager:
 
 *Side note: As of writing (2025) US tariffs which affect the global economy are shutting down many small indie TTRPG companies and major ones “may survive” but may not due to massive increase in manufacturing costs. This is likely to mean as a starter indie developer you might want to focus on PDF sales vs. physical products until the situation changes or dream up an alternate strategy if you know better.*
 
-##### Closing Thoughts
+###### Closing Thoughts
 
 If you’ve made it through this guide and absorbed its contents, you now have a solid foundation for your journey as a designer. But remember: this is only the beginning. These are the basics—what I call the “general wisdom.”
 
@@ -1502,7 +1502,7 @@ The real key to thinking like a designer is to go deeper: ask *why*. Why did thi
 
 That’s the big takeaway: why a design decision was made is almost always more important than what the decision was.
 
-##### Additional Resources
+###### Additional Resources
 
 Free Software to consider:  
 GIMP, Midjourney, Scribus, Google Docs

@@ -1,5 +1,5 @@
 
-# Vagabond Spells
+## Vagabond Spells
 
 | Bard Level | Spells                 |
 | ---------- | ---------------------- |
@@ -9,9 +9,9 @@
 | 7th        |                        |
 | 9th        |                        |
 
-# Skill Training
+## Skill Training
 You gain training in Survival and 1 additional skill of your choice. 
-# Travelers Tale
+## Travelers Tale
 **Tag:** #PerformingArt 
 **Aura:** 30 feet
 **Targets:** a number of allies equal to your Charisma modifier
@@ -19,9 +19,9 @@ You gain training in Survival and 1 additional skill of your choice.
 You spin a tale of your grand adventures battling a mighty foe. Make a Bardic Lore recall knowledge check on an enemy you can see. On a success, you select a part on the creatures body and designate it as the monsters weak spot. Allies that start their turn within the Travelers Tale’s aura gain the [[01 Condition#Inspired|Inspired]] condition. While [[01 Condition#Inspired|Inspired]] they can attempt to attack the creatures weak spot within the next 10 minutes, taking -5 penalty to the roll. If the attack is a hit, it becomes a critical hit instead. Once they attack in this way, they are no longer [[01 Condition#Inspired|Inspired]]. If a creature is already [[01 Condition#Inspired|Inspired]], they cannot be [[01 Condition#Inspired|Inspired]] again. 
 
 A creature can benefit from Travelers Tale a number of times equal to half your level (rounded down). They are then immune to its effects for 1 hour. 
-# Polyglot Magic 
+## Polyglot Magic 
 At 3rd level, your travels have provided you insight into the magical worlds of other spellcasters. You learn two additional sources from any magical tradition. A source you choose must be of a level you already have access to. These sources don’t count against your maximum sources. You can change which two sources you have access to on a level up. 
-# Lay of the Land
+## Lay of the Land
 At 6th level, your extensive travels have granted you an encyclopedic memory of terrain, settlements, and the hidden quirks of the natural world. When you enter a new area or at the start of combat, you may make a Bardic Lore recall knowledge check about your current terrain as an action.
 
 **On a success**, you recall one of the following benefits of your choice:
@@ -37,11 +37,11 @@ At 6th level, your extensive travels have granted you an encyclopedic memory of 
 **On a critical success**, you may choose two benefits instead of one.
 
 You can use this feature a number of times equal to your Charisma modifier, regaining all uses on a [[Long Rest]].
-# Borrowed Power
+## Borrowed Power
 At 9th level, you have collected fragments of knowledge about magic items from across the world. Once per long rest you can recall the properties of a magic weapon, armor, or wondrous item you have previously encountered or have heard stories about and temporarily replicate one of its non-passive properties for 8 hours. Make Bardic Lore recall knowledge check against the item DC of the magical item. On a success, you imbue these properties on an item that is thematically similar to the one you remember (i.e a Flaming Great sword would be imbued on a mundane great sword). 
-# Subclass Identity
+## Subclass Identity
 Could be about Gaining features or spells from other classes similar to Lore bard. 
-### What unique aspect does this subclass emphasize?
+#### What unique aspect does this subclass emphasize?
 Your travels give you access to knowledge about locations, creature's and items and perks at different levels
 
 

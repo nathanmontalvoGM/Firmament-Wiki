@@ -9,5 +9,5 @@
 
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or sickened.
 
-# Note
+## Note
 might adjust conditions that can be removed

@@ -8,12 +8,12 @@ Each class will list what Facets it has access to and when you get new ones.
 each feat must have one target and can't have more than one.
 
 a feat can have multiple behaviors
-# Fundamental
+## Fundamental
 A feat’s **Fundamental** defines what the feat broadly does. This portion of the feat never changes and establishes its role in play.
 
-# Facets
+## Facets
 Here are list of possible facets associated with feats. A feat will list its modifiable facets at the top of its description. These facets will already have values but they can be modified with behaviors. 
-## Target
+### Target
 The range of the feat, how the feat manifests, and what it can affect. If the feat has an area, it affects every creature in the area defined by the feat. If it has targets, it affects the specific targets described by the feat. A feat can have only one target facet.
 
 Here is a list of every possible target type a feat could have:
@@ -27,19 +27,19 @@ Here is a list of every possible target type a feat could have:
 | Touch    | Affects a a single target within 5ft.                                             |
 | Selected | Affects a single target within range.                                             |
 
-## Behaviors 
+### Behaviors 
 How does this feat behave or react. This facet determines the alterations made to the feat when it is used. Maybe its effects linger for an extended duration or effect others in a violent ways. Listed below are all the available behaviors a feat can have.
 
 You don't start with all behaviors at your disposal. Instead, you start with a limited amount determined by your class.  
 Behaviors will increase in power as you level up, as listed in your class. Reference these newer value provided by your class over the ones listed here.
-### Anchoring
+#### Anchoring
 
 The effect hinders movement.
 
 Alters:
 * The target must succeed on a dexterity [[saving throws]] vs your Class DC or be [[01 Condition#Slowed|Slowed]].
 
-### Chaining
+#### Chaining
 
 After affecting the initial target, the effect jumps to another valid target. If the feat required an attack roll, the second attack is made with [[Multiple Attack Penalty]]. This range is 30 feet.
 
@@ -50,7 +50,7 @@ Alters
 - **Flat Modifier:** Secondary target receives half the modifier (rounded down)
 - **Cost:** +1 action (cannot be selected if Cost is already 3 actions)
 
-### Creeping
+#### Creeping
 
 The effect is delayed, but intensified. The feat resolves at the start of your next turn instead of immediately. You must still pay its full action cost this turn.
 
@@ -59,13 +59,13 @@ Alters
 * **Vitality Dice:** Increase all Vitality Dice by 1 step (to a maximum of a d12).  
 * **Flat Modifier:** The bonus is increased by half (rounded down).
 
-### Draining
+#### Draining
 
 The feat siphons vitality or strength.
 
 Alters
 * **Vitality Dice:** heal half the damage dealt as vitality.
-### Echoing
+#### Echoing
 
 The effect repeats at reduced strength on the following round. 
 
@@ -73,14 +73,14 @@ Alters:
 - **Strike Dice:** Repeat the effect at half action cost (min 1); reduce die step by 1 (min d4)
 - **Vitality Dice:** Repeat the effect at half action cost (min 1); reduce die step by 1 (min d4)
 
-### Extended
+#### Extended
 
 The feat reaches farther than normal.
 
 Alters  
 **Reach:** The range of this effect is doubled. If it normally has a range of touch, it is instead 30 feet.
 
-### Focused
+#### Focused
 
 **Prerequisite:**  The feat would target multiple targets.
 
@@ -92,18 +92,18 @@ Alters:
 - **Strike Dice:** Increase die step by 1 (maximum of 12)
 - **Vitality Dice:** Increase die step by 1 (maximum of 12)
 
-### Grasping
+#### Grasping
 
 The target(s) is [[01 Condition#Slowed|Slowed]]
 
-### Hardened
+#### Hardened
 
 ooga defense 
 
 **Alters:**
 
 - **Flat Modifier:** Increase targets AC by 1
-### Inverted
+#### Inverted
 
 The feat produces the opposite outcome, but is weakened.
 
@@ -112,26 +112,26 @@ The feat produces the opposite outcome, but is weakened.
 **All Rolls:** Halved (rounded down)
 
 
-### Lingering
+#### Lingering
 
 The feat lasts for 1 additional round after it would normally end.
 
 Alters:  
 **Duration:** Increase the duration by 1 round.  
 
-### Mobile
+#### Mobile
 
 The effect follows its target.
 
 **Alters:**
 - **Duration:** The feat now requires the [[Focus]] action and it lasts 1 minute. Effect lasts as long as the target remains within the casting range
-### Overwhelming
+#### Overwhelming
 
 The feat pushes through defenses.
 
 **Flat Modifier:** Reduce the targets cover by one level. If the target is not benefiting from [[Cover]], they are [[01 Condition#Off-Guard|Off-Guard]] instead.
 
-### Protecting
+#### Protecting
 
 Pick a target within 30 feet.
 
@@ -141,13 +141,13 @@ The effect manifests both mentally and physically.
 
 **Strike Dice:** Roll one additional effect die and deal either physical damage or mental, the opposite of what the feat did.
 
-### Rending
+#### Rending
 
 The feat tears at the target over time.
 
 Deal 1d4 persistence damage on the target. The damage type is the same as the feats **Strike Dice.** If no strike dice is listed, deal bleed damage. 
 
-### Sacrificial
+#### Sacrificial
 The feat feeds on the user.
 
 
@@ -157,7 +157,7 @@ The feat feeds on the user.
 - **Vitality Dice:** Increase die step by 1 and add 1 Vitality Dice
 - User takes damage equal to 1 Strike Die
 
-### Violent
+#### Violent
 
 **Prerequisite:** The feat is volatile or unstable.
 
@@ -165,44 +165,44 @@ The feat feeds on the user.
 
 ---
 
-## Action Cost
+### Action Cost
 How many actions the feat will cost to cast. More actions results in a more target options while less actions means the feat will be more limited.
 
-### 1 action
+#### 1 action
 Target Types:
 * Touch
-### 2 action
+#### 2 action
 Target Types:
 * Touch
 * Selected
 * Burst
-### 3 action
+#### 3 action
 Target Types:
 * All
-## Stability 
+### Stability 
 The volatility of a feature. The more stable a feature the more consistent its effects but they don't gain benefits from critical specialization success effects. Conversely, the more unstable a feature becomes, the bigger the upsides and downsides become. 
 
 Feat stability will only be listed on feats can benefit from it. If a feat does not list **Stability** in its description, it cannot be altered in this way. A feature is always assumed to be stable and increasing its instability is optional. 
 
-### Stable
+#### Stable
 Stable feats are well-understood and reliable. All feats are stable to start unless otherwise stated. 
 
 
 Stable feats are unremarkable and don't carry critical effects on success or failure. On a failure, the feat has no effect, but it does not produce backlash or unintended consequences. 
-### Volatile
+#### Volatile
 Volatile spells are powerful but temperamental, reacting unpredictably when mishandled.
 
 When you fail to cast a volatile spell, the spell’s effect is weakened, distorted, or redirected. Volatile spells always have a critical success effect but also a critical failure effect. On a critical failure, the spell produces a backlash, such as damaging the caster, affecting an unintended target, or imposing a condition.
-### Unstable
+#### Unstable
 Unstable spells have the most potential for success and failure
 
 Unstable spells always have a critical success effect but also a failure and critical failure effect. On a critical failure, the spell’s magic turns against the caster or the environment, causing severe backlash, lingering effects, and lasting consequences to your character.
 
-## Power Budget
+### Power Budget
 Each feat has a **Power Budget**, representing how much customization it can support.
 
 Facets and their options consume points from this budget. You cannot exceed a feat’s Power Budget unless said otherwise.
-# OLD
+## OLD
 Feats can have prerequisites associated with them, here are list of possible prerequisites associated with feats.
 * **Class.** Certain feats are only available to certain classes. Mostly seen with class feats.
 * **Level.** All feats have a level requirement before taking them. You can take a feat of lower level at a higher level but never a feat of higher level at a lower one.

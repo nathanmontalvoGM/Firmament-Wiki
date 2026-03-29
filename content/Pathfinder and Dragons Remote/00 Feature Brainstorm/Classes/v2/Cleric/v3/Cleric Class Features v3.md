@@ -1,4 +1,4 @@
-# Notes
+## Notes
 * DND cleric seems to be built with more durability in mind while pf2e doesn't get any armor proficiencies
 * This iteration will lean into DND's version of cleric
 * unhappy with the turn undead feature, I would replace this 
@@ -17,12 +17,12 @@
 | 10th  |                                                                                                                                                                                                                             | 5              | 4   | 3   | 3   | 3   | 3   |
 **Key Ability:** Wisdom
 
-# [[Hit Points]] 
+## [[Hit Points]] 
 **Hit Dice:** 1d8 per cleric level  
 **[[Hit Points]] at 1st Level:** 8 + your Constitution modifier  
 **[[Hit Points]] at Higher Levels:** 1d8 (or 5) + your Constitution modifier per cleric level after 1st
 
-# Proficiencies
+## Proficiencies
 **Armor:** Trained in [[Light Armor]], [[01 medium armor]], [[01 Shields]]
 **Weapons:** Trained in all simple weapons and the favored weapon determined by your [[Domain]] (see [[Favored Weapon List]])
 **Tools:** None  
@@ -33,40 +33,40 @@ Trained in one skill determined by your [[Domain]]
 Trained in a number of additional skills equal to 2 plus your Intelligence modifier
 
 
-# Equipment
+## Equipment
 
-# Sources and Behaviors
+## Sources and Behaviors
 At level 1, clerics gain access to the Divine list of sources, gaining access to more powerful sources as listed in their class table. They gain access to other sources as determined by their Domain.
-# Spellcasting 
-# Divine Domain
+## Spellcasting 
+## Divine Domain
 At 1st level, you choose a domain shaped by your choice of Deity and the gifts they grant you. Your choice grants you domain spells and other features when you choose it at 1st level. 
 
 | Domain          |
 | --------------- |
 | [[Life Domain]] |
 
-# Divine Font
+## Divine Font
 At 1st Level, through your deity's blessing, you gain additional spells determined by your domain. You gain 4 additional level 1 spell slots each day. You can prepare only spells within your domain in these slots.
 
-# Favored Weapon
+## Favored Weapon
 At 1st Level, as a symbol of your deity you wield a weapon that represents them. The types of favored weapons you can pick from are determined by your Domain. This weapon is your spell casting focus for casting spells. You can only have one favored weapon that accomplishes this purpose, requiring an [[01 Investment]] slot. You can choose to invest in a different weapon of the same weapon type, losing investment in the original weapon. 
 
-# Channel Divinity
+## Channel Divinity
 At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. The effects of your doctrine are determined by your domain.
-# Cleric Feats
+## Cleric Feats
 At 2nd level and every 2 levels thereafter, you gain a [[Cleric Class Feat]] 
 
-# Skill Increases
+## Skill Increases
 At 3rd level and every 2 levels thereafter, you gain a skill increase. You can use this increase to either become trained in one skill you're untrained in, or become an expert in one skill in which you're already trained.  
   
 You can use any of these skill increases you gain at 7th level or higher to become a master in a skill in which you're already an expert, and any of these skill increases you gain at 15th level or higher to become legendary in a skill in which you're already a master.
-# General Feat
+## General Feat
 At 5rd level and every 5 levels thereafter, you gain an [[Ability Score Improvement]] and a [[General Feat]].
 
-# Perception Expertise
+## Perception Expertise
 at 5th level, you become more alert to threats around you. Your proficiency rank for Perception increases to expert.
 
-# Potent Divinity 
+## Potent Divinity 
 At 8th level, your proficiency rank for your spell attack modifier and spell DC increase to expert.
-# Resolute Faith
+## Resolute Faith
 At 9th level, your belief provides a bulwark against insidious thoughts. Your proficiency rank for Will saves increases to master. When you roll a success at a Will save, you get a critical success instead.

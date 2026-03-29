@@ -25,7 +25,7 @@ If healing restores you to at least 1 hit point:
 
 you regain all lost segments on a [[Long Rest]] 
 
-# v2
+## v2
 as the old version, but you don't fall [[01 Condition#Unconscious|Unconscious]]  and instead you gain the [[01 Condition#Staggered|Staggered]] condition. While you have this condition you only have 2 actions and all your rolls are [[Favored and Hindered(Advantage System)|Hindered]] If you are restored above 0 [[Hit Points]] while you have the [[01 Condition#Staggered|Staggered]]  condition, you increase your death clock by 1 and remove the condition. You're movement speed is also a [[Strained Movement]]. 
 
 This lasts for a number of rounds = to your constitution. Taking damage reduces this by 1 round.

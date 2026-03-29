@@ -1,4 +1,4 @@
-# Likes
+## Likes
 Customizable classes with feats 
 Unique class features and classes. Doesn't feel like "generic fantasy"
 3 action system
@@ -11,7 +11,7 @@ More options in combat then just attacking
 Proficiency system (trained, expert etc.)
 having up to 3 inspiration
 The traits system makes identifying what abilities do easier. Although there might be too many traits in pathfinder 
-# Dislikes
+## Dislikes
 Too many incremental bonus for characters, making levelling up feel less impactful vs. DND
 Circumstance, status and item bonuses don't feel as impactful as something like advantage.
 Too many abilities are very situational and don't feel impactful 90% of the time

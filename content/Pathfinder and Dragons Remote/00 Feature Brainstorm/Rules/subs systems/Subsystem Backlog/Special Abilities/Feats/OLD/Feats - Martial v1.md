@@ -1,14 +1,14 @@
-# Brainstorm
+## Brainstorm
 Magical based characters will have sources that provide really powerful onetime use feat. Martials by contrast, will have less impactful feats but are not tied to a resource. 
-## Feat Types
+### Feat Types
 Feat will have two types: Rudimentary and Flexible
 
 Rudimentary feats cannot be changed and work as written.
 
 Flexible feats can be changed or altered in some way (commonly by Sources or Behaviors).
-## TEML
+### TEML
 All players start trained in a feat when they select it unless otherwise stated.
-## Strikes
+### Strikes
 The core of this new system is this 
 
 Aspects determines the facet of combat you embody
@@ -18,7 +18,7 @@ Strike: how the technique is delivered.
 Fundamental - a constant effect that is unchanged and defines the feat
 
 
-## feat Tag
+### feat Tag
 could provide different constant properties to feats with certain tags
 
 * #Vitality could heal the target
@@ -26,7 +26,7 @@ could provide different constant properties to feats with certain tags
 * #Strike provides a bonus to AC
 
 
-## Power Budget
+### Power Budget
 Instead of points each source and behavior will be given a **Degree of Power**
 These will range from:
 * Minor
@@ -37,18 +37,18 @@ These will range from:
 	* starts out as master
 
 
-# System - Martial
-## Aspects
-### Impact
-#### Overpowering - Minor
+## System - Martial
+### Aspects
+#### Impact
+##### Overpowering - Minor
 
 Dominate through sheer force.
 
 **Master:** Push target 5 ft or knock prone on hit  
 **Legendary:** Push 10 ft, and allies gain Favored vs them
 
-##### WIP
-#### Crushing - Minor
+###### WIP
+##### Crushing - Minor
 
 Once per turn, when you hit with a weapon:
 
@@ -59,9 +59,9 @@ Once per turn, when you hit with a weapon:
 
 ---
 
-#### Rending
+##### Rending
 
-#### Brute - Severe
+##### Brute - Severe
 
 **Master:** [[Favored and Hindered (Advantage System)|Favored]]e increase degree of success on a 5 and 6.
 **Legendary:**  something else
@@ -69,59 +69,59 @@ Once per turn, when you hit with a weapon:
 
 ---
 
-### Tempo
+#### Tempo
 
-#### Rhythm
+##### Rhythm
 
-#### Whirl
+##### Whirl
 
-#### Spiral 
+##### Spiral 
 
-#### Surge
+##### Surge
 
-#### Follow-Through
-### Aegis
-#### Intercept
+##### Follow-Through
+#### Aegis
+##### Intercept
 
-#### Bulwark
+##### Bulwark
 
-#### Bastion
+##### Bastion
 
-#### Sentinel
+##### Sentinel
 
-#### Ward
-### Instinct
-#### Anticipate
+##### Ward
+#### Instinct
+##### Anticipate
 
-#### Impulse
+##### Impulse
 
-#### Alert
+##### Alert
 
-#### Keen Sense
+##### Keen Sense
 
-#### Predator
-### Endurance
-#### Stalwart
+##### Predator
+#### Endurance
+##### Stalwart
 
-#### Resilience
+##### Resilience
 
-#### Immovable
+##### Immovable
 
-#### Iron Will
+##### Iron Will
 
-#### Unyielding
-### Precision 
-#### Deadeye
+##### Unyielding
+#### Precision 
+##### Deadeye
 
-#### Calculated
+##### Calculated
 
-#### Expose
+##### Expose
 
-#### Finishing Strike
+##### Finishing Strike
 
-#### Measured Strike
-## Strikes
-#### Sweeping Strike
+##### Measured Strike
+### Strikes
+##### Sweeping Strike
 **Prerequisite:** Melee Slashing or Bludgeoning weapon.
 
 You can make second attack on a creature within range once per turn. This attack incurs MAP. 
@@ -130,13 +130,13 @@ You can make second attack on a creature within range once per turn. This attack
 **Expert**
 **Master**
 **Legendary**
-#### Bursting Strike
+##### Bursting Strike
 **Prerequisite:** Any weapon.
 
-#### Piercing Strike
+##### Piercing Strike
 **Prerequisite:** Ranged or Melee piercing weapon.
 
-#### Reactive Strike
+##### Reactive Strike
 **Prerequisite:** Melee weapon.
 
 Attacks that use your reaction are more powerful
@@ -146,7 +146,7 @@ Attacks that use your reaction are more powerful
 **Master** - add two additional [[Weapon Dice]] of damage to your opportunity attacks. 
 **Legendary** - This attack gains Favored. Getting a critical hit with this attack increases the die step of all damage dice rolled by one step (maximum of 1d12)
 
-#### Rapid Strike - Severe
+##### Rapid Strike - Severe
 **Prerequisite:** Any weapon.
 
  You reduce the [[Multiple Attack Penalty]] on your attacks  with this feat  by 1 and 2 (meaning you will roll at -4 on your second attack, and -8 on your third). This stacks with the agile weapon characteristic resulting in a -3 and -6 respectively. 
@@ -154,7 +154,7 @@ Attacks that use your reaction are more powerful
 **Master** - your MAP becomes -4 and -8. 
 **Legendary** - Additional effect not related to MAP. 
 
-#### Sundering Strike - Major
+##### Sundering Strike - Major
 
 Make a weapon attack. On hit:
 
@@ -162,39 +162,39 @@ Make a weapon attack. On hit:
 **Master:** Target is also [[F[[[Favored and Hindered(Advantage System)|Hindered]]r next saving throw. 
 **Legendary:** On crit, the target gains weakness 10 to the next source of damage.
 
-### Controls Space
-#### Driving
+#### Controls Space
+##### Driving
 
 pushes target away
 
-#### Pulling
+##### Pulling
 pulls target closer
 
-#### Anchoring
+##### Anchoring
 restricts movement or escape
 
-#### Shifting
+##### Shifting
 repositions the user
 
-### After the thing happened
-#### Guarding
+#### After the thing happened
+##### Guarding
 grants defensive benefit after  
 
-#### Pressing 
+##### Pressing 
 grants advantage on next attack/action  
 
-#### Exposing 
+##### Exposing 
 target becomes easier to hit  
-#### Bolstering 
+##### Bolstering 
 ally gains benefit after  
-#### Recovering 
+##### Recovering 
 restores HP or removes minor condition
 
-### Gambling
-#### Committed
+#### Gambling
+##### Committed
 
-#### Devastating 
+##### Devastating 
 
-#### Swift
+##### Swift
 
-#### Staggering 
+##### Staggering 

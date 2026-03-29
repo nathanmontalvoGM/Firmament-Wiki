@@ -1,3 +1,3 @@
-# Lesser Items
-# Moderate Items
-# Major Items
+## Lesser Items
+## Moderate Items
+## Major Items

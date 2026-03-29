@@ -1,4 +1,4 @@
-# Spells by Tradition
+## Spells by Tradition
 ```dataview
 TABLE WITHOUT ID
   file.link AS "Arcane Cantrips"
@@ -32,7 +32,7 @@ WHERE
 SORT file.name ASC
 ```
 
-# Cantrips by Stability
+## Cantrips by Stability
 ```dataview
 TABLE WITHOUT ID
   file.link AS "Stable Cantrips"

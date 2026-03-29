@@ -9,5 +9,5 @@ Until the start of your next turn, all attacks from your Duel Target lower their
 
 #revision1 #Fighter #FighterFeat #Level10Feat
 
-# Note
+## Note
 Might be too similar to [[10 - Perfect Read]]

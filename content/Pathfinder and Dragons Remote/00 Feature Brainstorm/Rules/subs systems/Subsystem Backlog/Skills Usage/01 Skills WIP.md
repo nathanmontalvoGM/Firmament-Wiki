@@ -1,11 +1,11 @@
-# Strength
+## Strength
 Athletics
-# Dexterity
+## Dexterity
 Acrobatics
 Sleight of Hand
 Stealth
-# Constitution
-# Intelligence 
+## Constitution
+## Intelligence 
 Arcana
 Crafting
 ___ Lore
@@ -13,7 +13,7 @@ Occultism
 Society
 Investigation
 
-# Wisdom
+## Wisdom
 Animal Handling
 Medicine
 Nature
@@ -21,7 +21,7 @@ Religion
 Survival
 
 Perception (has its own section)
-# Charisma
+## Charisma
 Deception
 Intimidation
 Performance

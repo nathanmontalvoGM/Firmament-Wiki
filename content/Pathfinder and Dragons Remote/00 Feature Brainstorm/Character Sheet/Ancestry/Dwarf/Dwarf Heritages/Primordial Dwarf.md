@@ -1,6 +1,6 @@
 You have deep ties to your ancestors and can call on them for aid in times of crisis. You gain the Call on Ancestors feat.
 
-# Call on Ancestors 
+## Call on Ancestors 
 **Trigger:** You fail a d20 roll.
 **Frequency:** Once per hour
 

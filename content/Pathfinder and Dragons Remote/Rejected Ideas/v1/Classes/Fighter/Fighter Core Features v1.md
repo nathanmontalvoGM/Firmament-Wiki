@@ -1,14 +1,14 @@
-# Notes
+## Notes
 
 As a fighter, you gain the following class features.
 
-# [[Hit Points]]
+## [[Hit Points]]
 
 **Hit Dice:** 1d10 per fighter level  
 **[[Hit Points]] at 1st Level:** 10 + your Constitution modifier  
 **[[Hit Points]] at Higher Levels:** 1d10 (or 6) + your Constitution modifier per fighter level after 1st
 
-# Proficiencies
+## Proficiencies
 
 **Armor:** Trained in all armor
 **Weapons:** 
@@ -22,9 +22,9 @@ As a fighter, you gain the following class features.
 **Skills:** Trained in your choice of Acrobatics or Athletics
 Trained in a number of additional skills equal to 3 plus your Intelligence modifier.
 
-# Equipment
+## Equipment
 
-# Discipline
+## Discipline
 You have trained in a specific discipline, adopting it as your fighting style. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again. 
 
 Each discipline has a specific weapon specialization unique to that discipline. Features granted by that discipline may only be used by weapon types specialized in that discipline. 
@@ -35,7 +35,7 @@ Each discipline has a specific weapon specialization unique to that discipline. 
 * [[Great Weapon Discipline]]
 * [[Defense Discipline]]
 
-# Maneuvers WIP
+## Maneuvers WIP
 Your proficiency with weapons within your discipline allows you to perform special maneuvers with them. All maneuvers use the #Maneuver tag. Maneuvers require a trigger to activate called an **Opening.** Regardless of how many openings are available, you may only use one maneuver per turn. 
 
 The rules for openings are as follows:
@@ -49,13 +49,13 @@ Different disciplines allow for different openings to be exploited but all fight
 - The creature is [[01 Condition#Off-Guard|Off-Guard]] to you
 - You force a creature to fail a save (trip, shove, disarm, etc.)
 
-# Opportunity Attack
+## Opportunity Attack
 You can make an opportunity attack when a hostile creature that you can see [moves](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_9) out of your reach. To make the opportunity attack, you use your [reaction](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_8) to make one melee attack against the provoking creature. The attack occurs right before the creature leaves your reach.
 
-# Fighter Feats
+## Fighter Feats
 You gain 1 fighter feat at 1st level. At 2nd level and every 2 levels thereafter, you gain a [[Fighter Class feat]] 
 
-# Martial Archetype
+## Martial Archetype
 At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
 | Archetype       |     |
@@ -65,5 +65,5 @@ At 3rd level, you choose an archetype that you strive to emulate in your combat 
 | Eldritch Knight |     |
 | Combat Medic    |     |
 | Champion        |     |
-# Extra Attack
+## Extra Attack
 at 5th level, you gain an 4th action that can only be used for attacking and doesn't occur multiple attack penalty.

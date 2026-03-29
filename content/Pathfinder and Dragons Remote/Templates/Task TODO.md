@@ -1,5 +1,5 @@
-# 🔴 Critical Tasks
+## 🔴 Critical Tasks
 
-# 🟡 Important Tasks
+## 🟡 Important Tasks
 
-# 🟢 Optional Tasks
+## 🟢 Optional Tasks

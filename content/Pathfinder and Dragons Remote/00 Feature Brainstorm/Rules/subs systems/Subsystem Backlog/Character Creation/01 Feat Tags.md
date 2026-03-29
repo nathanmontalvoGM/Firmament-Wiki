@@ -2,7 +2,7 @@ Instead of requiring certain feats as prerequisites for higher level feats, you 
 
 If you are playing a rogue and you have two feats with the **Nimble** tag, you can select with feats that list **Nimble 2** on them. 
 
-# List of feat tags and Uses
+## List of feat tags and Uses
 #Aegis - used for any feat that provides a bonus to AC or other defensive perks.
 #Fortune  - fortune or reroll effects that change the outcomes of d20 results
 #Font - Cleric exclusive. Relates to feats that affect your font
@@ -17,10 +17,10 @@ If you are playing a rogue and you have two feats with the **Nimble** tag, you c
 #Training - alters or grants skills or training in skills
 #Vitality - provides effects that restore hit points
 
-## Class Exclusive Tags
-### Cleric
+### Class Exclusive Tags
+#### Cleric
 #Domain - Cleric exclusive. Relates to feats that affect your Domain
-### Fighter
+#### Fighter
 #Dueling - Fighter Exclusive. Relates to feats the affect the dueling discipline.
 #Maneuver - Fighter Exclusive. Relates to feats that contain fighter maneuvers. 
 #Rune - Fighter Exclusive. Relates to feats that contain arcane runes. 

@@ -17,6 +17,6 @@
 **Master:** +8, can exchange one minor behavior for a major one instead.
 **Legendary:** +11
 
-# NOTE
+## NOTE
 scaling is a bit boring
 #revision4  #Cleric #ClericFeat #Level1Feat #LifeDomain

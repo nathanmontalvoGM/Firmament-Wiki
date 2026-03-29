@@ -1,5 +1,5 @@
-# Level 2+
-## Iron Discipline
+## Level 2+
+### Iron Discipline
 Your training overrides pain and exhaustion.
 
 **Trigger:** While you are not [[01 Condition#Bloodied (WIP)|Bloodied]]:

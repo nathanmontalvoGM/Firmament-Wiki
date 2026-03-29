@@ -1,23 +1,23 @@
 * Stacking conditions to apply multiple stacks of [[Favored and Hindered (Advantage System)|Favored]] or  [[Favored and Hindered (Advantage System)|Hindered]].
 
-# What are players supposed to do?
+## What are players supposed to do?
 * ### **Clear Player Expression**
 	* Classes, feats, and abilities should give players multiple ways to express their character’s theme, personality, and combat identity, even within the same class.*
-###  **Meaningful Power Growth**
+####  **Meaningful Power Growth**
 - Power increases should feel impactful at the table: more damage, more movement, more creative actions, more survivability, and broader tactical options.
-### Linear Power Growth
+#### Linear Power Growth
 * Skills and bonuses should scale in a linear fashion to balance out the more staircase like scaling of their features.
-### **Action Economy as a Resource**
+#### **Action Economy as a Resource**
 - Players should feel rewarded for choosing how to spend their actions each round, with abilities that interact with action costs (upcasting them or empowering them with crits).
-### **Heroic Reliability**
+#### **Heroic Reliability**
 
 - Characters should be competent at baseline. Most of the time when a character does something they’re good at, they should succeed or achieve partial success.
 
-### **Allow for Horizontal and Vertical Scaling**
+#### **Allow for Horizontal and Vertical Scaling**
 * Horizontal: more tools in the toolbox
 * Vertical: upgrading tools in the toolbox
-# How do the players achieve this?
-### **1. Pick feats that meaningfully change how their character works**
+## How do the players achieve this?
+#### **1. Pick feats that meaningfully change how their character works**
 
 Players achieve this by:
 - Choosing from **branching feat paths** that emphasize different identities (control, damage, mobility, defense, utility).
@@ -29,7 +29,7 @@ Two characters of the same class play completely differently in combat and explo
 
 ---
 
-### **2. Find opportunities to use abilities in unique ways**
+#### **2. Find opportunities to use abilities in unique ways**
 
 Players achieve this by:
 
@@ -44,7 +44,7 @@ Abilities become flexible tools rather than rigid routines.
 
 ---
 
-### **3. Have multiple ways of using a class feature**
+#### **3. Have multiple ways of using a class feature**
 
 Players achieve this through:
 
@@ -55,5 +55,5 @@ Players achieve this through:
 
 **Result:**  
 Players feel like their characters have depth and tactical choices each round.
-# Probablities
+## Probablities
 Base success should be around 70%

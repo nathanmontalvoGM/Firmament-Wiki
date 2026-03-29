@@ -22,5 +22,5 @@ When an enemy leaves your melee reach while you are raging, you may move toward 
 **Master:** Move 40 feet and gain [[Favored]] on your next attack against them this turn.  
 **Legendary:** Move up to half your Speed. Ignore [[Impeded Movement]].
 
-### Note
+#### Note
 kinda bad tbh. Not sure how i feel about the move reaction thing

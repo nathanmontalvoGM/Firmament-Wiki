@@ -1,6 +1,6 @@
-# TTRPG Development Tracker
+## TTRPG Development Tracker
 
-## How to Add Tasks
+### How to Add Tasks
 
 Add tasks anywhere in your vault using this format:
 
@@ -14,7 +14,7 @@ Priority values: `critical`, `important`, `optional` System values: `Fighter`, `
 
 ---
 
-## 📊 Overall Progress
+### 📊 Overall Progress
 
 ```dataview
 TABLE WITHOUT ID

@@ -6,16 +6,16 @@
 Flat bonus are allowed if applied in regards to AC
 Bonuses to checks or abilities should be done in the form of dice or using the [[Favored and Hindered (Advantage System)|Hindered]] or [[Favored and Hindered (Advantage System)|Favored]] sub system
 
-# Terminology
+## Terminology
 * **Ability Scores** are the 6 primary stats of a character: Strength, Dexterity, Constitution, Wisdom, Intelligence and Charisma
 * **Feats** are class features picked as part of a characters class
 * **Skills** are specific applications 
 * whenever a roll that require a d20 is mentioned, phrase it as "d20 [Ability] Roll"
 
-# Classes
+## Classes
 All classes should have 48 feats to start with
-# Bonuses
-## Options
+## Bonuses
+### Options
 when creating a feature, consider these options if a bonus needs to be applied
 * use the  [[Favored and Hindered (Advantage System)|Favored]] or  [[Favored and Hindered (Advantage System)|Hindered]] system
 * Reroll number
@@ -41,5 +41,5 @@ when creating a feature, consider these options if a bonus needs to be applied
 	* Ignore cover
 	* Ignore resistance
 	* Attacks can’t be reduced below X damage
-# Skill Checks
+## Skill Checks
 There are no contested in rolls in PAD. Instead, all rolls are contested by a players DC of the appropriate type. 

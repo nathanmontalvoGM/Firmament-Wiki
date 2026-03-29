@@ -9,5 +9,5 @@ You draw on knowledge from spirits of the past. Choose one skill. For the spell'
 
 **Empower:** increase the bonus by +1
 
-# Note
+## Note
 might remove

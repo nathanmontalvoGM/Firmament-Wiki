@@ -1,13 +1,13 @@
-# Barbarian Class Features
+## Barbarian Class Features
 
-# Maximum Health
+## Maximum Health
 
 **Hit Dice:** 1d12 per barbarian level
 **Maximum Health:** 12 + your Constitution modifier
 You increase your maximum number of HP by this number at 1st level and every level thereafter.
 **Stamina:** 2 + your Dexterity modifier (Minimum of 1).
 You increase your Stamina by this number at 1st level and every level thereafter.
-# Proficiencies
+## Proficiencies
 
 **Armor:** Trained in light armor, medium armor, and unarmored defense
 **Weapons:** Trained in simple weapons, martial weapons and unarmed attacks
@@ -17,9 +17,9 @@ You increase your Stamina by this number at 1st level and every level thereafter
 **Skills:** Trained in [[Athletics]] 
 Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 
-# Equipment
-# 1st Level
-## Rage
+## Equipment
+## 1st Level
+### Rage
 1 action
 You tap into your inner fury and begin raging. You gain a number of [[[01 Temporary Hit Points]] equal to your level plus your Constitution modifier. While you are raging:
 * You deal 2 additional damage on melee attacks.
@@ -29,7 +29,7 @@ You tap into your inner fury and begin raging. You gain a number of [[[01 Tempor
 
 Feats the can only be used while raging will have the #Rage tag.
 
-## Temper
+### Temper
 Barbarians are granted a unique gift of unbridled fury that is channeled into their lives. However, a barbarian cannot let this fury grow to strong or they might lash out.
 
 You gain 1 Temper when you:
@@ -52,7 +52,7 @@ If you exceed your maximum Temper during your turn.
 * You then lose your rage and are [[01 Condition#Off-Guard|Off-Guard]] and [[01 Condition#Weakened (Strength) (WIP)|Weakened]] until the start of your next turn.
 
 
-## Calm Down (WIP)
+### Calm Down (WIP)
 **Target:** Self 
 **Range:** ---
 **Action Cost:** 1 
@@ -62,15 +62,15 @@ If you exceed your maximum Temper during your turn.
 **Fundamental:**
 You remove a number of Temper equal to half your maximum (rounded down). Doing so causes your next attack roll to gain [[Favored and Hindered (Advantage System)|Favored]]. 
 
-## Unarmored Defense
+### Unarmored Defense
 While you are not wearing armor, your AC equals: 10 + your Constitution modifier + your Dexterity modifier  adding training bonus and level as normal.
-## Instinct
+### Instinct
 the subclass
-# 3rd Level
-## Furious Footfalls
+## 3rd Level
+### Furious Footfalls
 The urge to fight drives you ever forward. Your speed increases by 10 feet while you aren't wearing heavy armor.
 
-## Instant Fury
+### Instant Fury
 
 **Trigger** You begin your first turn in combat.
 **Requirements** You are not [[encumbered]] or wearing heavy armor.
@@ -79,28 +79,28 @@ The urge to fight drives you ever forward. Your speed increases by 10 feet while
 Free action
 So long as you are able to move freely, your fury is instinctive and instantaneous. You Rage.
 
-## Lesser to Greater Healing (WIP)
+### Lesser to Greater Healing (WIP)
 Some feature the allows barbarians to have a limited number of times that [[Greater and Lesser Healing|Lesser Healing]] can heal [[Hit Points]]. This is because Barbarians will be balanced around have it very little stamina.
-# 5th Level
-## Brutality
+## 5th Level
+### Brutality
 Your fury makes your weapons lethal. Your proficiency ranks for simple weapons, martial weapons, and [unarmed](https://2e.aonprd.com/Traits.aspx?ID=719) attacks increase to expert. While [raging](https://2e.aonprd.com/Actions.aspx?ID=2802), you have the critical specialization benefits for melee weapons and unarmed attacks.
 
-## Dexterity Trainer
+### Dexterity Trainer
 You gain training in Dexterity Saving throws.
 
-## Beaten and Bruised
+### Beaten and Bruised
 Your body has grown accustomed to constant injury. You now receive the [[01 Condition#Bloodied (WIP)|Bloodied]] condition when you reach half your total [[Maximum Health]] instead of when you run out of stamina.  
-# 7th Level
-## Weapon Specialization
+## 7th Level
+### Weapon Specialization
 Your rage helps you hit harder. You deal an additional 2 damage with weapons and unarmed attacks in which you have expert proficiency. This damage increases to 3 if you’re a master, and 4 if you’re legendary. You gain your instinct’s specialization ability.
 
-## Juggernaut
+### Juggernaut
 Your body is accustomed to physical hardship and resistant to ailments. Your proficiency rank for Strength and Constitution saves increases to master. When you roll a success on a Strength or Constitution save, you get a critical success instead.
 
-# 9th Level
-## Raging Resistance
+## 9th Level
+### Raging Resistance
 Repeated exposure and toughened skin allow you to fend off harm. While raging you also have resistance to damage types based on your instinct.
 
 Might swap this for all barb instincts. Doesn't feel like a higher level feature 
-## Dexterity Expertise
+### Dexterity Expertise
 You’ve developed a knack for dodging danger. Your proficiency rank for Dexterity saves increases to expert.

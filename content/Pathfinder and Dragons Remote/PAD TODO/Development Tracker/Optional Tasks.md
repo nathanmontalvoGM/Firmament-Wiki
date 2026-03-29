@@ -1,4 +1,4 @@
-## 🟢 Optional Tasks
+### 🟢 Optional Tasks
 
 ```dataview
 TASK

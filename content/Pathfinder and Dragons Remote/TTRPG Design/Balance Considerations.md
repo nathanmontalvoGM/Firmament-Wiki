@@ -1,12 +1,12 @@
-# 1. Power Budget 
+## 1. Power Budget 
 
-# Classes
-## Cleric
+## Classes
+### Cleric
 
-# Feats
+## Feats
 * How many feats grant allies  [[Favored and Hindered (Advantage System)|Favored]]
 * How many feats give enemies  [[Favored and Hindered (Advantage System)|Hindered]] 
 * How many feats increases [[Weapon Dice]] step. 
-# Sources
+## Sources
 
-# Behaviors
+## Behaviors

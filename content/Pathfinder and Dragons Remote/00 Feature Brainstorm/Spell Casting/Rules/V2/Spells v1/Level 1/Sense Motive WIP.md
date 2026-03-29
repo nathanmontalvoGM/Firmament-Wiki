@@ -15,5 +15,5 @@ You attempt to magically discern the intentions of a creature within range. The 
 **Critical Failure:** You know the creatures true intentions and if those intentions are magically affected..  
 
 
-# Note
+## Note
 Not magical enough, needs other flavor
