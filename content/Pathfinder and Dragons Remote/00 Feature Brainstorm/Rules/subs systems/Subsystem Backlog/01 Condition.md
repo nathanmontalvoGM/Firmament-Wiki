@@ -18,7 +18,8 @@ You can't hear. A deafened creature can’t hear and automatically fails any [[a
 
 # Drained (Con)
 Your health and constitution has been depleted. All constitution based d20 rolls are [[Fa[[Favored and Hindered(Advantage System)|Hindered]]r maximum health is also reduced by your level times 2. 
-
+# Exhausted x
+Exhausted always has a value. This Condition is cumulative. Each time you receive it, you gain 1 level of exhaustion. You die if your exhaustion level exceeds 10. When you make a d20 roll, subtract your exhausted value from that roll. Finishing a Long Rest removes 1 of your levels of exhaustion. When your exhaustion level reaches 0, you are no longer Exhausted.
 # Fascinated (Charisma)
 You're compelled to focus your attention on someone or something. All Charisma based d20 rolls are [[Fav[[Favored and Hindered(Advantage System)|Hindered]]re too distracted to concentrate on a spell or other effect. If you are maintaining [[concentration]] on spell while this condition is active, make a [[Situational Concentration Saving Throw|Concentration Check]] after using the [[Focus]] action. Enemies also gain [[Favo[[Favored and Hindered(Advantage System)|Favored]]lls or effects VS your [[spell save DC]].
 
@@ -39,7 +40,7 @@ You're distracted or otherwise unable to focus your full attention on defense. Y
 You're frozen in place. Paralyzed always has a value. The value determines in how many rounds it takes before you become paralyzed. While you are being paralyzed but before its effects have applied, your movement is [[Strained Movement]]. If you become paralzyed, you are [[01 Condition#Unconscious|Unconscious]]. You automatically fail Strength and Dexterity based saving throws. Attack rolls against you are [[Favored and Hindered (Advantage System)|Favored]] and any attack within 5ft increase its [[Degree of Success]] of its attacks by 1 step.
 
 # Persistent Damage WIP
-## P[[Favored and Hindered (Advantage System)|Favored]]ct, such as from being lit on fire. Persistent damage always lists a die value (i.e. 1d4) you will be taking and a damage type dealt (such as fire). This damage is taken at the end of your turn. Afterwards, you roll a DC 15 flat check to see if you recover from the persistent damage. If you succeed this condition ends.
+ Persistent damage always lists a die value (i.e. 1d4) you will be taking and a damage type dealt (such as fire). This damage is taken at the end of your turn. Afterwards, you roll a DC 15 flat check to see if you recover from the persistent damage. If you succeed this condition ends.
 
 You can only be afflicted by one instance of a damage type. If multiple effects of the same damage type would be applied, you take the higher of the two.
 

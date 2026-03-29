@@ -1,4 +1,3 @@
 **Trained:** 
 **Expert:** 
 **Master:** 
-**Legendary:** 

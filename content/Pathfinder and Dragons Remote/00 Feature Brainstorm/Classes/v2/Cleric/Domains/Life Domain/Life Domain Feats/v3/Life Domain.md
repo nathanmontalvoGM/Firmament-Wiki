@@ -1,3 +1,13 @@
+# Life Domain Spells
+
+| Cleric Level | Spells                                                                                                                                                                                                     |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st          | [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 1/Guidance\|Guidance]], [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 1/Heal\|Heal]]                                             |
+| 3rd          | [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 2/Lesser Restoration\|Lesser Restoration]], [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 2/Spiritual Weapon\|Spiritual Weapon]] |
+| 5th          | [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 3/Beacon of Hope\|Beacon of Hope]], [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 3/Resurrect\|Resurrect]]                       |
+| 7th          | [[Guardian of Faith]]                                                                                                                                                                                      |
+| 9th          |                                                                                                                                                                                                            |
+
 # Skill Training
 When you choose this domain at 1st level, you gain training in medicine.
 

@@ -1,11 +1,11 @@
 ```dataview
 TABLE WITHOUT ID
-  "Critical: " + length(filter(rows, (r) => r["priority"] = "critical" AND !r.completed)) + " remaining" AS "🔴 Critical",
-  "Important: " + length(filter(rows, (r) => r["priority"] = "important" AND !r.completed)) + " remaining" AS "🟡 Important",
-  "Optional: " + length(filter(rows, (r) => r["priority"] = "optional" AND !r.completed)) + " remaining" AS "🟢 Optional"
+  "Critical: " + length(filter(rows.task, (t) => t.priority = "critical" AND !t.completed)) + " remaining" AS "🔴 Critical",
+  "Important: " + length(filter(rows.task, (t) => t.priority = "important" AND !t.completed)) + " remaining" AS "🟡 Important",
+  "Optional: " + length(filter(rows.task, (t) => t.priority = "optional" AND !t.completed)) + " remaining" AS "🟢 Optional"
 FROM ""
-WHERE file.tasks.priority
 FLATTEN file.tasks AS task
+WHERE task.priority
 GROUP BY true
 ```
 ```dataview

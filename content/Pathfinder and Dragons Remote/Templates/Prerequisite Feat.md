@@ -8,8 +8,4 @@
 **Action Cost:** 
 **Duration:** 
 
-**Source:** 
-
-**Behavior:** 
-
 **Fundamental:**

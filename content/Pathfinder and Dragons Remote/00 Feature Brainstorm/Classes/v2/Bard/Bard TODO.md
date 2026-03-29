@@ -4,6 +4,23 @@
 - [ ] Define skill proficiencies and number granted [priority:: critical] [class:: Bard] [notes:: Bard should get more skills than most classes]
 - [ ] Define weapon and armor proficiencies [priority:: critical] [class:: Bard]
 
+## Subclasses 
+
+### Vagabond
+
+- [ ] Spell List [priority:: critical] [class:: Bard] [notes::]
+- [x] Design subclass 1st level core feature [priority:: critical] [class:: Bard]
+- [x] Design subclass 3rd level core feature [priority:: critical] [class:: Bard]
+- [x] Design subclass 6th level core feature [priority:: critical] [class:: Bard]
+- [x] Design subclass 9th level core feature [priority:: critical] [class:: Bard]
+### Second one
+- [ ] need second subclass idea
+- [ ] Design subclass 1st level core feature [priority:: critical] [class:: Bard]
+- [ ] Design subclass 3rd level core feature [priority:: critical] [class:: Bard]
+- [ ] Design subclass 6th level core feature [priority:: critical] [class:: Bard]
+- [ ] Design subclass 9th level core feature [priority:: critical] [class:: Bard]
+# 🟡 Important Tasks
+- [ ] Write class overview and flavor text [priority:: important] [class:: Bard]
 ## Class Features by Level
 
 - [ ] Level 1 — Define Bardic Tradition subclass placeholder [priority:: important] [class:: Bard]
@@ -16,8 +33,18 @@
 - [ ] Level 8 — Define class feature [priority:: important] [class:: Bard]
 - [ ] Level 9 — Define class feature [priority:: important] [class:: Bard]
 - [ ] Level 10 — Define class feature [priority:: important] [class:: Bard]
-# 🟡 Important Tasks
-- [ ] Write class overview and flavor text [priority:: important] [class:: Bard]
+
+## Subclass
+- [ ] Decide on name for subclass [priority:: important] [class:: Bard]
+
+## Feats
+
+- [ ] Design level 2 Bard feats  [priority:: important] [class:: Bard]
+- [ ] Design level 2 Bard feats  [priority:: important] [class:: Bard]
+- [ ] Design level 2 Bard feats  [priority:: important] [class:: Bard]
+- [ ] Design level 6 Bard feats [priority:: important] [class:: Bard]
+- [ ] Design level 10 Bard feats [priority:: important] [class:: Bard]
+- [ ] Ensure feat options cover all pillars at each tier [priority:: important] [class:: Bard]
 # 🟢 Optional Tasks
 
 # Spellcasting
@@ -26,25 +53,6 @@
 - [ ] Build out core Bard spell list [priority:: critical] [class:: Bard] [notes:: Focus on debuffs, buffs, utility]
 - [ ] Define which sources Bard has access to [priority:: critical] [class:: Bard]
 
-
-
-## Feats
-
-- [ ] Design level 2 Bard feats — support option [priority:: important] [class:: Bard]
-- [ ] Design level 2 Bard feats — debuff option [priority:: important] [class:: Bard]
-- [ ] Design level 2 Bard feats — utility option [priority:: important] [class:: Bard]
-- [ ] Design level 6 Bard feats [priority:: important] [class:: Bard]
-- [ ] Design level 10 Bard feats [priority:: important] [class:: Bard]
-- [ ] Ensure feat options cover all pillars at each tier [priority:: important] [class:: Bard]
-
-## Subclasses
-
-- [ ] Decide on number of Bard subclasses [priority:: optional] [class:: Bard]
-- [ ] Brainstorm subclass identities [priority:: optional] [class:: Bard] [notes:: e.g. College of War, College of Whispers, College of Lore]
-- [ ] Design subclass 1 core feature [priority:: optional] [class:: Bard]
-- [ ] Design subclass 1 level 4 feature [priority:: optional] [class:: Bard]
-- [ ] Design subclass 1 level 6 feature [priority:: optional] [class:: Bard]
-- [ ] Design subclass 1 level 9/10 feature [priority:: optional] [class:: Bard]
 
 ## Skill Mastery
 

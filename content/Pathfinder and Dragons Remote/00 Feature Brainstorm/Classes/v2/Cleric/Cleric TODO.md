@@ -11,6 +11,7 @@
 ## 🔴 Critical Tasks
 - [ ]  1st Level change [priority:: critical] [class:: cleric] [notes::]
 - [ ] Favored Weapon [priority:: critical] [class:: cleric] [notes::]
+- [ ] Spell List [priority:: critical] [class:: cleric] [notes::]
 
 ## 🟡 Important Tasks
 - [ ] Favored weapon list [priority::important] [class:: cleric] [notes::]
