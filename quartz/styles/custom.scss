@@ -221,7 +221,9 @@ header {
   justify-content: center;
 }
 
-article p,
-article li {
-  color: #ffffff;
+.center p,
+.center li,
+.center ul,
+.center ol {
+  color: #ffffff !important;
 }
