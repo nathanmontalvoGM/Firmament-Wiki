@@ -1,1 +1,0 @@
-[[01 Condition#Staggered|Staggered]] 

@@ -1,1 +1,0 @@
-[[Favored and Hindered (Advantage System)|Favored]]

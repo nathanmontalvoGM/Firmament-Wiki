@@ -1,1 +1,0 @@
-[[Basic Saving Throw|Basic]]

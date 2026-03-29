@@ -1,1 +1,0 @@
-[[01 Condition#Off-Guard|Off-Guard]]

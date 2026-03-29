@@ -1,1 +1,0 @@
-PAD runs off a d20 based system. Whenever a d20 roll is made, you roll the 20 sided die and add any relevant modifiers or bonuses. 

@@ -1,1 +1,0 @@
-[[01 Critical Hits#Critical Damage|Critical Damage]]
