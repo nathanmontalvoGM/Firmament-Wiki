@@ -227,3 +227,9 @@ header {
 .center ol {
   color: #ffffff !important;
 }
+
+.center br {
+  display: block;
+  content: "";
+  margin-top: 0.5rem;
+}
