@@ -15,11 +15,11 @@ You make two attacks. The second attack does not occur [[Multiple Attack Penalty
 WIP - might be worthless cause action economy 
 ### NEW
 
-**Target:** Self 
-**Range:** 
-**Action Cost:** 1 
-**Duration:** #Instantaneous  
-**Type:** #FlexibleFeat 
+- **Target:** Self 
+- **Range:** 
+- **Action Cost:** 1 
+- **Duration:** #Instantaneous  
+- **Type:** #FlexibleFeat 
 
 **Source:** 
 
@@ -28,10 +28,10 @@ WIP - might be worthless cause action economy
 **Fundamental:**
 Make two attacks within quick succession. Once per turn, make two attacks, the second attack incurs [[Multiple Attack Penalty]] as normal. These attacks both gain a bonus to damage determined by your training in this feat. After both attacks are made, all attacks against you gain [[Favored and Hindered (Advantage System)|Favored]] until the start of your next turn. 
 
-**Trained:** +3 damage
-**Expert:** +5 damage. The multiple attack penalty is reduced by 1 for your second attack, and 2 for your third. 
-**Master:** +8 damage. Both attacks gain [[Favored and Hindered (Advantage System)|Favored]]. After both attacks are made, you are also [[01 Condition#Off-Guard|Off-Guard]] until the start of your next turn. 
-**Legendary:** +12 damage. Additional effect here.
+- **Trained:** +3 damage
+- **Expert:** +5 damage. The multiple attack penalty is reduced by 1 for your second attack, and 2 for your third. 
+- **Master:** +8 damage. Both attacks gain [[Favored and Hindered (Advantage System)|Favored]]. After both attacks are made, you are also [[01 Condition#Off-Guard|Off-Guard]] until the start of your next turn. 
+- **Legendary:** +12 damage. Additional effect here.
 
 #### Note
 Damage bonus might be a bit much 

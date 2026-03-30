@@ -1,6 +1,6 @@
-**Prerequisite:** [[Primordial Dwarf]]
-**Level:** 5
-**Tag:** 
+- **Prerequisite:** [[Primordial Dwarf]]
+- **Level:** 5
+- **Tag:** 
 
 **Frequency:** Once per hour
 2 action

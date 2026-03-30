@@ -1,10 +1,10 @@
 **Tradition:** #ArcaneTradition #DivineTradition #OccultTradition
 **Casting Time:** 2 actions
-**Range:** 60 feet
+- **Range:** 60 feet
 **Targets:** 1 creature
 **Components:** #Mental #Unkown
 **Casting Requirements:** #Verbal #Somatic 
-**Duration:** 1 round
+- **Duration:** 1 round
 **Stability:** #Volatile 
 
 You push into the target's mind and daze it with a mental jolt. The target must succeed a [[Basic Saving Throw|Basic]] Wisdom saving throw or take 1d6 mental damage.

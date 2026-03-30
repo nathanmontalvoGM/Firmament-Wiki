@@ -1,6 +1,6 @@
-**Prerequisite:** [[Dueling Discipline]], #Aegis2 #Strike1 
-**Level:** 8
-**Tag:** #Aegis #Strike #Maneuver 
+- **Prerequisite:** [[Dueling Discipline]], #Aegis2 #Strike1 
+- **Level:** 8
+- **Tag:** #Aegis #Strike #Maneuver 
 
 **Trigger:** You are attacking your Duel Target.
 **Cost:** 2 Actions

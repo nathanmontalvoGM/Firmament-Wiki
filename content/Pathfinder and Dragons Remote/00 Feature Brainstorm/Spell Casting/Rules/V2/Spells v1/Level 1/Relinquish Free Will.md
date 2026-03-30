@@ -1,10 +1,10 @@
 **Tradition:** #DivineTradition 
 **Casting Time:** 3 actions
-**Range:** 30 feet
+- **Range:** 30 feet
 **Targets:** 1 creature
 **Components:** 
 **Casting Requirements:** 
-**Duration:** varies (maximum of 1 minute)
+- **Duration:** varies (maximum of 1 minute)
 **Stability:** 
 
 You channel tour divinities power to control the fate of your target. The target must make a wisdom saving throw. 

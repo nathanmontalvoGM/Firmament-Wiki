@@ -1,6 +1,6 @@
-**Prerequisite:** Any class that can cast spells
-**Level:** 2
-**Tag:** #SpellStudy 
+- **Prerequisite:** Any class that can cast spells
+- **Level:** 2
+- **Tag:** #SpellStudy 
 
 **Cost:** 1 action
 

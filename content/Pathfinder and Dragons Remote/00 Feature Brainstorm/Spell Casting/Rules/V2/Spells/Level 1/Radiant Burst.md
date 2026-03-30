@@ -3,7 +3,7 @@
 **Casting Time:** 2 actions
 **Components:** 
 **Casting Requirements:** #Verbal #Somatic #Material 
-**Duration:** #Instantaneous 
+- **Duration:** #Instantaneous 
 
 You violently cleanse the sins of a target. The target must make a basic constitution saving throw or take 1d6 radiant damage. 
 

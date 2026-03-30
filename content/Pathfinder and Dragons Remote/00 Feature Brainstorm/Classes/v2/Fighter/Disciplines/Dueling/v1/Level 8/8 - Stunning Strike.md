@@ -1,6 +1,6 @@
-**Prerequisite:** [[Dueling Discipline]] #Strike2 
-**Level:** 8
-**Tag:** #Strike #Maneuver 
+- **Prerequisite:** [[Dueling Discipline]] #Strike2 
+- **Level:** 8
+- **Tag:** #Strike #Maneuver 
 
 **Trigger:** You are attacking your Duel Target.
 

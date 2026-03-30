@@ -1,6 +1,6 @@
-**Prerequisite:** [[Life Domain]] 
-**Level:** 1
-**Tag:** #Aegis 
+- **Prerequisite:** [[Life Domain]] 
+- **Level:** 1
+- **Tag:** #Aegis 
 
 When you expend a spell slot that restores hit points to yourself, increase the healing gained by your spellcasting ability modifier. 
 

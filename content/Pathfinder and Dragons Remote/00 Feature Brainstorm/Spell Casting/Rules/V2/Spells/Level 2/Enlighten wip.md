@@ -1,11 +1,11 @@
 **Spell Level:** 2
 **Tradition:** 
 **Casting Time:** 
-**Range:** 
+- **Range:** 
 **Targets:** 
 **Components:** 
 **Casting Requirements:** 
-**Duration:** 
+- **Duration:** 
 **Stability:** 
 
 You ask your deity a question with a yes or no answer about an event that happened within the last 24 hours 

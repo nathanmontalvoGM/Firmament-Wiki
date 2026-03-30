@@ -1,6 +1,6 @@
-**Prerequisite:** [[Dueling Discipline]], #Aegis2
-**Level:** 8
-**Tag:** #Aegis #Strike #Maneuver 
+- **Prerequisite:** [[Dueling Discipline]], #Aegis2
+- **Level:** 8
+- **Tag:** #Aegis #Strike #Maneuver 
 
 **Cost:** 3 Actions
 Until the start of your next turn:

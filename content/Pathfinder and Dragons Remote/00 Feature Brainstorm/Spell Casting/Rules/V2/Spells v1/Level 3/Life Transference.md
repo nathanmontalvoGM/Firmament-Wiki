@@ -1,10 +1,10 @@
 **Tradition:** #DivineTradition 
 **Casting Time:** 2 actions
-**Range:** 30 feet
+- **Range:** 30 feet
 **Targets:** 1 creature
 **Components:** 
 **Casting Requirements:** #Verbal #Somatic 
-**Duration:** #Instantaneous 
+- **Duration:** #Instantaneous 
 **Stability:** #Stable 
 
 You sacrifice some of your health to mend another creature’s injuries. You take 4d8 void damage, which can’t be reduced in any way, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.

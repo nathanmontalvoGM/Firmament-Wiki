@@ -1,6 +1,6 @@
-**Prerequisite:** [[Dueling Discipline]]
-**Level:** 6
-**Tag:** #Strike #Maneuver 
+- **Prerequisite:** [[Dueling Discipline]]
+- **Level:** 6
+- **Tag:** #Strike #Maneuver 
 
 **Trigger:** Your Duel Target attacks a creature other than yourself.
 

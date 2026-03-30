@@ -1,6 +1,6 @@
-**Prerequisite:** [[Dueling Discipline]]
-**Level:** 2
-**Tag:** #Strike #Maneuver 
+- **Prerequisite:** [[Dueling Discipline]]
+- **Level:** 2
+- **Tag:** #Strike #Maneuver 
 
 **Trigger:** You are attacking your Duel Target.
 **Cost:** 1 action

@@ -1,7 +1,7 @@
-**Prerequisite:** [[Life Domain]], #Vitality3, #Aegis1 
-**Level:** 10
-**Tag:** #Vitality #Aegis
-**Type:** #FlexibleFeat 
+- **Prerequisite:** [[Life Domain]], #Vitality3, #Aegis1 
+- **Level:** 10
+- **Tag:** #Vitality #Aegis
+- **Type:** #FlexibleFeat 
 
 **Source:** 1 of any source (minor, major or severe)
 

@@ -1,6 +1,6 @@
-**Prerequisite:** [[Arcane Warrior]]
-**Level:** 3
-**Tag:** #Rune 
+- **Prerequisite:** [[Arcane Warrior]]
+- **Level:** 3
+- **Tag:** #Rune 
 
 Your attacks are coated with a magical noxious odor.
 

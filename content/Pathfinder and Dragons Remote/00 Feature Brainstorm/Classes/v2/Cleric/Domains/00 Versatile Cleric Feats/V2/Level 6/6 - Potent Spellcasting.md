@@ -1,6 +1,6 @@
-**Prerequisite:** Cleric, #Strike1 
-**Level:** 6
-**Tag:** #Strike 
+- **Prerequisite:** Cleric, #Strike1 
+- **Level:** 6
+- **Tag:** #Strike 
 
 You add an additional die to cantrips and add your spellcasting ability to damage on cantrips.
 

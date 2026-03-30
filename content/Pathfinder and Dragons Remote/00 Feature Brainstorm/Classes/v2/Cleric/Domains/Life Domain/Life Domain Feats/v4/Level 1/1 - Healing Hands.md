@@ -1,7 +1,7 @@
-**Prerequisite:** [[Life Domain]] 
-**Level:** 1
-**Tag:** #Vitality
-**Type:** #FlexibleFeat 
+- **Prerequisite:** [[Life Domain]] 
+- **Level:** 1
+- **Tag:** #Vitality
+- **Type:** #FlexibleFeat 
 
 **Source:** 1 Minor Source
 
@@ -12,10 +12,10 @@
 **Inherited:** Sources and Behaviors applied to this feat apply to the spell its used with.
 
 --- 
-**Trained:** +2
-**Expert:** +5
-**Master:** +8, can exchange one minor behavior for a major one instead.
-**Legendary:** +11
+- **Trained:** +2
+- **Expert:** +5
+- **Master:** +8, can exchange one minor behavior for a major one instead.
+- **Legendary:** +11
 
 ## NOTE
 scaling is a bit boring

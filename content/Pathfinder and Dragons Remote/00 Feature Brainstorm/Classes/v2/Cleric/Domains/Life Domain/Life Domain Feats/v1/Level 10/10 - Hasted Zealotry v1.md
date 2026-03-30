@@ -1,6 +1,6 @@
-**Prerequisite:** [[Life Domain]]
-**Level:** 10
-**Tag:** #Haste
+- **Prerequisite:** [[Life Domain]]
+- **Level:** 10
+- **Tag:** #Haste
 
 1 Reaction
 **Trigger:** you cast a leveled spell

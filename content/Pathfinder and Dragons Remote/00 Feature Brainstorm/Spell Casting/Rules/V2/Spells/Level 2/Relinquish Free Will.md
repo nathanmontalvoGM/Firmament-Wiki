@@ -3,7 +3,7 @@
 **Casting Time:** 3 actions
 **Components:** 
 **Casting Requirements:** 
-**Duration:** varies (maximum of 1 minute)
+- **Duration:** varies (maximum of 1 minute)
 
 You channel your divinities power to control the fate of your target. The target must make a wisdom saving throw. 
 

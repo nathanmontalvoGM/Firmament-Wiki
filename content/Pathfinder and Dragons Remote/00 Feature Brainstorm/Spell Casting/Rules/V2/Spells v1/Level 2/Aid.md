@@ -1,10 +1,10 @@
 **Tradition:** #DivineTradition 
 **Casting Time:** 2 actions
-**Range:** 30 feet
+- **Range:** 30 feet
 **Targets:** up to 3 creatures
 **Components:** 
 **Casting Requirements:** 
-**Duration:** #Verbal #Somatic #Material 
+- **Duration:** #Verbal #Somatic #Material 
 **Stability:** #Stable 
 
 Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target’s hit point maximum and current hit points increase by 5 for the duration.

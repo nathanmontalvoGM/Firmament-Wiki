@@ -1,10 +1,10 @@
 **Tradition:** 1 action
 **Casting Time:** 
-**Range:** 60 feet
+- **Range:** 60 feet
 **Targets:** ---
 **Components:** 
 **Casting Requirements:** #Verbal #Somatic 
-**Duration:** 1 minute
+- **Duration:** 1 minute
 **Stability:** #Volatile 
 
 You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again.

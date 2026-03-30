@@ -1,10 +1,10 @@
 **Tradition:** 
 **Casting Time:** 
-**Range:** touch (self)
+- **Range:** touch (self)
 **Targets:** 1 creature
 **Components:** 
 **Casting Requirements:** 
-**Duration:** 1 hour
+- **Duration:** 1 hour
 **Stability:** 
 
 You draw on knowledge from spirits of the past. Choose one skill in which you are untrained. For the spell's duration, you have expert proficiency in the chosen skill. The spell ends early if you cast it again.

@@ -39,7 +39,7 @@ Behaviors will increase in power as you level up, as listed in your class. Refer
 The feat lasts for 1 additional round after it would normally end. 
 
 Alters:
-**Duration:** increase the duration by 1 round.
+- **Duration:** increase the duration by 1 round.
 **Strike Dice:** 
 **Vitality Dice:**
 
@@ -74,7 +74,7 @@ The effect is delayed by 1 round, but is more powerful as a result. Instead of b
 **Flat Modifier:** The bonus is increased by half (rounded down).
 
 #### Violent
-**Prerequisite:** The feat is volatile or unstable.
+- **Prerequisite:** The feat is volatile or unstable.
 
 **Strike Dice:** Roll one additional Strike Dice.
 

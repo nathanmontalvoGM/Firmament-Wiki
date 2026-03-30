@@ -1,6 +1,6 @@
-**Prerequisite:** [[Dueling Discipline]], #Aegis2 
-**Level:** 10
-**Tag:** #Aegis #Maneuver 
+- **Prerequisite:** [[Dueling Discipline]], #Aegis2 
+- **Level:** 10
+- **Tag:** #Aegis #Maneuver 
 
 **Frequency:** Once per hour.
 **Cost:** 3 Actions

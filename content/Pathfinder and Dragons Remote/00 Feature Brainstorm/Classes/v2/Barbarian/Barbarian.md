@@ -53,11 +53,11 @@ If you exceed your maximum Temper during your turn.
 
 
 ### Calm Down (WIP)
-**Target:** Self 
-**Range:** ---
-**Action Cost:** 1 
-**Duration:** #Instantaneous 
-**Type:** #RudimentaryFeat 
+- **Target:** Self 
+- **Range:** ---
+- **Action Cost:** 1 
+- **Duration:** #Instantaneous 
+- **Type:** #RudimentaryFeat 
 
 **Fundamental:**
 You remove a number of Temper equal to half your maximum (rounded down). Doing so causes your next attack roll to gain [[Favored and Hindered (Advantage System)|Favored]]. 

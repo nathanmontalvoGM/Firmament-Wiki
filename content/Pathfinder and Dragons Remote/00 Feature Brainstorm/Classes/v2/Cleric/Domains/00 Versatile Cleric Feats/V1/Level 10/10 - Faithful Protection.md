@@ -1,6 +1,6 @@
-**Prerequisite:** Cleric, #Aegis1
-**Level:** 10
-**Tag:** #Aegis
+- **Prerequisite:** Cleric, #Aegis1
+- **Level:** 10
+- **Tag:** #Aegis
 
 1 Reaction
 **Trigger** You would take damage from a source you can see

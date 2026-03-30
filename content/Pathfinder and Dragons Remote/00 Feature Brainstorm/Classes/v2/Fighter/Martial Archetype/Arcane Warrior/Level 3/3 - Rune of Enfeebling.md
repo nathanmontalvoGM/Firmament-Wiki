@@ -1,6 +1,6 @@
-**Prerequisite:** [[Arcane Warrior]]
-**Level:** 3
-**Tag:** #Rune 
+- **Prerequisite:** [[Arcane Warrior]]
+- **Level:** 3
+- **Tag:** #Rune 
 
 You weave necromantic magic into your next attack. 
 

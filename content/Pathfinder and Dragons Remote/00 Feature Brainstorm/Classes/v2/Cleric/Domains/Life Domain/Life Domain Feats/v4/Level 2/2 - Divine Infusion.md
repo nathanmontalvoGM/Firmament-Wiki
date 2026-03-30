@@ -1,9 +1,9 @@
-**Prerequisite:** [[Life Domain]] 
-**Level:** 2
-**Tag:** #Vitality #Strike 
-**Type:** #FlexibleFeat 
+- **Prerequisite:** [[Life Domain]] 
+- **Level:** 2
+- **Tag:** #Vitality #Strike 
+- **Type:** #FlexibleFeat 
 
-**Target:** Creature you resorted hit points to
+- **Target:** Creature you resorted hit points to
 
 **Source:** 1 Minor Source
 

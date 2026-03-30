@@ -1,11 +1,11 @@
-**Prerequisite:** 
-**Level:** 
-**Tag:** 
-**Type:** 
+- **Prerequisite:** 
+- **Level:** 
+- **Tag:** 
+- **Type:** 
 
-**Target:** 
-**Range:** 
-**Action Cost:** 
-**Duration:** 
+- **Target:** 
+- **Range:** 
+- **Action Cost:** 
+- **Duration:** 
 
 **Fundamental:**

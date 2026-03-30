@@ -44,18 +44,18 @@ These will range from:
 
 Dominate through sheer force.
 
-**Master:** Push target 5 ft or knock prone on hit  
-**Legendary:** Push 10 ft, and allies gain Favored vs them
+- **Master:** Push target 5 ft or knock prone on hit  
+- **Legendary:** Push 10 ft, and allies gain Favored vs them
 
 ###### WIP
 ##### Crushing - Minor
 
 Once per turn, when you hit with a weapon:
 
-**Trained:** deal an extra 1d4 bludgeoning damage.
-**Expert:** deal an extra 2d4 bludgeoning damage. This attack ignore resistances to physical damage.
-**Master:** deal an extra 3d4 bludgeoning damage. The target must make a constitution saving throw vs your Class DC. On a fail, they are [[01 Condition#Stunned|Stunned]].
-**Legendary:** deal an extra 5d4 bludgeoning damage. In addition to being [[01 Condition#Stunned|Stunned]], the target is also [[01 Condition#Dazzled|Dazzled]] until they lose the [[01 Condition#Stunned|Stunned]] condition.
+- **Trained:** deal an extra 1d4 bludgeoning damage.
+- **Expert:** deal an extra 2d4 bludgeoning damage. This attack ignore resistances to physical damage.
+- **Master:** deal an extra 3d4 bludgeoning damage. The target must make a constitution saving throw vs your Class DC. On a fail, they are [[01 Condition#Stunned|Stunned]].
+- **Legendary:** deal an extra 5d4 bludgeoning damage. In addition to being [[01 Condition#Stunned|Stunned]], the target is also [[01 Condition#Dazzled|Dazzled]] until they lose the [[01 Condition#Stunned|Stunned]] condition.
 
 ---
 
@@ -63,8 +63,8 @@ Once per turn, when you hit with a weapon:
 
 ##### Brute - Severe
 
-**Master:** [[Favored and Hindered (Advantage System)|Favored]]e increase degree of success on a 5 and 6.
-**Legendary:**  something else
+- **Master:** [[Favored and Hindered (Advantage System)|Favored]]e increase degree of success on a 5 and 6.
+- **Legendary:**  something else
 
 
 ---
@@ -122,7 +122,7 @@ Once per turn, when you hit with a weapon:
 ##### Measured Strike
 ### Strikes
 ##### Sweeping Strike
-**Prerequisite:** Melee Slashing or Bludgeoning weapon.
+- **Prerequisite:** Melee Slashing or Bludgeoning weapon.
 
 You can make second attack on a creature within range once per turn. This attack incurs MAP. 
 
@@ -131,13 +131,13 @@ You can make second attack on a creature within range once per turn. This attack
 **Master**
 **Legendary**
 ##### Bursting Strike
-**Prerequisite:** Any weapon.
+- **Prerequisite:** Any weapon.
 
 ##### Piercing Strike
-**Prerequisite:** Ranged or Melee piercing weapon.
+- **Prerequisite:** Ranged or Melee piercing weapon.
 
 ##### Reactive Strike
-**Prerequisite:** Melee weapon.
+- **Prerequisite:** Melee weapon.
 
 Attacks that use your reaction are more powerful
 
@@ -147,7 +147,7 @@ Attacks that use your reaction are more powerful
 **Legendary** - This attack gains Favored. Getting a critical hit with this attack increases the die step of all damage dice rolled by one step (maximum of 1d12)
 
 ##### Rapid Strike - Severe
-**Prerequisite:** Any weapon.
+- **Prerequisite:** Any weapon.
 
  You reduce the [[Multiple Attack Penalty]] on your attacks  with this feat  by 1 and 2 (meaning you will roll at -4 on your second attack, and -8 on your third). This stacks with the agile weapon characteristic resulting in a -3 and -6 respectively. 
 
@@ -158,9 +158,9 @@ Attacks that use your reaction are more powerful
 
 Make a weapon attack. On hit:
 
-**Expert:** Target is [[01 Condition#Off-Guard|Off-Guard]] until the start of your next turn.
-**Master:** Target is also [[F[[[Favored and Hindered(Advantage System)|Hindered]]r next saving throw. 
-**Legendary:** On crit, the target gains weakness 10 to the next source of damage.
+- **Expert:** Target is [[01 Condition#Off-Guard|Off-Guard]] until the start of your next turn.
+- **Master:** Target is also [[F[[[Favored and Hindered(Advantage System)|Hindered]]r next saving throw. 
+- **Legendary:** On crit, the target gains weakness 10 to the next source of damage.
 
 #### Controls Space
 ##### Driving

@@ -1,6 +1,6 @@
-**Prerequisite:** [[Dueling Discipline]] #Strike2 
-**Level:** 10
-**Tag:** #Strike #Fortune #Maneuver 
+- **Prerequisite:** [[Dueling Discipline]] #Strike2 
+- **Level:** 10
+- **Tag:** #Strike #Fortune #Maneuver 
 
 **Frequency:** Once per hour.
 **Trigger:** You are attacking your Duel Target.

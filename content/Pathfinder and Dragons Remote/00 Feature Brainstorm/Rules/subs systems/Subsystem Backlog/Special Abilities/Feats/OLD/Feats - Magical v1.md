@@ -65,111 +65,111 @@ These will range from:
 ##### Life - Minor
 Once per scene, when this feat affects a creature, you may restore a number of their [[Hit Dice]] determined by your training in this feat.
 
-**Trained:** +2 [[Hit Dice]] + Class Level
-**Expert:** +3 [[Hit Dice]] + Class Level. This feature can be used twice per scene instead of once.
-**Master:** +4 [[Hit Dice]] + Class Level, you can remove any condition afflicting the creature.
-**Legendary:** +6 [[Hit Dice]] + Class Level
+- **Trained:** +2 [[Hit Dice]] + Class Level
+- **Expert:** +3 [[Hit Dice]] + Class Level. This feature can be used twice per scene instead of once.
+- **Master:** +4 [[Hit Dice]] + Class Level, you can remove any condition afflicting the creature.
+- **Legendary:** +6 [[Hit Dice]] + Class Level
 
 ##### Mercy - Minor
 Removes conditions or does something with conditions
 Once per scene, when this feat affects a creature, you or the creature can attempt to remove a negative condition determined by your training in this feat. 
 
-**Trained:** The target can immediately attempt a saving throw against the afflicting condition as a free action.
-**Expert:** The target gains  [[Favored and Hindered (Advantage System)|Favored]]this saving throw. This feature can be used twice per scene instead of once. 
-**Master:** 
-**Legendary:** 
+- **Trained:** The target can immediately attempt a saving throw against the afflicting condition as a free action.
+- **Expert:** The target gains  [[Favored and Hindered (Advantage System)|Favored]]this saving throw. This feature can be used twice per scene instead of once. 
+- **Master:** 
+- **Legendary:** 
 ##### Sanctuary - Minor
 Once per scene, when this feat affects a creature, you provide a bonus to its AC determined by your training in this feat. This effect lasts until an attack is made against the target. Regardless if the attack misses or hits, the benefit is lost.
 
-**Trained:** +3 AC
-**Expert:**  +4 AC. This feature can be used twice per scene instead of once. 
-**Master:**  +5 AC, The effect now lasts until the end of your next turn.
-**Legendary:** +7 AC
+- **Trained:** +3 AC
+- **Expert:**  +4 AC. This feature can be used twice per scene instead of once. 
+- **Master:**  +5 AC, The effect now lasts until the end of your next turn.
+- **Legendary:** +7 AC
 
 ##### Persistence - Major
 Once per scene, when this feat affects a creature, you may extend its Duration by a number of rounds determined by your training in this feat. This source has no effect on feats with no listed duration.
 
-**Expert:**  +2 Rounds. This feature can be used twice per scene instead of once.
-**Master:** +2 Rounds, once per scene you may ignore the first attempt to end the effect early (WIP)
-**Legendary:** +3 Rounds
+- **Expert:**  +2 Rounds. This feature can be used twice per scene instead of once.
+- **Master:** +2 Rounds, once per scene you may ignore the first attempt to end the effect early (WIP)
+- **Legendary:** +3 Rounds
 
 ##### Providence - Major
 Once per scene, when this feat affects a creature, divine providence watches over them
 
-**Expert:** Until the end of you or the targets next turn, if they fail or critically fail a d20 roll, they can reroll and must take the new result.
-**Master:** The target gain  [[F[[[Favored and Hindered(Advantage System)|Favored]] saving throw. This feature can be used twice per scene instead of once. 
-**Legendary:** The result of this reroll is treated as one degree of success better.
+- **Expert:** Until the end of you or the targets next turn, if they fail or critically fail a d20 roll, they can reroll and must take the new result.
+- **Master:** The target gain  [[F[[[Favored and Hindered(Advantage System)|Favored]] saving throw. This feature can be used twice per scene instead of once. 
+- **Legendary:** The result of this reroll is treated as one degree of success better.
 
 ###### Note
 legendary might need a new effect
 ##### Judgement - Major
 Once per scene, when this feat affects a creature, mark an enemy with a Mark of Judgment. The next ally to roll damage against that enemy applies an additional effect determined by your training in this feat.
 
-**Expert:** deal an additional 5 radiant damage
-**Master:** deal an additional 10 radiant damage. Increase the die step of any damage dealing dice by one step (maximum of a d12). This feature can be used twice per scene instead of once. 
-**Legendary:** deal an additional 15 radiant damage. The triggering ally gains [[Favo[[[[Favored and Hindered(Advantage System)|Favored]]xt d20 roll, and may apply Mark of Judgement to a different enemy they can see. This effect does not repeat again.
+- **Expert:** deal an additional 5 radiant damage
+- **Master:** deal an additional 10 radiant damage. Increase the die step of any damage dealing dice by one step (maximum of a d12). This feature can be used twice per scene instead of once. 
+- **Legendary:** deal an additional 15 radiant damage. The triggering ally gains [[Favo[[[[Favored and Hindered(Advantage System)|Favored]]xt d20 roll, and may apply Mark of Judgement to a different enemy they can see. This effect does not repeat again.
 ##### Zeal - Severe
 Twice per scene, when this feat affects a creature, the next time that creature deals damage before the end of its next turn, it or an ally within 15 feet regains hit points equal to your training in this feat.
 
-**Master:** regain 6d8 [[Hit Points]]. 
-**Legendary:** regain 8d8 [[Hit Points]]. The range increases to 30 feet and the healing effects two allies instead of one. 
+- **Master:** regain 6d8 [[Hit Points]]. 
+- **Legendary:** regain 8d8 [[Hit Points]]. The range increases to 30 feet and the healing effects two allies instead of one. 
 ##### Consecration - Severe
 Once per scene, when this feat affects a creature:
 
-**Master:** Create a 15-foot consecrated area centered on the target until the end of its next turn. Allies in the area gain a +4 bonus to AC and gain 7 resistance to all sources of damage
-**Legendary:** The area increases to 20 feet, and enemies entering the area are Hindered on their next d20 roll.
+- **Master:** Create a 15-foot consecrated area centered on the target until the end of its next turn. Allies in the area gain a +4 bonus to AC and gain 7 resistance to all sources of damage
+- **Legendary:** The area increases to 20 feet, and enemies entering the area are Hindered on their next d20 roll.
 #### Nature
 
 ##### Flame - Major
 This feat fires quickly and without warning. Once per scene when this effect is used, it resolves with less actions than normal determined by your training in this feat.
 
-**Trained:** -1 Actions (Minimum of 0), you can choose to either deal 1d4 persistent fire damage to the target or have the targets next successful attack deal 1d4 persistent fire damage. 
-**Expert:** -1 Actions (Minimum of 0), this feature can be used twice per scene instead of once. The fire damage is increased to 1d8.
-**Master:** -2 actions (Minimum of 0). The fire damage is increased to 1d12.
-**Legendary:** Costs 0 actions or can be used as a reaction. The fire damage is increased to 2d12.
+- **Trained:** -1 Actions (Minimum of 0), you can choose to either deal 1d4 persistent fire damage to the target or have the targets next successful attack deal 1d4 persistent fire damage. 
+- **Expert:** -1 Actions (Minimum of 0), this feature can be used twice per scene instead of once. The fire damage is increased to 1d8.
+- **Master:** -2 actions (Minimum of 0). The fire damage is increased to 1d12.
+- **Legendary:** Costs 0 actions or can be used as a reaction. The fire damage is increased to 2d12.
 
 ##### Frost - Minor
 This feat halters the movement of others. Once per scene, when this feat affects a target, the target is [[01 Condition#Slowed|Slowed]] until the start of your next turn..
 
-**Trained:** The target's next attack is [[Favored[[F[[Favored and Hindered (Advantage System)|Hindered]]l the targets attacks are [[Favored an[[Fa[[Favored and Hindered (Advantage System)|Hindered]]your next turn. This feature can be used twice per scene instead of once. 
-**Master:** The target is [[01 Condition#Stunned|Stunned]] as well as [[01 Condition#Slowed|Slowed]] until the start of your next turn..
-**Legendary:** All the targets d20 rolls are [[Favored and H[[Fav[[Favored and Hindered (Advantage System)|Hindered]] next turn.
+- **Trained:** The target's next attack is [[Favored[[F[[Favored and Hindered (Advantage System)|Hindered]]l the targets attacks are [[Favored an[[Fa[[Favored and Hindered (Advantage System)|Hindered]]your next turn. This feature can be used twice per scene instead of once. 
+- **Master:** The target is [[01 Condition#Stunned|Stunned]] as well as [[01 Condition#Slowed|Slowed]] until the start of your next turn..
+- **Legendary:** All the targets d20 rolls are [[Favored and H[[Fav[[Favored and Hindered (Advantage System)|Hindered]] next turn.
 
 ##### Stone - Minor
 You stand steadfast like a stone (sick wording me). Once per scene when this effect is used, as a reaction, you can stand your ground against an effect that would try to reposition, grapple, restrain or otherwise impeded your movement. Attempts to do so must succeed on an athletics check vs a DC determined by your Training in this feat. If they fail, their effect is wasted.
 
-**Trained:** DC = Your fortitude save +5 
-**Expert:** DC =Your fortitude save +7, you can only be moved on a critical success. This feature can be used twice per scene instead of once.
-**Master:** DC = Your fortitude save +9, if a creature tries to move you and critically succeeds on their athletics check, they can only move you 5 feet.
-**Legendary:** DC = Your fortitude save +11
+- **Trained:** DC = Your fortitude save +5 
+- **Expert:** DC =Your fortitude save +7, you can only be moved on a critical success. This feature can be used twice per scene instead of once.
+- **Master:** DC = Your fortitude save +9, if a creature tries to move you and critically succeeds on their athletics check, they can only move you 5 feet.
+- **Legendary:** DC = Your fortitude save +11
 
 ##### Storm - Major
 You move swiftly and unpredictively, like a storm you might say. Twice per scene, when this feat affects a target(s), you may immediately reposition the target(s) or yourself up to their speed as part of the effect. If the target is unwilling, they must make a Fortitude Save vs your Class DC. On a failure, they are repositioned up to half their movement speed. Full speed on a critical fail.
 
-**Expert:** This movement ignores [[Strained Movement]], [[Impeded Movement]] and you can move up to double your speed.
-**Master:** You can reposition two creatures instead of one.
-**Legendary:** You can move any number of creatures within 30 feet of the original target. Each targets next d20 roll also gains [[Favored and Hind[[Favo[[Favored and Hindered (Advantage System)|Favored]]w the reposition save works. 
+- **Expert:** This movement ignores [[Strained Movement]], [[Impeded Movement]] and you can move up to double your speed.
+- **Master:** You can reposition two creatures instead of one.
+- **Legendary:** You can move any number of creatures within 30 feet of the original target. Each targets next d20 roll also gains [[Favored and Hind[[Favo[[Favored and Hindered (Advantage System)|Favored]]w the reposition save works. 
 
 ##### Flood - Major
 Flavor Text. Once per scene, when this feat affects a target, it applies lingering effects around the target determined by your training in this feat.
 
-**Trained:** 
-**Expert:** 
-**Master:** 
-**Legendary:** 
+- **Trained:** 
+- **Expert:** 
+- **Master:** 
+- **Legendary:** 
 
 ##### Verdant
-**Trained:** 
-**Expert:** 
-**Master:** 
-**Legendary:** 
+- **Trained:** 
+- **Expert:** 
+- **Master:** 
+- **Legendary:** 
 
 ##### Decay - Severe
 
-**Trained:** When you use this feat, pick a creature within 30 feet of the original target. This creature becomes [[01 Condition#Weakened (Strength) (WIP)|Weakened]] until the start of your next turn and they take 2d6 void damage.
-**Expert:** The damage increases to 3d6. This feature can be used twice per scene instead of once. 
-**Master:** The damage increases to 4d6. The target is also [[01 Condition#Drained (Con)|Drained]] until the start of your next turn.
-**Legendary:** The damage increases to 6d6. If this damage would reduce the target to 0 [[Hit Points]], deal 6d6 void damage to an adjacent target within 30 feet. Repeat this effect if the new target is also reduced to 0 [[Hit Points]].
+- **Trained:** When you use this feat, pick a creature within 30 feet of the original target. This creature becomes [[01 Condition#Weakened (Strength) (WIP)|Weakened]] until the start of your next turn and they take 2d6 void damage.
+- **Expert:** The damage increases to 3d6. This feature can be used twice per scene instead of once. 
+- **Master:** The damage increases to 4d6. The target is also [[01 Condition#Drained (Con)|Drained]] until the start of your next turn.
+- **Legendary:** The damage increases to 6d6. If this damage would reduce the target to 0 [[Hit Points]], deal 6d6 void damage to an adjacent target within 30 feet. Repeat this effect if the new target is also reduced to 0 [[Hit Points]].
 #### Occult
 Occult sources draw on hidden, unsettling forces that lie beyond ordinary understanding. Rather than pulling from the deities above or the nature around you, these powers come from forbidden knowledge and the macabre and strange aspects of the world. These sources your features with bizarre phenomena. 
 ##### Void
@@ -191,24 +191,24 @@ Occult sources draw on hidden, unsettling forces that lie beyond ordinary unders
 ##### Brawn - Major
 Once per scene, when you use this feat, you or your target gain [[Favored and Hindran[[Favor[[Favored and Hindered (Advantage System)|Favored]]ow and it does a thing based on training.
 
-**Trained:** either the user or the target gains a bonus 1d8 **Strike Die** on its next Strike until the end of its next turn.
-**Expert:** The bonus Strike Die applies to the next **two** Strikes made this turn. This feature can be used twice per scene instead of once. 
-**Master:** If the target hits with an attack benefiting from Brawn, it counts as one degree of success better.
-**Legendary:** Once per scene, after the targets hits with an attack benefiting from Brawn, it may immediately make another Strike as a free action against the same target. This incurs [[Multiple Attack Penalty]] but only after the attack is made.
+- **Trained:** either the user or the target gains a bonus 1d8 **Strike Die** on its next Strike until the end of its next turn.
+- **Expert:** The bonus Strike Die applies to the next **two** Strikes made this turn. This feature can be used twice per scene instead of once. 
+- **Master:** If the target hits with an attack benefiting from Brawn, it counts as one degree of success better.
+- **Legendary:** Once per scene, after the targets hits with an attack benefiting from Brawn, it may immediately make another Strike as a free action against the same target. This incurs [[Multiple Attack Penalty]] but only after the attack is made.
 
 ##### Fortitude - Minor
 Once per scene, when you use this feat, you or your target gain [[Favored and Hindered [[Favored[[Favored and Hindered (Advantage System)|Favored]]w and it does a thing based on training.
 
-**Trained:** The creature also gains temporary [[Hit Points]] equal to your class level.
-**Expert:** The temporary [[Hit Points]] increase to twice your class level. This feature can be used twice per scene instead of once. 
-**Master:** End one condition on yourself.
-**Legendary:** Until the start of your next turn, you treat all non attack d20 rolls as one degree of success better.
+- **Trained:** The creature also gains temporary [[Hit Points]] equal to your class level.
+- **Expert:** The temporary [[Hit Points]] increase to twice your class level. This feature can be used twice per scene instead of once. 
+- **Master:** End one condition on yourself.
+- **Legendary:** Until the start of your next turn, you treat all non attack d20 rolls as one degree of success better.
 
 ##### Reflex - Minor
 Once per scene, when you use this feat, you or your target gain [[Favored and Hindered (Ad[[Favored a[[Favored and Hindered (Advantage System)|Favored]] does a thing based on training.
 
-**Trained:** the next attack roll until the start of your next turn against you is [[Favored and Hindered (Advan[[Favored and[[Favored and Hindered (Advantage System)|Hindered]]erity saving throw, you can choose to make it a crit instead.
-**Legendary:** 
+- **Trained:** the next attack roll until the start of your next turn against you is [[Favored and Hindered (Advan[[Favored and[[Favored and Hindered (Advantage System)|Hindered]]erity saving throw, you can choose to make it a crit instead.
+- **Legendary:** 
 
 ##### Blood
 
@@ -245,10 +245,10 @@ The effect hinders movement.
 Alters:
 * The target must succeed on a dexterity [[saving throws]] vs your Class DC or be [[01 Condition#Restrained|Restrained]]
 
-**Trained:** On a failure, the target is [[01 Condition#Restrained|Restrained]] until the start of its next turn.
-**Expert:** On a failure, the target is [[01 Condition#Restrained|Restrained]] until the end of its next turn. This feature can be used twice per scene instead of once.
-**Master:** On a failure, the target also falls [[01 Condition#Prone|Prone]].
-**Legendary:** On a **critical failure**, the target is also [[01 Condition#Paralyzed|Paralyzed]] until the start of its next turn.
+- **Trained:** On a failure, the target is [[01 Condition#Restrained|Restrained]] until the start of its next turn.
+- **Expert:** On a failure, the target is [[01 Condition#Restrained|Restrained]] until the end of its next turn. This feature can be used twice per scene instead of once.
+- **Master:** On a failure, the target also falls [[01 Condition#Prone|Prone]].
+- **Legendary:** On a **critical failure**, the target is also [[01 Condition#Paralyzed|Paralyzed]] until the start of its next turn.
 
 #### Chaining
 
@@ -294,7 +294,7 @@ Alters
 
 #### Focused
 
-**Prerequisite:**  The feat would affect multiple targets.
+- **Prerequisite:**  The feat would affect multiple targets.
 
 The effect is narrowed for precision.
 
@@ -329,7 +329,7 @@ The feat produces the opposite outcome, but is weakened.
 The feat lasts for 1 additional round after it would normally end.
 
 Alters:  
-**Duration:** Increase the duration by 1 round.  
+- **Duration:** Increase the duration by 1 round.  
 
 #### Mobile - Major
 
@@ -369,7 +369,7 @@ The feat feeds on the user.
 
 #### Violent
 
-**Prerequisite:** The feat is volatile or unstable.
+- **Prerequisite:** The feat is volatile or unstable.
 
 **Strike Dice:** Roll one additional Strike Dice.
 

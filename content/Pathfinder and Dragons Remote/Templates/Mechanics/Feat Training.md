@@ -1,3 +1,3 @@
-**Trained:** 
-**Expert:** 
-**Master:** 
+- **Trained:** 
+- **Expert:** 
+- **Master:** 

@@ -3,7 +3,7 @@
 **Casting Time:** 2 actions
 **Components:** #Fire #Evocation
 **Casting Requirements:** #Verbal #Somatic
-**Duration:** #Instantaneous
+- **Duration:** #Instantaneous
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d6 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried. 
 

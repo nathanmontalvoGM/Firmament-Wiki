@@ -52,14 +52,14 @@ Your maximum Mana is equal to 4 x your Bard Level and the highest amount of Mana
 
 ## Performing Arts
 
-**Type:** #RudimentaryFeat 
+- **Type:** #RudimentaryFeat 
 At 1st level, you use your artistic medium to aid your allies in battle. 
 
 1 action
 You start a performance, choosing from **Favored Performance** or a performance given by your subclass or a feat. These performances will have the #PerformingArt tag. This performance lasts a minute and requires you to sustain the performance on subsequent turns as a free action. If bard is unable to perform any actions, the performance ends early. The amount of creatures that can be [[01 Condition#Inspired|Inspired]] by you at once is equal to your Charisma modifier. 
 
 ### Favored Performance.
-**Tag:** #PerformingArt 
+- **Tag:** #PerformingArt 
 **Aura:** 30 feet
 **Targets:** a number of creatures equal to your charisma modifier that can see or hear you within 30 feet.
 

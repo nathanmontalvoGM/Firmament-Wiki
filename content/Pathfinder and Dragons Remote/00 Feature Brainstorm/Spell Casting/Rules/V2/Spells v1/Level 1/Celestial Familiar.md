@@ -1,10 +1,10 @@
 **Tradition:** #DivineTradition 
 **Casting Time:** 3 actions
-**Range:** 30 feet
+- **Range:** 30 feet
 **Targets:** 1 creature
 **Components:** 
 **Casting Requirements:** #Verbal #Somatic #Material 
-**Duration:** 1 minute concentration
+- **Duration:** 1 minute concentration
 **Stability:** #Stable 
 
 You summon a familiar to follow around a creature of your choosing for the duration. This familiar takes its turn during your targets. If the familiar must use a stat not listed in its stat block, the value is equal to the caster level. 

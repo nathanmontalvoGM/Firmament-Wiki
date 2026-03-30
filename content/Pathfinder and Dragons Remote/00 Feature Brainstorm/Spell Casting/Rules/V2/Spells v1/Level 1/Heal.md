@@ -1,10 +1,10 @@
 **Tradition:** #DivineTradition 
 **Casting Time:** 1-3 actions
-**Range:** varies
+- **Range:** varies
 **Targets:** 1 willing living creature or 1 undead creature
 **Components:** #Vitality #necromancy 
 **Casting Requirements:** #Verbal #Somatic 
-**Duration:** #Instantaneous 
+- **Duration:** #Instantaneous 
 **Stability:** #Stable 
 
 You channel vital energy to heal the living or damage the [[undead]]. If the target is a willing living creature, you restore 1d8 [[Hit Points]]. If the target is undead, you deal that amount of vitality damage to it, and it gets a basic Constitution save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.  

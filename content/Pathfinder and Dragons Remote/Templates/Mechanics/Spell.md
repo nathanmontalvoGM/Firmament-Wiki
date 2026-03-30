@@ -3,6 +3,6 @@
 **Casting Time:** 
 **Components:** 
 **Casting Requirements:** 
-**Duration:** 
+- **Duration:** 
 
 **Empower:**

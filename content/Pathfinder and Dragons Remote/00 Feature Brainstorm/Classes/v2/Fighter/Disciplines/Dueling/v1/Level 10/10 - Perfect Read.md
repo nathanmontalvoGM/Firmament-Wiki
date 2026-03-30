@@ -1,6 +1,6 @@
-**Prerequisite:** [[Dueling Discipline]]
-**Level:** 10
-**Tag:**  #Fortune #Maneuver 
+- **Prerequisite:** [[Dueling Discipline]]
+- **Level:** 10
+- **Tag:**  #Fortune #Maneuver 
 
 **Frequency:** Once per hour.
 **Cost:** 3 Actions

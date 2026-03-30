@@ -1,10 +1,10 @@
 **Tradition:** #DivineTradition 
 **Casting Time:** 2 actions
-**Range:** 30 feet
+- **Range:** 30 feet
 **Targets:** 1 creature
 **Components:** 
 **Casting Requirements:** #Verbal #Somatic #Material 
-**Duration:** #Instantaneous 
+- **Duration:** #Instantaneous 
 **Stability:** #Volatile 
 
 You violently cleanse the sins of a target. The target must make a basic consitution saving throw or take 2d8 radiant damage. 

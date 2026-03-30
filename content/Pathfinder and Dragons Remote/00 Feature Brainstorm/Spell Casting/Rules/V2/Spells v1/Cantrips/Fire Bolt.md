@@ -1,10 +1,10 @@
 **Tradition:** #ArcaneTradition
 **Casting Time:** 2 actions
-**Range:** 120 feet
+- **Range:** 120 feet
 **Targets:** 1 creature
 **Components:** #Fire #Evocation
 **Casting Requirements:** #Verbal #Somatic
-**Duration:** #Instantaneous
+- **Duration:** #Instantaneous
 **Stability:** #Volatile
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. If the target is within your melee reach, you can choose to make a melee spell attack instead, which increases the spell's damage dice to a d12. A flammable object hit by this spell ignites if it isn’t being worn or carried. 

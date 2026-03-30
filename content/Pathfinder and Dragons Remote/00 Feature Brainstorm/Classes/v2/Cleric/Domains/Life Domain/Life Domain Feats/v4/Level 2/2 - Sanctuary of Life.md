@@ -1,11 +1,11 @@
-**Prerequisite:** [[Life Domain]] 
-**Level:** 2
-**Tag:** #Vitality #Aegis 
-**Type:** #FlexibleFeat
+- **Prerequisite:** [[Life Domain]] 
+- **Level:** 2
+- **Tag:** #Vitality #Aegis 
+- **Type:** #FlexibleFeat
 
-**Target:** 1 creature 
-**Range:** 30 feet.
-**Action Cost:** 2
+- **Target:** 1 creature 
+- **Range:** 30 feet.
+- **Action Cost:** 2
 **Duration** Focus, up to 10 minutes.
 
 **Source:** 

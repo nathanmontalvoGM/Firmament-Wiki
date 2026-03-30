@@ -3,7 +3,7 @@
 **Casting Time:** 3 actions
 **Components:** 
 **Casting Requirements:** #Verbal #Somatic #Material 
-**Duration:** 10 minutes 
+- **Duration:** 10 minutes 
 
 You increase the size of a creature to by one size category (maximum of gargantuan). Its equipment grows with it but returns to natural size if removed. The target becomes [[01 Condition#Clumsy (Dex)|Clumsy]] for the duration and their melee weapon range increases by 5 feet. They also gain a +2 bonus to damage rolls on melee weapon attacks. The maximum amount of creatures that can be affected by this spell is equal to the casters level. 
 

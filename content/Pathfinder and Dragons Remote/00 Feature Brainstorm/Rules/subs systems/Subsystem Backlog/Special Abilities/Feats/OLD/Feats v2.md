@@ -82,7 +82,7 @@ Alters
 
 #### Focused
 
-**Prerequisite:**  The feat would target multiple targets.
+- **Prerequisite:**  The feat would target multiple targets.
 
 The effect is narrowed for precision.
 
@@ -117,7 +117,7 @@ The feat produces the opposite outcome, but is weakened.
 The feat lasts for 1 additional round after it would normally end.
 
 Alters:  
-**Duration:** Increase the duration by 1 round.  
+- **Duration:** Increase the duration by 1 round.  
 
 #### Mobile
 
@@ -159,7 +159,7 @@ The feat feeds on the user.
 
 #### Violent
 
-**Prerequisite:** The feat is volatile or unstable.
+- **Prerequisite:** The feat is volatile or unstable.
 
 **Strike Dice:** Roll one additional Strike Dice.
 

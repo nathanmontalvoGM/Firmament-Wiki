@@ -1,11 +1,11 @@
 **Tradition:** #DivineTradition #PrimalTradition 
 **Casting Time:** 3 actions
-**Range:** touch
+- **Range:** touch
 **Targets:** any creatures in the area
 **Area:** 20 foot burst
 **Components:** 
 **Casting Requirements:** 
-**Duration:** 1 minute
+- **Duration:** 1 minute
 **Stability:** #Unstable 
 
 Divine spirits swarm around you in a 20 foot area. The spirits remains in this area for the duration. When you cats this spell designate up to 5 creatures to be unaffected by it. When a creature that isn’t immune to spirit damage begins its turn within the area, it must attempt a dexterity save.

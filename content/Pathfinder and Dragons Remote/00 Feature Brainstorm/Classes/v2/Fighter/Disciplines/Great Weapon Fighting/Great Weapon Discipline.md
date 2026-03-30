@@ -11,10 +11,10 @@ Once Per turn, you can turn any attack into a Great Swing. You must decide this 
 
 If this attack fails, you are [[01 Condition#Off-Guard|Off-Guard]] until the start of your next turn. 
 
-**Trained:** 1 [[[[Weapon Dice]]]]
-**Expert:**  2 [[[[Weapon Dice]]]]
-**Master:** 4 [[[[Weapon Dice]]]]
-**Legendary:** 6 [[[[Weapon Dice]]]]
+- **Trained:** 1 [[[[Weapon Dice]]]]
+- **Expert:**  2 [[[[Weapon Dice]]]]
+- **Master:** 4 [[[[Weapon Dice]]]]
+- **Legendary:** 6 [[[[Weapon Dice]]]]
 ##### Note
 Might increase action cost of this attack by 1. 
 

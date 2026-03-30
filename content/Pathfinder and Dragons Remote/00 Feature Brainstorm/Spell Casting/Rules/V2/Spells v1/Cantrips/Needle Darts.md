@@ -1,10 +1,10 @@
 **Tradition:** #ArcaneTradition #DivineTradition #OccultTradition #PrimalTradition 
 **Casting Time:** 2 actions
-**Range:** 60 Feet.
+- **Range:** 60 Feet.
 **Targets:** 1 creature
 **Components:** #Physical 
 **Casting Requirements:** #Somatic #Material 
-**Duration:** #Instantaneous 
+- **Duration:** #Instantaneous 
 **Stability:** #Volatile 
 
 You shape three needles out of a piece of metal in your possession and send them flying in a tight group toward one target. Make a ranged spell attack against the target. On a hit, the targets takes 3d4 piercing damage. All of the needles impart any special properties of the metal that forms them; for instance, [cold iron](https://2e.aonprd.com/Equipment.aspx?ID=272) needles deal additional damage to creatures with weakness to cold iron.

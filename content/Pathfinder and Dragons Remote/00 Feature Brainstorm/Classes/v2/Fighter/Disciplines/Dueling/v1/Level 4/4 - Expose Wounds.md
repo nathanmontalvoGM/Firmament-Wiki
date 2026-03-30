@@ -1,6 +1,6 @@
-**Prerequisite:** [[Dueling Discipline]]
-**Level:** 4
-**Tag:** #Strike #Maneuver 
+- **Prerequisite:** [[Dueling Discipline]]
+- **Level:** 4
+- **Tag:** #Strike #Maneuver 
 
 **Trigger:** **Trigger:** You are attacking your Duel Target and they are [[01 Condition#Bloodied (WIP)|Bloodied]].
 **Cost:** 1 Action

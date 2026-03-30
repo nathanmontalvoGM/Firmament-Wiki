@@ -3,7 +3,7 @@
 **Casting Time:** 2 actions
 **Components:** #Electricity #Evocation 
 **Casting Requirements:** #Verbal #Somatic 
-**Duration:** #Instantaneous
+- **Duration:** #Instantaneous
 
 An arc of lightning leaps from one target to another. This spell targets an additional creature 30 feet outside of the original casting range. Each target must succeed on a [[Basic Saving Throw|Basic]] dexterity saving throw or take 1d6 electricity damage.
 

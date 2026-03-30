@@ -1,6 +1,6 @@
-**Prerequisite:** [[Arcane Warrior]]
-**Level:** 3
-**Tag:** #Rune
+- **Prerequisite:** [[Arcane Warrior]]
+- **Level:** 3
+- **Tag:** #Rune
 
 This rune empowers your weapon, causing explosions after you attack.
 ## Lesser Rune

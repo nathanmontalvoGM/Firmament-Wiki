@@ -3,7 +3,7 @@
 **Casting Time:** 2 actions 
 **Components:** #Summon 
 **Casting Requirements:** #Verbal 
-**Duration:** 8 hours
+- **Duration:** 8 hours
 
 A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within 30 feet. Instead of using the spells Delivery to determine the casting range, the Delivery is imbued into its **Guardian Protects** feature. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.
 

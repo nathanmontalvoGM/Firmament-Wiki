@@ -1,10 +1,10 @@
 **Tradition:** #ArcaneTradition #PrimalTradition
 **Casting Time:** 2 actions
-**Range:** 30 feet
+- **Range:** 30 feet
 **Targets:** 1 or 2 creatures
 **Components:** #Electricity #Evocation 
 **Casting Requirements:** #Verbal #Somatic 
-**Duration:** #Instantaneous
+- **Duration:** #Instantaneous
 **Stability:** #Volatile 
 
 An arc of lightning leaps from one target to another. Choose up to 2 targets within range. Each target must succeed on a [[Basic Saving Throw|Basic]] dexterity saving throw or take 2d4 electricity damage.

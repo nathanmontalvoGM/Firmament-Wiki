@@ -4,11 +4,11 @@ Spells always have the following features listed in their description:
 
 **Tradition:** Which tradition the spells is available in (Arcane, Primal, Divine or Occult).
 **Casting Time:** How long the spell takes to cast, typically measured in actions.
-**Range:** The maximum distance, in feet, at which the spell can affect a target or area.
+- **Range:** The maximum distance, in feet, at which the spell can affect a target or area.
 **Targets:** How many creatures the spell can target.
 **Components:** The defining traits of the spell, represented by descriptive tags that determine how the spell behaves and interacts with other rules.
 **Casting Requirements:** The physical actions required to cast the spell, such as verbal incantations (V), somatic gestures (S), or material components (M).
-**Duration:** How long the spell’s effects persist once cast.
+- **Duration:** How long the spell’s effects persist once cast.
 **Stability:** A measure of how dangerous the spell is to cast, ranging from stable to unstable.
 
 ## Critical Hits

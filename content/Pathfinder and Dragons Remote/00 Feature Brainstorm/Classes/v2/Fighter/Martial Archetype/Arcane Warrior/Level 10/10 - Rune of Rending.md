@@ -1,6 +1,6 @@
-**Prerequisite:** [[Arcane Warrior]]
-**Level:** 10
-**Tag:** #Rune 
+- **Prerequisite:** [[Arcane Warrior]]
+- **Level:** 10
+- **Tag:** #Rune 
 
 Flavor text.
 

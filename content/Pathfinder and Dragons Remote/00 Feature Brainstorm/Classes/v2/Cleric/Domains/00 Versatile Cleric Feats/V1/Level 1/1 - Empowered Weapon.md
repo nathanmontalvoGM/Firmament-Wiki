@@ -1,6 +1,6 @@
-**Prerequisite:** Cleric
-**Level:** 1
-**Tag:** #Strike
+- **Prerequisite:** Cleric
+- **Level:** 1
+- **Tag:** #Strike
 
 The damage dice of your favored weapon increase by one step.
 

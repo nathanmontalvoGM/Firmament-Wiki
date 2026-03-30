@@ -1,8 +1,8 @@
 **Tradition:** 
 **Casting Time:** 
-**Range:** 
+- **Range:** 
 **Targets:** 
 **Components:** 
 **Casting Requirements:** 
-**Duration:** 
+- **Duration:** 
 **Stability:** 

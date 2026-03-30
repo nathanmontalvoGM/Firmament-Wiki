@@ -1,6 +1,6 @@
-**Prerequisite:** [[Dueling Discipline]]
-**Level:** 6
-**Tag:** #Aegis #Maneuver 
+- **Prerequisite:** [[Dueling Discipline]]
+- **Level:** 6
+- **Tag:** #Aegis #Maneuver 
 
 **Cost:** 2 Action
 

@@ -1,6 +1,6 @@
-**Prerequisite:** [[Dueling Discipline]]
-**Level:** 6
-**Tag:** #Strike #Steadfast #Maneuver 
+- **Prerequisite:** [[Dueling Discipline]]
+- **Level:** 6
+- **Tag:** #Strike #Steadfast #Maneuver 
 
 **Trigger:** The creature is your Duel Target and triggers an [[Opportunity Attack]].
 **Cost:** 1 Reaction
