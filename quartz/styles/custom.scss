@@ -129,20 +129,34 @@
 /* ─── Header / Search ───────────────────────────────── */
 
 header {
+  width: 100%;
   padding: 0.75rem 1rem;
   display: flex;
   justify-content: center;
+  background: #f5f0e8;
+  border-bottom: 1px solid #d4c5a0;
 }
 
-header .search { width: 100%; }
+header .search {
+  width: 80%;
+  max-width: 800px;
+}
 
 header .search-bar {
   width: 100%;
   padding: 0.6rem 1rem;
   font-size: 1rem;
   border-radius: 8px;
+  background: #faf5ec;
+  border: 1px solid #c9a84c;
+  color: #2c1a0e;
 }
-
+.center h1 { color: #1a3d2b; }
+.center h2 { color: #1a3d2b; }
+.center h3 { color: #2d6b4a; }
+.center h4 { color: #2d6b4a; }
+.center h5 { color: #2d6b4a; }
+.center h6 { color: #2d6b4a; }
 /* ─── Body Text ─────────────────────────────────────── */
 
 .center p,
@@ -223,3 +237,4 @@ a[href^="/tags/"] {
   color: #8b6914 !important;
   font-family: 'Cinzel', serif !important;
 }
+
