@@ -95,21 +95,21 @@ Not super sold on the name
 Starting at 2nd level, you can add half your level (rounded down) to any skill you aren’t trained in. 
 
 ## Arcane Art
-At 2nd level, you weave your performance into the spells you cast. Choose an ally you can see and select an effect. 
+At 2nd level, you weave your performance into the spells you cast. When you cast a spell, you can choose an ally and select an effect. 
 
-Your training in performance determines the effects potency. Make a performance check against the DC of the effect you chose. You can attempt a harder DC if you have training equal to that DC in your performance skill. On a success, your target gains the effects, double the bonus on a crit. 
+Your training in performance determines the effects potency. Make a performance check against the DC of the effect you chose. You can attempt a harder DC if you have training equal to that DC in your performance skill. On a success, your target gains the effects, double the bonus on a crit. Arcane Arts effects resolve before the effects of your spell.
 
 You can use Arcane Art a number of times equal to your Charisma modifier + half your level (rounded down) regaining spent uses on a [[Long Rest]].
 
 
 ### The healing one
-The target receives xd6 amount of [[Greater and Lesser Healing|Greater Healing]].
+The target receives xd8 amount of [[Greater and Lesser Healing|Greater Healing]].
 
 | Proficiency | DC  | Success | Critical Success |
 | ----------- | --- | ------- | ---------------- |
-| Trained     | 15  | 1d8     | 2d8              |
-| Expert      | 20  | 2d8     | 4d8              |
-| Master      | 30  | 3d8     | 6d8              |
+| Trained     | 15  | 1d8     | 8 +1d8           |
+| Expert      | 20  | 2d8     | 16 +2d8          |
+| Master      | 30  | 4d8     | 32 +4d8          |
 
 ### The damaging one
 The targets next damaging roll deals an additional xd4 of that weapon or spells damage. 
@@ -118,7 +118,7 @@ The targets next damaging roll deals an additional xd4 of that weapon or spells 
 | ----------- | --- | ------- | ---------------- |
 | Trained     | 15  | 1d4     | 4 +1d4           |
 | Expert      | 20  | 2d4     | 8 +2d4           |
-| Master      | 30  | 3d4     | 12 +3d4          |
+| Master      | 30  | 4d4     | 16 +4d4          |
 ### The Condition one
 The target can immediately repeat a saving throw on a condition afflicting them. They gain a bonus to the roll determined by the DC rolled.
 

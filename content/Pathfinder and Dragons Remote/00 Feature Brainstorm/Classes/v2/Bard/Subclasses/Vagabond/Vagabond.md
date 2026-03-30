@@ -1,4 +1,3 @@
-
 ## Vagabond Spells
 
 | Bard Level | Spells                 |

@@ -1,5 +1,5 @@
-- **Prerequisite:** 
-- **Level:** 
+- **Prerequisite:** [[Bard]]
+- **Level:** 2
 - **Tag:** 
 - **Type:** #RudimentaryFeat 
 
