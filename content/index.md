@@ -5,7 +5,7 @@ title: Home
 <div class="hero">
   <h1>Pathfinder & Dragons</h1>
   <p>It's like pathfinder and DND... WOW!</p>
-  <p>NOTE: Main links aren't setup yet so this wiki is pretty much useless. You can still navigate with the folders on the side but that kinda sucks tbh.</p>
+  <p>NOTE: Only classes and conditions links work atm. You can still navigate with the folders on the side but that kinda sucks tbh.</p>
 </div>
 
 <div class="category-grid">
