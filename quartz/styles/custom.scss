@@ -5,34 +5,20 @@
 .hero {
   text-align: center;
   padding: 4rem 2rem 3rem;
-  border-bottom: 1px solid var(--lightgray);
+  border-bottom: 2px solid #c9a84c;
 }
 
 .hero h1 {
   font-size: 3rem;
   margin-bottom: 0.5rem;
-  color: #ffffff;
+  color: #2c1a0e;
+  font-family: 'Cinzel', serif;
 }
 
 .hero p {
-  color: var(--white);
+  color: #4a4a4a;
   margin-bottom: 1.5rem;
   font-size: 1.1rem;
-}
-
-.hero input {
-  width: 100%;
-  max-width: 500px;
-  padding: 0.6rem 1rem;
-  border-radius: 8px;
-  border: 1px solid var(--lightgray);
-  background: var(--darkgray);
-  color: var(--light);
-  font-size: 1rem;
-}
-
-.hero input::placeholder {
-  color: var(--gray);
 }
 
 /* ─── Category Grid ─────────────────────────────────── */
@@ -52,25 +38,21 @@
   align-items: center;
   justify-content: center;
   padding: 2rem 1rem;
-  border-radius: 12px;
-  border: 1px solid var(--lightgray);
-  background: var(--darkgray);
+  border-radius: 8px;
+  border: 1px solid #c9a84c;
+  background: #faf5ec;
   text-decoration: none;
-  transition: border-color 0.2s, transform 0.2s;
+  transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
 }
 
 .category-card:hover {
-  border-color: var(--secondary);
   transform: translateY(-3px);
-}
-
-.category-card .card-icon {
-  font-size: 2.5rem;
-  margin-bottom: 0.75rem;
+  box-shadow: 0 4px 16px rgba(201, 168, 76, 0.3);
 }
 
 .category-card .card-title {
-  color: var(--light);
+  color: #2c1a0e;
+  font-family: 'Cinzel', serif;
   font-weight: 600;
   font-size: 1rem;
 }
@@ -88,19 +70,23 @@
   display: flex;
   flex-direction: column;
   padding: 1.5rem;
-  border-radius: 12px;
-  border: 1px solid var(--lightgray);
-  border-top: 4px solid var(--lightgray);
-  background: var(--darkgray);
+  border-radius: 8px;
+  border: 1px solid #d4c5a0;
+  border-top: 4px solid #d4c5a0;
+  background: #faf5ec;
   text-decoration: none;
-  transition: transform 0.2s, border-color 0.2s;
+  transition: transform 0.2s, box-shadow 0.2s;
 }
 
-.hub-card:hover { transform: translateY(-3px); }
+.hub-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+}
+
 .hub-card.bard { border-top-color: #9b59b6; }
 .hub-card.bard:hover { border-color: #9b59b6; }
-.hub-card.cleric { border-top-color: #f1c40f; }
-.hub-card.cleric:hover { border-color: #f1c40f; }
+.hub-card.cleric { border-top-color: #c9a84c; }
+.hub-card.cleric:hover { border-color: #c9a84c; }
 .hub-card.fighter { border-top-color: #e74c3c; }
 .hub-card.fighter:hover { border-color: #e74c3c; }
 .hub-card.barbarian { border-top-color: #e67e22; }
@@ -109,12 +95,12 @@
 .hub-status {
   font-size: 0.75rem;
   margin-bottom: 0.5rem;
-  color: var(--gray);
+  color: #666666;
 }
 
 .hub-title {
   font-family: 'Cinzel', serif;
-  color: #ffffff;
+  color: #2c1a0e;
   font-size: 1.4rem;
   font-weight: 700;
   text-align: center;
@@ -122,7 +108,7 @@
 }
 
 .hub-desc {
-  color: var(--gray);
+  color: #4a4a4a;
   font-size: 0.9rem;
   flex-grow: 1;
   margin-bottom: 0.75rem;
@@ -131,11 +117,11 @@
 }
 
 .hub-tags {
-  color: var(--gray);
+  color: #666666;
   font-size: 0.78rem;
   font-weight: 600;
   text-align: center;
-  border-top: 1px solid var(--lightgray);
+  border-top: 1px solid #d4c5a0;
   padding-top: 0.6rem;
   margin-top: auto;
 }
@@ -165,7 +151,7 @@ header .search-bar {
 .center ol,
 tr,
 td {
-  color: #ffffff !important;
+  color: #2c1a0e !important;
 }
 
 .center br {
@@ -194,6 +180,7 @@ td {
 .center h3,
 .center h4 {
   font-family: 'Cinzel', serif;
+  color: #2c1a0e;
   padding-bottom: 0.4rem;
   border-bottom: 2px solid transparent;
   border-image: linear-gradient(to right, #c9a84c, #f0d080, transparent) 1;
@@ -203,12 +190,12 @@ td {
 /* ─── Links ─────────────────────────────────────────── */
 
 .center a {
-  color: #c9a84c !important;
+  color: #8b6914 !important;
   text-decoration: none;
   transition: color 0.2s;
 }
 
-.center a:hover { color: #f0d080 !important; }
+.center a:hover { color: #c9a84c !important; }
 
 /* ─── Tags ──────────────────────────────────────────── */
 
@@ -216,7 +203,7 @@ td {
 a[href^="/tags/"] {
   background: rgba(201, 168, 76, 0.15) !important;
   border: 1px solid #c9a84c !important;
-  color: #c9a84c !important;
+  color: #8b6914 !important;
   border-radius: 999px !important;
   padding: 0.1rem 0.6rem !important;
   font-size: 0.8rem !important;
@@ -229,10 +216,10 @@ a[href^="/tags/"] {
   border: 1px solid #c9a84c !important;
   border-left: 4px solid #c9a84c !important;
   border-radius: 6px !important;
-  background: rgba(201, 168, 76, 0.05) !important;
+  background: rgba(201, 168, 76, 0.08) !important;
 }
 
 .callout-title {
-  color: #c9a84c !important;
+  color: #8b6914 !important;
   font-family: 'Cinzel', serif !important;
 }
