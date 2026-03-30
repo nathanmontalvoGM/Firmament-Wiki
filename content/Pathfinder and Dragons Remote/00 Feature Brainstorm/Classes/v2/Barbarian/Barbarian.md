@@ -2,20 +2,20 @@
 
 ## Maximum Health
 
-**Hit Dice:** 1d12 per barbarian level
-**Maximum Health:** 12 + your Constitution modifier
-You increase your maximum number of HP by this number at 1st level and every level thereafter.
-**Stamina:** 2 + your Dexterity modifier (Minimum of 1).
-You increase your Stamina by this number at 1st level and every level thereafter.
+- **Hit Dice:** 1d12 per barbarian level
+- **Maximum Health:** 12 + your Constitution modifier
+- You increase your maximum number of HP by this number at 1st level and every level thereafter.
+- **Stamina:** 2 + your Dexterity modifier (Minimum of 1).
+- You increase your Stamina by this number at 1st level and every level thereafter.
 ## Proficiencies
 
-**Armor:** Trained in light armor, medium armor, and unarmored defense
-**Weapons:** Trained in simple weapons, martial weapons and unarmed attacks
-**Tools:** None  
-**Saving Throws:** Expert in Strength and Constitution and trained in the other ones.
-**Initiative:** Expert in Initiative 
-**Skills:** Trained in [[Athletics]] 
-Trained in a number of additional skills equal to 3 plus your Intelligence modifier
+- **Armor:** Trained in light armor, medium armor, and unarmored defense
+- **Weapons:** Trained in simple weapons, martial weapons and unarmed attacks
+- **Tools:** None  
+- **Saving Throws:** Expert in Strength and Constitution and trained in the other ones.
+- **Initiative:** Expert in Initiative 
+- **Skills:** Trained in [[Athletics]] 
+- Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 
 ## Equipment
 ## 1st Level

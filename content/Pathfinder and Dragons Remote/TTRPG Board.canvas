@@ -34,7 +34,9 @@
 		{"id":"2ffa371209ca8621","type":"text","text":"# Sorcerer","x":1620,"y":-80,"width":340,"height":140,"color":"5"},
 		{"id":"2631bb520d44262e","type":"text","text":"# Classes","x":770,"y":-280,"width":680,"height":140,"color":"5"},
 		{"id":"e1de9439bef683fc","type":"file","file":"00 Feature Brainstorm/Classes/v2/00 Unfinished/Sorcerer/Sorcerer TODO.md","x":1620,"y":100,"width":340,"height":1020},
-		{"id":"b03f2af430ee2d50","x":3120,"y":60,"width":400,"height":1060,"type":"file","file":"00 Feature Brainstorm/Character Sheet/Character Sheet TODO.md"}
+		{"id":"b03f2af430ee2d50","type":"file","file":"00 Feature Brainstorm/Character Sheet/Character Sheet TODO.md","x":3120,"y":60,"width":400,"height":1060},
+		{"id":"2880c9f508d3d093","x":3520,"y":-80,"width":340,"height":140,"color":"5","type":"text","text":"# WIKI"},
+		{"id":"e369049c889cfd9a","x":3520,"y":60,"width":340,"height":1060,"type":"text","text":"# WIKI TODO\n* "}
 	],
 	"edges":[]
 }

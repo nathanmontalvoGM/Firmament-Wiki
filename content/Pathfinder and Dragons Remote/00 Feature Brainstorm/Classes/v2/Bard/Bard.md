@@ -22,20 +22,20 @@ UPDATE: spell table
 When you choose this class at 1st level, you gain an attribute boost to Charisma. 
 
 ## Maximum Health
-**[[Hit Dice]]:** 1d8 per Bard level
-**[[Hit Points]]:** 8 + your Constitution modifier
-You increase your maximum [[Hit Points]] by this number at 1st level and every level thereafter.
-**[[Stamina]]:** 3 + your Dexterity modifier (Minimum of 1). 
-You increase your [[Stamina]] by this number at 1st level and every level thereafter.
+- **[[Hit Dice]]:** 1d8 per Bard level
+- **[[Hit Points]]:** 8 + your Constitution modifier
+- You increase your maximum [[Hit Points]] by this number at 1st level and every level thereafter.
+- **[[Stamina]]:** 3 + your Dexterity modifier (Minimum of 1). 
+- You increase your [[Stamina]] by this number at 1st level and every level thereafter.
 ## Proficiencies
-**Armor:** Trained in [[Light Armor]] 
-**Weapons:** Trained in simple and martial weapons.
-**Tools:** None  
-**Saving Throws:** Expert in Dexterity and Charisma and trained in the other ones.
-**Perception:** Expert in Perception
-**Skills:** Trained in Occultism and Performance
-Trained in one skill determined by your subclass
-Trained in a number of additional skills equal to 4 plus your Intelligence modifier
+- **Armor:** Trained in [[Light Armor]] 
+- **Weapons:** Trained in simple and martial weapons.
+- **Tools:** None  
+- **Saving Throws:** Expert in Dexterity and Charisma and trained in the other ones.
+- **Perception:** Expert in Perception
+- **Skills:** Trained in Occultism and Performance
+- Trained in one skill determined by your subclass
+- Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 
 ## Key Words
 * **Inspired:** Commonly given with the Bards Performing Arts feature. Creatures that have the inspired condition gain the benefits of whatever performance granted the condition. A creature cannot have more than one instance of inspired and if inspired would be applied, it replaces the old inspired condition
