@@ -24,7 +24,7 @@ title: Home
   <a class="category-card" href="/Combat">
     <div class="card-title">Combat Rules</div>
   </a>
-  <a class="category-card" href="/Conditions">
+  <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Rules/subs systems/Subsystem Backlog/01 Condition">
     <div class="card-title">Conditions</div>
   </a>
 </div>
