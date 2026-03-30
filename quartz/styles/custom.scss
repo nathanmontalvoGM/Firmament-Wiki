@@ -1,5 +1,7 @@
 @use "./base.scss";
 
+/* ─── Hero ─────────────────────────────────────────── */
+
 .hero {
   text-align: center;
   padding: 4rem 2rem 3rem;
@@ -33,9 +35,11 @@
   color: var(--gray);
 }
 
+/* ─── Category Grid ─────────────────────────────────── */
+
 .category-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
   padding: 3rem 2rem;
   max-width: 900px;
@@ -71,49 +75,7 @@
   font-size: 1rem;
 }
 
-.hub-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1.5rem;
-  padding: 2rem 0;
-}
-
-.hub-card {
-  display: flex;
-  flex-direction: column;
-  padding: 1.5rem;
-  border-radius: 12px;
-  border: 1px solid var(--lightgray);
-  background: var(--darkgray);
-  text-decoration: none;
-  transition: border-color 0.2s, transform 0.2s;
-}
-
-.hub-card:hover {
-  border-color: var(--secondary);
-  transform: translateY(-3px);
-}
-
-.hub-title {
-  color: #ffffff;
-  font-size: 1.3rem;
-  font-weight: 700;
-  margin-bottom: 0.5rem;
-}
-
-.hub-desc {
-  color: var(--gray);
-  font-size: 0.9rem;
-  flex-grow: 1;
-  margin-bottom: 0.75rem;
-  line-height: 1.5;
-}
-
-.hub-tags {
-  color: var(--secondary);
-  font-size: 0.8rem;
-  font-weight: 600;
-}
+/* ─── Hub Grid ──────────────────────────────────────── */
 
 .hub-grid {
   display: grid;
@@ -134,41 +96,15 @@
   transition: transform 0.2s, border-color 0.2s;
 }
 
-.hub-card:hover {
-  transform: translateY(-3px);
-}
-
-.hub-card.bard {
-  border-top-color: #9b59b6;
-}
-
-.hub-card.bard:hover {
-  border-color: #9b59b6;
-}
-
-.hub-card.cleric {
-  border-top-color: #f1c40f;
-}
-
-.hub-card.cleric:hover {
-  border-color: #f1c40f;
-}
-
-.hub-card.fighter {
-  border-top-color: #e74c3c;
-}
-
-.hub-card.fighter:hover {
-  border-color: #e74c3c;
-}
-
-.hub-card.barbarian {
-  border-top-color: #e67e22;
-}
-
-.hub-card.barbarian:hover {
-  border-color: #e67e22;
-}
+.hub-card:hover { transform: translateY(-3px); }
+.hub-card.bard { border-top-color: #9b59b6; }
+.hub-card.bard:hover { border-color: #9b59b6; }
+.hub-card.cleric { border-top-color: #f1c40f; }
+.hub-card.cleric:hover { border-color: #f1c40f; }
+.hub-card.fighter { border-top-color: #e74c3c; }
+.hub-card.fighter:hover { border-color: #e74c3c; }
+.hub-card.barbarian { border-top-color: #e67e22; }
+.hub-card.barbarian:hover { border-color: #e67e22; }
 
 .hub-status {
   font-size: 0.75rem;
@@ -204,9 +140,15 @@
   margin-top: auto;
 }
 
-header .search {
-  width: 100%;
+/* ─── Header / Search ───────────────────────────────── */
+
+header {
+  padding: 0.75rem 1rem;
+  display: flex;
+  justify-content: center;
 }
+
+header .search { width: 100%; }
 
 header .search-bar {
   width: 100%;
@@ -215,17 +157,14 @@ header .search-bar {
   border-radius: 8px;
 }
 
-header {
-  padding: 0.75rem 1rem;
-  display: flex;
-  justify-content: center;
-}
+/* ─── Body Text ─────────────────────────────────────── */
 
 .center p,
 .center li,
 .center ul,
-tr, td,
-.center ol {
+.center ol,
+tr,
+td {
   color: #ffffff !important;
 }
 
@@ -241,11 +180,59 @@ tr, td,
   margin-left: 0;
 }
 
-.center ul li::before {
-  display: none;
-}
+.center ul li::before { display: none; }
 
 .center ul li {
   padding-left: 0;
   margin-left: 0;
+}
+
+/* ─── Headers ───────────────────────────────────────── */
+
+.center h1,
+.center h2,
+.center h3,
+.center h4 {
+  font-family: 'Cinzel', serif;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid transparent;
+  border-image: linear-gradient(to right, #c9a84c, #f0d080, transparent) 1;
+  margin-bottom: 1rem;
+}
+
+/* ─── Links ─────────────────────────────────────────── */
+
+.center a {
+  color: #c9a84c !important;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.center a:hover { color: #f0d080 !important; }
+
+/* ─── Tags ──────────────────────────────────────────── */
+
+.tag-link,
+a[href^="/tags/"] {
+  background: rgba(201, 168, 76, 0.15) !important;
+  border: 1px solid #c9a84c !important;
+  color: #c9a84c !important;
+  border-radius: 999px !important;
+  padding: 0.1rem 0.6rem !important;
+  font-size: 0.8rem !important;
+  text-decoration: none !important;
+}
+
+/* ─── Callouts ──────────────────────────────────────── */
+
+.callout {
+  border: 1px solid #c9a84c !important;
+  border-left: 4px solid #c9a84c !important;
+  border-radius: 6px !important;
+  background: rgba(201, 168, 76, 0.05) !important;
+}
+
+.callout-title {
+  color: #c9a84c !important;
+  font-family: 'Cinzel', serif !important;
 }
