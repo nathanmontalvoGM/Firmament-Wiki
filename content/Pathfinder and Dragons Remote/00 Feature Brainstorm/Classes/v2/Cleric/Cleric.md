@@ -6,18 +6,18 @@
 UPDATE: spell table
 ## Cleric Class Features
 
-| Level | Features                                                                                                                                                                                                                    | 1st | 2nd | 3rd | 4th | 5th |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- |
-| 1st   | [[Cleric#Spellcasting\|Spellcasting]], [[Cleric#Divine Domain\| Divine Domain]]. [[Cleric#Divine Font\|Divine Font]], [[Cleric#Favored Weapon\|Favored Weapon]] | 2   |     |     |     |     |
-| 2nd   | [[Cleric Class Feat]]                                                                                                                                                                                                       | 3   |     |     |     |     |
-| 3rd   | [[Cleric#Skill Increases\|Skill Increases]]                                                                                                                                                                  | 4   | 2   |     |     |     |
-| 4th   | Domain Feature                                                                                                                                                                                                              | 4   | 3   |     |     |     |
-| 5th   | General feat, [[Cleric#Perception Expertise\| Perception Expertise]]                                                                                                                                         | 4   | 3   | 2   |     |     |
-| 6th   | , Domain Feature                                                                                                                                                                                                            | 4   | 3   | 3   |     |     |
-| 7th   |                                                                                                                                                                                                                             | 4   | 3   | 3   | 2   |     |
-| 8th   | Domain Feature. [[Cleric#Potent Divinity]]                                                                                                                                                                   | 4   | 3   | 3   | 3   |     |
-| 9th   |                                                                                                                                                                                                                             | 4   | 3   | 3   | 3   | 2   |
-| 10th  |                                                                                                                                                                                                                             | 4   | 3   | 3   | 3   | 3   |
+| Level | Features                                                                                                                                                        | 1st | 2nd | 3rd | 4th | 5th |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- |
+| 1st   | [[Cleric#Spellcasting\|Spellcasting]], [[Cleric#Divine Domain\| Divine Domain]]. [[Cleric#Divine Font\|Divine Font]], [[Cleric#Favored Weapon\|Favored Weapon]] | 4   |     |     |     |     |
+| 2nd   | [[Cleric Class Feat]]                                                                                                                                           | 4   |     |     |     |     |
+| 3rd   | [[Cleric#Skill Increases\|Skill Increases]]                                                                                                                     | 4   | 2   |     |     |     |
+| 4th   | Domain Feature                                                                                                                                                  | 4   | 3   |     |     |     |
+| 5th   | General feat, [[Cleric#Perception Expertise\| Perception Expertise]]                                                                                            | 4   | 3   | 2   |     |     |
+| 6th   | , Domain Feature                                                                                                                                                | 4   | 3   | 3   |     |     |
+| 7th   |                                                                                                                                                                 | 4   | 3   | 3   | 2   |     |
+| 8th   | Domain Feature. [[Cleric#Potent Divinity]]                                                                                                                      | 4   | 3   | 3   | 3   |     |
+| 9th   |                                                                                                                                                                 | 4   | 3   | 3   | 3   | 2   |
+| 10th  |                                                                                                                                                                 | 4   | 3   | 3   | 3   | 3   |
 **Key Ability:** Wisdom
 When you choose this class at 1st level, you gain an attribute boost to Wisdom. 
 
@@ -54,9 +54,6 @@ At 1st level, you choose a domain shaped by your choice of Deity and the gifts t
 | --------------- |
 | [[Life Domain]] |
 
-## Divine Font
-At 1st Level, through your deity's blessing, you gain additional spells determined by your domain. You gain 4 additional level 1 spell slots each day. You can prepare only spells within your domain in these slots.
-
 ## Favored Weapon
 At 1st Level, as a symbol of your deity you wield a weapon that represents them. The types of favored weapons you can pick from are determined by your Domain. This weapon is your spell casting focus for casting spells. You can only have one favored weapon that accomplishes this purpose, requiring an [[01 Investment]] slot. You can choose to invest in a different weapon of the same weapon type, losing investment in the original weapon. 
 
@@ -70,12 +67,18 @@ At 3rd level and every 2 levels thereafter, you gain a skill increase. You can u
   
 You can use any of these skill increases you gain at 7th level or higher to become a master in a skill in which you're already an expert, and any of these skill increases you gain at 15th level or higher to become legendary in a skill in which you're already a master.
 ## General Feat
-At 5rd level and every 5 levels thereafter, you gain an [[Ability Score Improvement]] and a [[General Feat]].
+At 5th level and 10th level, you gain an [[Ability Score Improvement]] and a [[General Feat]].
 
 ## Perception Expertise
 at 5th level, you become more alert to threats around you. Your proficiency rank for Perception increases to expert.
+
+## Feat Expertise
+At 6th level, your proficiency rank for your feats increases to expert.
 
 ## Potent Divinity 
 At 8th level, your proficiency rank for your spell attack modifier and spell DC increase to expert.
 ## Resolute Faith
 At 9th level, your belief provides a bulwark against insidious thoughts. Your proficiency rank for Will saves increases to master. When you roll a success at a Will save, you get a critical success instead.
+
+## Feat Expertise
+At 9th level, your proficiency rank for your feats increases to master.

@@ -55,16 +55,23 @@ Your maximum Mana is equal to 4 x your Bard Level and the highest amount of Mana
 - **Type:** #RudimentaryFeat 
 - At 1st level, you use your artistic medium to aid your allies in battle. 
 
-- 1 action
-- You start a performance, choosing from **Favored Performance** or a performance given by your subclass or a feat. These performances will have the #PerformingArt tag. This performance lasts a minute and requires you to sustain the performance on subsequent turns as a free action. If bard is unable to perform any actions, the performance ends early. The amount of creatures that can be [[01 Condition#Inspired|Inspired]] by you at once is equal to your Charisma modifier. 
+- 2 actions
+- You start a performance, choosing from **Favored Performance** or a performance given by your subclass or a feat. These performances will have the #PerformingArt tag. Unless otherwise stated by the feat, this performance lasts a minute And costs 2 actions. If you are unable to perform any actions, the performance ends early. 
+- 
+- **Allies:** The amount of creatures that can be [[01 Condition#Inspired|Inspired]] by you at once is equal to your Charisma modifier. 
+- **Enemies:** 1 creature
+- You can use Performing Arts a number of times equal to your Charisma modifier. 
 
 ### Favored Performance.
 - **Tag:** #PerformingArt 
-- **Aura:** 30 feet
-- **Targets:** a number of creatures equal to your charisma modifier that can see or hear you within 30 feet.
+- **Range:** 30 foot aura
+- **Type:** #FlexibleFeat 
 
 Allies that hear or see hear you within 30 feet of of your Favored Performance gain the [[01 Condition#Inspired|Inspired]] condition. While [[01 Condition#Inspired|Inspired]], when the ally fails or critically fails a d20 roll within the next 10 minutes, they can choose to gain [[Favored]] on that roll. Once they use [[Favored and Hindered (Advantage System)|Favored]] in this way, they are no longer [[01 Condition#Inspired|Inspired]]. If a creature is already [[01 Condition#Inspired|Inspired]], they cannot be [[01 Condition#Inspired|Inspired]] again. 
 
+- **Trained:** 
+- **Expert:** Increase the range to 60 feet.
+- **Master:** The ally gains 2 stacks of [[Favored and Hindered (Advantage System)|Favored]] on the roll instead of 1. 
 
 ## Bardic Lore
 At 1st level, choose an area of expertise:
@@ -128,6 +135,17 @@ The target can immediately repeat a saving throw on a condition afflicting them.
 | Expert      | 20  | +4      | +8               |
 | Master      | 30  | +6      | +12              |
 
+# Turn it up to eleven! WIP 3rd
+You up the ante on your performance, allowing [[01 Condition#Inspired|Inspired]] creatures to be even more inspired. 
+
+**Prerequisite:** You are using one of your Performing Arts performances
+**Range:** 60 feet
+**Target:** all creatures with the [[01 Condition#Inspired|Inspired]] condition
+
+1 action
+
+## 5th - better performance
+The range for your #PerformingArt performances increases to 60 feet. 
 
 ## 5th - more lore
 

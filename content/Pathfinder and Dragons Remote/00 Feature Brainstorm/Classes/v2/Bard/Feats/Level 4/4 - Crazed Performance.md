@@ -1,5 +1,5 @@
 - **Prerequisite:** [[Bard]]
-- **Level:** 2
+- **Level:** 4
 - **Tag:** #emotion
 - **Type:** #FlexibleFeat 
 

@@ -27,4 +27,4 @@ Intimidation
 Performance
 Diplomacy
 
-WIP Lit example uses of each 
+WIP List example uses of each 
