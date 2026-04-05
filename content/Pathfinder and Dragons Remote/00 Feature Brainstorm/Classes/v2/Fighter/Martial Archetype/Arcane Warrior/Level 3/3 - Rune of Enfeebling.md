@@ -9,4 +9,4 @@ On hit, the creature takes an extra 1d8 void damage. The target must also succee
 ## Greater Rune
 As Lesser Rune, but the damage increases to 2d8. 
 ## Master Rune
-As Greater Rune, but the target is also [[01 Condition#Weakened (Strength) (WIP)|Weakened]] until the start of your next turn.
+As Greater Rune, but the target is also [[01 Condition#Weakened (Strength)|Weakened]] until the start of your next turn.

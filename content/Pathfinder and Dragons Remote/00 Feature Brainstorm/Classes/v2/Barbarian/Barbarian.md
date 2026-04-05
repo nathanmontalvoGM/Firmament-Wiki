@@ -49,7 +49,7 @@ If you exceed your maximum Temper during your turn.
 
 * On a success, your Temper remains at its maximum value. 
 * On a failure, you immediately use your instincts Breaking Point feature. 
-* You then lose your rage and are [[01 Condition#Off-Guard|Off-Guard]] and [[01 Condition#Weakened (Strength) (WIP)|Weakened]] until the start of your next turn.
+* You then lose your rage and are [[01 Condition#Off-Guard|Off-Guard]] and [[01 Condition#Weakened (Strength)|Weakened]] until the start of your next turn.
 
 
 ### Calm Down (WIP)

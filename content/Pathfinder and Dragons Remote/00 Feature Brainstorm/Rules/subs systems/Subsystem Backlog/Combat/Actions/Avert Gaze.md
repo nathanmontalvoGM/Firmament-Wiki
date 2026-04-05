@@ -1,0 +1,1 @@
+You avert your gaze from danger. You gain immunity to effects that rely on sight. Your gaze remains averted until the start of your next turn.

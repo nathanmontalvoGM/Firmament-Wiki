@@ -6,7 +6,7 @@ You receive this condition when you reduce your [[Hit Points]] below their maxim
 
 NOTE: doesn't do much on its own but certain abilities can exploit a bloodied creature 
 ## Clumsy (Dex)
-Your movements become clumsy and inexact. All dexterity based d20 rolls are [[Favored and Hindered (Advantage System)|Hindered]] You also lose your dexterity bonus to AC. 
+Your movements become clumsy and inexact. All dexterity based d20 rolls are [[Favored and Hindered (Advantage System)|Hindered]] and you lose your dexterity bonus to AC. 
 
 ## Charmed
 You are enamored with another creature or object. You cannot attack, use harmful abilities or magical effects on the source of the Charmed effect. The charmer gains [[Favored and Hindered (Advantage System)|Favored]] on any d20 roll to interact socially with you.
@@ -77,8 +77,8 @@ You become headstrong and don't heed the advice of others. All wisdom based d20 
 You feel sluggish and unresponsive. Your movement speed is reduced by 15ft. You also cannot gain any benefits to your speed. You can still take multiple move actions in a turn
 ## Unconscious
 You're sleeping or have been knocked out. You can't take [[actions]] or [[reactions]]. You lose your dexterity bonus to AC. When you gain this condition you drop [[01 Condition#Prone|Prone]] and drop the items your are holding. 
-## Weakened (Strength) (WIP)
-You're body loses some of its strength. All strength based d20 rolls are [[Favored and Hindered (Advantage System)|Hindered]] something for max carrying weight as well
+## Weakened (Strength)
+You're body loses some of its strength. All strength based d20 rolls are [[Favored and Hindered (Advantage System)|Hindered]] and you don't gain your strength bonus to damage rolls.
 
 ## Class Specific Conditions
 ### Bard

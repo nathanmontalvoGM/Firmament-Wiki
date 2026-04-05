@@ -8,9 +8,9 @@
 - **Action Cost:** 1 Reaction
 - **Duration:** #Instantaneous
 
-**Source:**  
 
-**Behavior:**
+
+
 
 **Fundamental:**  
 When an enemy leaves your melee reach while you are raging, you may move toward them as a reaction at the end of their current turn.

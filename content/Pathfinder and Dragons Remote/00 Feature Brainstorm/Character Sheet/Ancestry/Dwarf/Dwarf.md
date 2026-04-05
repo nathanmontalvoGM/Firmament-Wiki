@@ -5,7 +5,8 @@
 * **Features:**
 	* [[Darkvision]]
 	* **Dwarven Toughness.** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
-	* **Dwarven Resilience.** You gain [[Favored and Hindered (Advantage System)|Favored]] on constitution saves against the [[01 Condition#Sickened|Sickened]] condition. As normal, your [[Favored and Hindered (Advantage System)|Favored]] will cancel out [[Favored and Hindered (Advantage System)|Hindered]].
-	* **Stonecunning.** You get Masonry Lore.
+	* **Dwarven Resilience.** You gain [[Favored and Hindered (Advantage System)|Favored]] on constitution saves against the [[01 Condition#Sickened|Sickened]] condition. 
+	* **Stonecunning.** You can shape stone into trinkets or simple tools. You gain the Masonry Lore skill and can use it to make Crafting Checks. Also, when you make a Lore check related to stonework, architecture, or underground structures you gain [[Favored and Hindered (Advantage System)|Favored]]
+		* WIP: need further explanation for crafting stuff
 	* Lore Flavor Feat WIP
-* **Languages:** WIP
+* **Languages:** WIP 

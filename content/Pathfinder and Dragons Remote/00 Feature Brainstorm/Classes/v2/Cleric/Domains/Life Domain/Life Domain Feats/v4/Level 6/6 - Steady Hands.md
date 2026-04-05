@@ -3,9 +3,9 @@
 - **Tag:** #Vitality
 - **Type:** #FlexibleFeat 
 
-**Source:**
 
-**Behavior:**
+
+
 
 **Fundamental:**
 your deity guides your hands even while performing non-magical healing. You cannot critically fail on medicine checks to [[Treat Wounds]]. You also heal the creature an additional amount based on your training in this feat.

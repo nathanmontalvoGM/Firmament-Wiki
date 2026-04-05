@@ -8,8 +8,8 @@
 - **Action Cost:** 3
 - **Duration:** #Instantaneous
 
-**Source:**  
-**Behavior:**
+
+
 
 **Fundamental:**  
 You smash through your opponents. Move 20 feet in a straight line towards your target. If this move intercepts the targets space, make a melee attack against the target. On hit, the target takes additional effects determined by your training in this feat.

@@ -5,7 +5,7 @@
 **Trigger:** You are attacking your Duel Target.
 **Cost:** 1 action
 
-**Source:** 
+
 
 **Execution:**
 

@@ -80,5 +80,5 @@ At 8th level, your proficiency rank for your spell attack modifier and spell DC 
 ## Resolute Faith
 At 9th level, your belief provides a bulwark against insidious thoughts. Your proficiency rank for Will saves increases to master. When you roll a success at a Will save, you get a critical success instead.
 
-## Feat Expertise
+## Feat Mastery
 At 9th level, your proficiency rank for your feats increases to master.

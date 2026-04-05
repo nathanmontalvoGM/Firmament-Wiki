@@ -21,9 +21,9 @@ WIP - might be worthless cause action economy
 - **Duration:** #Instantaneous  
 - **Type:** #FlexibleFeat 
 
-**Source:** 
 
-**Behavior:** 
+
+
 
 **Fundamental:**
 Make two attacks within quick succession. Once per turn, make two attacks, the second attack incurs [[Multiple Attack Penalty]] as normal. These attacks both gain a bonus to damage determined by your training in this feat. After both attacks are made, all attacks against you gain [[Favored and Hindered (Advantage System)|Favored]] until the start of your next turn. 

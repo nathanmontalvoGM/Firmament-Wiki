@@ -8,9 +8,9 @@
 - **Action Cost:** 2
 - **Duration:** #Instantaneous 
 
-**Source:** 
 
-**Behavior:** 
+
+
 
 **Fundamental:**
 You expose the wounds of your enemies.

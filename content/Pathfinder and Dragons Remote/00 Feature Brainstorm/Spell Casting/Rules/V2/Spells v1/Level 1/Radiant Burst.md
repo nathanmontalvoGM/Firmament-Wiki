@@ -9,5 +9,5 @@
 
 You violently cleanse the sins of a target. The target must make a basic consitution saving throw or take 2d8 radiant damage. 
 
-**Failure:** Full damage and [[01 Condition#Weakened (Strength) (WIP)|Weakened]] 
+**Failure:** Full damage and [[01 Condition#Weakened (Strength)|Weakened]] 
 **Critical Failure:** as failure but they are also [[01 Condition#Off-Guard|Off-Guard]].

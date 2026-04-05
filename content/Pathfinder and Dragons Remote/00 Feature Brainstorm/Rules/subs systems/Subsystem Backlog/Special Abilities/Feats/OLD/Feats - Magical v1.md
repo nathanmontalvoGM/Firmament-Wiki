@@ -166,7 +166,7 @@ Flavor Text. Once per scene, when this feat affects a target, it applies lingeri
 
 ##### Decay - Severe
 
-- **Trained:** When you use this feat, pick a creature within 30 feet of the original target. This creature becomes [[01 Condition#Weakened (Strength) (WIP)|Weakened]] until the start of your next turn and they take 2d6 void damage.
+- **Trained:** When you use this feat, pick a creature within 30 feet of the original target. This creature becomes [[01 Condition#Weakened (Strength)|Weakened]] until the start of your next turn and they take 2d6 void damage.
 - **Expert:** The damage increases to 3d6. This feature can be used twice per scene instead of once. 
 - **Master:** The damage increases to 4d6. The target is also [[01 Condition#Drained (Con)|Drained]] until the start of your next turn.
 - **Legendary:** The damage increases to 6d6. If this damage would reduce the target to 0 [[Hit Points]], deal 6d6 void damage to an adjacent target within 30 feet. Repeat this effect if the new target is also reduced to 0 [[Hit Points]].

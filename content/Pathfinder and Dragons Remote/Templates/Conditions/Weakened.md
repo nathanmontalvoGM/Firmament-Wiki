@@ -1,1 +1,1 @@
-[[01 Condition#Weakened (Strength) (WIP)|Weakened]] 
+[[01 Condition#Weakened (Strength)|Weakened]] 

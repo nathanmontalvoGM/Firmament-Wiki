@@ -4,7 +4,7 @@
 **Cost:** 2 Actions
 - **Type:** #FlexibleFeat 
 
-**Source:**
+
 
 **Behavior**
 Make a melee attack. On hit, roll **Vitality Dice** and heal that amount to a creature within 30 feet.

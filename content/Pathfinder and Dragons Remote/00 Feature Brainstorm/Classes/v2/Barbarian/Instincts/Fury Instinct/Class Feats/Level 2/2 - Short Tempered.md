@@ -8,12 +8,8 @@
 - **Action Cost:** —- 
 - **Duration:** #Instantaneous 
 
-**Source:** 
-
-**Behavior:** 
-
 **Fundamental:**
-You embrace your erupting aggression rather than resisting it. When you lose your rage as a result of your Breaking Point feature, you don’t gain the [[01 Condition#Weakened (Strength) (WIP)|Weakened]]  condition. You also gain the following features determined by your training in this feat:
+You embrace your erupting aggression rather than resisting it. When you lose your rage as a result of your Breaking Point feature, you don’t gain the [[01 Condition#Weakened (Strength)|Weakened]]  condition. You also gain the following features determined by your training in this feat:
 
 **Inherited:** Sources and Behaviors applied to this feat apply to the another feat as well.
 
