@@ -10,11 +10,14 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Pathfinder & Dragons WIKI",
     ignorePatterns: [
-      "Pathfinder and Dragons Remote/Templates/**",
-      "Pathfinder and Dragons Remote/Rejected Ideas/**",
-      "Pathfinder and Dragons Remote/PAD TODO/**",
-      "Pathfinder and Dragons Remote/TTRPG Design/**",
-    ],
+  "Templates/**",
+  "Private/**", 
+  "Archive/**",
+  "Pathfinder and Dragons Remote/Templates/**",
+  "Pathfinder and Dragons Remote/Rejected Ideas/**",
+  "Pathfinder and Dragons Remote/PAD TODO/**",
+  "Pathfinder and Dragons Remote/TTRPG Design/**",
+],
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -23,7 +26,6 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["Templates/**", "Private/**", "Archive/**","TTRPG Design/**"],
     defaultDateType: "modified",
     theme: {
       cdnCaching: true,
