@@ -1,30 +1,62 @@
----
-title: Pathfinder & Dragon Wiki
----
+\---
+
+title: Pathfinder \& Dragon Wiki
+
+\---
+
+
 
 <div class="hero">
-  <h1>Pathfinder & Dragons</h1>
-  <p>It's like pathfinder and DND... WOW!</p>
-  <p>NOTE: Classes, Ancestries, Conditions and Spells are setup.</p>
+
+&#x20; <h1>Pathfinder \& Dragons</h1>
+
+&#x20; <p>It's like pathfinder and DND... WOW!</p>
+
+&#x20; <p>NOTE: Classes, Ancestries, Conditions and Spells are setup.</p>
+
 </div>
 
+
+
 <div class="category-grid">
-  <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00-Feature-Brainstorm/Classes/v2/Classes">
-    <div class="card-title">Classes</div>
-  </a>
-  <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Spell Casting/List of Spells">
-    <div class="card-title">Spells</div>
-  </a>
-  <a class="category-card" href="/Feats">
-    <div class="card-title">Feats</div>
-  </a>
-  <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Character Sheet/Ancestry/Ancestries">
-    <div class="card-title">Ancestries</div>
-  </a>
-  <a class="category-card" href="/Combat">
-    <div class="card-title">Combat Rules</div>
-  </a>
-  <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Rules/subs systems/Subsystem Backlog/01 Condition">
-    <div class="card-title">Conditions</div>
-  </a>
+
+&#x20; <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00-Feature-Brainstorm/Classes/v2/Classes">
+
+&#x20;   <div class="card-title">Classes</div>
+
+&#x20; </a>
+
+&#x20; <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Spell Casting/List of Spells">
+
+&#x20;   <div class="card-title">Spells</div>
+
+&#x20; </a>
+
+&#x20; <a class="category-card" href="/Feats">
+
+&#x20;   <div class="card-title">Feats</div>
+
+&#x20; </a>
+
+&#x20; <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Character Sheet/Ancestry/Ancestries">
+
+&#x20;   <div class="card-title">Ancestries</div>
+
+&#x20; </a>
+
+&#x20; <a class="category-card" href="/Combat">
+
+&#x20;   <div class="card-title">Combat Rules</div>
+
+&#x20; </a>
+
+&#x20; <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Rules/subs systems/Subsystem Backlog/01 Condition">
+
+&#x20;   <div class="card-title">Conditions</div>
+
+&#x20; </a>
+
 </div>
+
+
+
