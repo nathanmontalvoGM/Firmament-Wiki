@@ -1,4 +1,4 @@
-- **Prerequisite:** [[Cleric]], [[Martyr Domain]]
+- **Prerequisite:** [[Cleric]], [[Martyr Domain]], #Vitality2 
 - **Level:** 10
 - **Tag:** #Vitality 
 - **Type:** #RudimentaryFeat 

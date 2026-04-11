@@ -1,5 +1,5 @@
 ## 🔴 Critical Tasks
-- [ ] Update spell table [priority::important] [class:: bard] [notes::]
+- [ ] Update spell table [priority::important] [class:: Bard] [notes::]
 - [ ] Define saving throw proficiencies [priority:: critical] [class:: Bard]
 - [ ] Define skill proficiencies and number granted [priority:: critical] [class:: Bard] [notes:: Bard should get more skills than most classes]
 - [ ] Define weapon and armor proficiencies [priority:: critical] [class:: Bard]

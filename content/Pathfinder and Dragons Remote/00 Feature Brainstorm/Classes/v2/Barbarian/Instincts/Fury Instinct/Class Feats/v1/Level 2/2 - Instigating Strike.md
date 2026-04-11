@@ -1,4 +1,4 @@
-- **Prerequisite:** [[Fury Instinct]]
+- **Prerequisite:** [[Barbarian]], [[Fury Instinct]]
 - **Level:** 2
 - **Tag:** #Strike #Rage 
 

@@ -12,4 +12,4 @@ Your deity’s grace doesn’t extend to your sworn enemies. When you cast a lev
 - **Expert:** If the spell normally heals multiple targets, you may choose any number of them to take damage instead of healing.
 - **Master:** When you use a spell this way, deal extra radiant damage equal to your spellcasting modifier to each affected target. 
 
-#revision4 #Cleric #ClericFeat #Level1Feat #LifeDomain
+#revision5 #Cleric #ClericFeat #Level1Feat #LifeDomain

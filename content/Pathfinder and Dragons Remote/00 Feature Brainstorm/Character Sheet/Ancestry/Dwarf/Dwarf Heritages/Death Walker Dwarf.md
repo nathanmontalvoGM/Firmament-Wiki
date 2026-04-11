@@ -1,8 +1,8 @@
 
 ### 1st 
 **Frequency:** Once per [[Long Rest]]
-**Trigger:** you would fall to 0 [[Hit Points]]
-You've shrugged off death more times than you can count. When you drop to 0 [[Hit Points]] fill one segment of the [[Death Clock]] instead of two.
+**Trigger:** your [[Hit Points]] are reduced to 0
+You've shrugged off death more times than you can count. When you drop to 0 [[Hit Points]] fill one segment of your [[Death Clock]] instead of two.
 
 ### 3rd
 

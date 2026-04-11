@@ -3,8 +3,8 @@
 ## Maximum Health
 
 - **Hit Dice:** 1d12 per barbarian level
-- **Maximum Health:** 12 + your Constitution modifier
-- You increase your maximum number of HP by this number at 1st level and every level thereafter.
+- **[[Hit Points]]:** 12 + your Constitution modifier
+- You increase your maximum number of [[Hit Points]] by this number at 1st level and every level thereafter.
 - **Stamina:** 2 + your Dexterity modifier (Minimum of 1).
 - You increase your Stamina by this number at 1st level and every level thereafter.
 ## Proficiencies
@@ -52,7 +52,7 @@ If you exceed your maximum Temper during your turn.
 * You then lose your rage and are [[01 Condition#Off-Guard|Off-Guard]] and [[01 Condition#Weakened (Strength)|Weakened]] until the start of your next turn.
 
 
-### Calm Down (WIP)
+### Focus Up
 - **Target:** Self 
 - **Range:** ---
 - **Action Cost:** 1 

@@ -20,3 +20,28 @@ WHERE task.class
 GROUP BY task.class AS class
 SORT class ASC
 ```
+
+```dataview
+TABLE WITHOUT ID
+  system AS "Systems",
+  length(filter(rows.task, (t) => t.completed)) AS "Done",
+  length(filter(rows.task, (t) => !t.completed)) AS "Remaining",
+  round((length(filter(rows.task, (t) => t.completed)) / length(rows.task)) * 100) + "%" AS "Progress"
+FROM ""
+FLATTEN file.tasks AS task
+WHERE task.system
+GROUP BY task.system AS system
+SORT system ASC
+```
+```dataview
+TABLE WITHOUT ID
+  ancestry AS "Ancestry",
+  length(filter(rows.task, (t) => t.completed)) AS "Done",
+  length(filter(rows.task, (t) => !t.completed)) AS "Remaining",
+  round((length(filter(rows.task, (t) => t.completed)) / length(rows.task)) * 100) + "%" AS "Progress"
+FROM ""
+FLATTEN file.tasks AS task
+WHERE task.ancestry
+GROUP BY task.ancestry AS ancestry
+SORT ancestry ASC
+```

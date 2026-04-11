@@ -3,8 +3,8 @@
 - **Tag:** #Aegis 
 - **Type:** #FlexibleFeat 
 
-- **Target:** 
-- **Range:** 
+- **Target:** —-
+- **Range:** 60 feet
 - **Action Cost:** 1
 - **Duration:** 1 minute
 You raise your shield and it erupts in blinding divine light, searing those who dare approach.

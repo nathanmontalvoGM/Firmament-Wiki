@@ -18,7 +18,6 @@ Once per scene, when this feat affects a creature, you may restore a number of t
 - **Trained:** +2 [[Hit Dice]] + Class Level
 - **Expert:** +3 [[Hit Dice]] + Class Level. This feature can be used twice per scene instead of once.
 - **Master:** +4 [[Hit Dice]] + Class Level, you can remove any condition afflicting the creature.
-- **Legendary:** +6 [[Hit Dice]] + Class Level
 
 ##### Mercy - Minor (Level 2+) WIP
 Removes conditions or does something with conditions
@@ -27,7 +26,6 @@ Once per scene, when this feat affects a creature, you or the creature can attem
 - **Trained:** The target can immediately attempt a saving throw against the afflicting condition as a free action.
 - **Expert:** The target gains  [[Favored and Hindered (Advantage System)|Favored]]this saving throw. This feature can be used twice per scene instead of once. 
 - **Master:** 
-- **Legendary:** 
 ##### Sanctuary - Minor (Level 2+)
 Once per scene, when this feat affects a creature, you provide a bonus to its AC determined by your training in this feat. This effect lasts until an attack is made against the target. Regardless if the attack misses or hits, the benefit is lost.
 
@@ -58,7 +56,7 @@ Twice per scene, when this feat affects a creature, the next time that creature 
 
 - **Master:** regain 6d8 [[Hit Points]]. 
 ##### Consecration - (Level 10)
-Once per scene, when this feat affects a creature:
+Twice per scene, when this feat affects a creature:
 
 - **Master:** Create a 15-foot consecrated area centered on the target until the end of its next turn. Allies in the area gain a +4 bonus to AC and gain 7 resistance to all damage types.
 
