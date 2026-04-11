@@ -1,3 +1,9 @@
+---
+casting-time: 
+duration: 
+components: 
+casting_requirements: 
+---
 **Spell Level:** 3
 **Tradition:** #DivineTradition 
 **Casting Time:** 3 actions

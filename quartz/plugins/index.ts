@@ -45,7 +45,7 @@ export function getStaticResourcesFromPlugins(ctx: BuildCtx) {
 export * from "./transformers"
 export * from "./filters"
 export * from "./emitters"
-
+export { DataviewSpellTable } from "./DataviewSpellTable"
 declare module "vfile" {
   // inserted in processors.ts
   interface DataMap {

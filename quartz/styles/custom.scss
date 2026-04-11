@@ -237,7 +237,7 @@ a[href^="/tags/"] {
   color: #8b6914 !important;
   font-family: 'Cinzel', serif !important;
 }
-
+// spells
 .hub-card.arcane { border-top-color: #7b68ee; }
 .hub-card.arcane:hover { border-color: #7b68ee; }
 .hub-card.primal { border-top-color: #4a9e4a; }
@@ -246,3 +246,38 @@ a[href^="/tags/"] {
 .hub-card.divine:hover { border-color: #c9a84c; }
 .hub-card.occult { border-top-color: #9b59b6; }
 .hub-card.occult:hover { border-color: #9b59b6; }
+
+// spell tables
+.spell-table-wrapper {
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+.spell-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.spell-table th {
+  background: #1a3d2b;
+  color: #f5f0e8;
+  font-family: 'Cinzel', serif;
+  padding: 0.6rem 1rem;
+  text-align: left;
+}
+
+.spell-table td {
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid #d4c5a0;
+  color: #2c1a0e;
+}
+
+.spell-table tr:hover td {
+  background: rgba(201, 168, 76, 0.1);
+}
+
+.dataview-empty {
+  color: #888;
+  font-style: italic;
+}

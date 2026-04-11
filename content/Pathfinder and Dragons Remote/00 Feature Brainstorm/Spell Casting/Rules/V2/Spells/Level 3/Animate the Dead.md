@@ -1,9 +1,15 @@
+---
+casting-time: 3 actions
+duration: Concentration, Varies
+components: Summon, Necromancy
+casting_requirements: Verbal, Somatic, Material
+---
 **Spell Level:**  3
 **Tradition:** #DivineTradition 
 **Casting Time:** 3 actions
 **Components:** #Summon #necromancy 
 **Casting Requirements:** #Verbal #Somatic #Material 
-- **Duration:** Concentration, Varies
+**Duration:** Concentration, Varies
 
 You choose a corpse that is no larger than medium That is within 5 feet of you. The raise the corpse as an undead monster under your control. You can spend a sustain action to control the corpse on your turn. The creature has 3 actions as normal. You also imbue this undead corpse with magical abilities when you summon it. The source of this spell is applied to its Strike action so long as the source targets a creature. The delivery determines the Strikes range instead of determining the range of this spell. The creature is animated for as long as you sustain the spell, costing 1 mana each round. The creature has the following stats:
 

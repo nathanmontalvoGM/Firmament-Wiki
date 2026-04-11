@@ -38,7 +38,10 @@ SORT file.name ASC
 ```dataview
 TABLE WITHOUT ID
   file.link AS "Spell",
-  join(filter(file.tags, (t) => t != "#DivineTradition"), ", ") AS "Tags"
+  casting-time AS "Casting Time",
+  duration AS "Duration",
+  components AS "Components",
+  casting_requirements AS "Casting Requirements"
 FROM "00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 3" AND #DivineTradition
 SORT file.name ASC
 ```
