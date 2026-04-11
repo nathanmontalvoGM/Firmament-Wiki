@@ -43,7 +43,8 @@
 		{"id":"7ac7ec841d65c228","type":"file","file":"00 Feature Brainstorm/Character Sheet/Ancestry/Gnome/Gnome TODO.md","x":-1190,"y":102,"width":340,"height":1018},
 		{"id":"5c88481cc9f7f3f0","type":"file","file":"00 Feature Brainstorm/Character Sheet/Ancestry/Goblin/Goblin TODO.md","x":-850,"y":102,"width":340,"height":1018},
 		{"id":"bde8af62da791f46","type":"file","file":"00 Feature Brainstorm/Character Sheet/Ancestry/Human/Human TODO.md","x":-510,"y":102,"width":340,"height":1018},
-		{"id":"394c64a9bc3dc383","type":"file","file":"00 Feature Brainstorm/Character Sheet/Ancestry/Orc/Orc TODO.md","x":-170,"y":102,"width":340,"height":1018}
+		{"id":"394c64a9bc3dc383","type":"file","file":"00 Feature Brainstorm/Character Sheet/Ancestry/Orc/Orc TODO.md","x":-170,"y":102,"width":340,"height":1018},
+		{"id":"08c640099812dc84","x":2250,"y":100,"width":340,"height":1020,"type":"file","file":"00 Feature Brainstorm/Spell Casting/Spell TODO.md"}
 	],
 	"edges":[]
 }

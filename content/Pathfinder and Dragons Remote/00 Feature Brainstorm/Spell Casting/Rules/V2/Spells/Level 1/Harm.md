@@ -1,9 +1,15 @@
+---
+casting-time: 1-2 actions
+duration: instantaneous
+components: necromancy 
+casting_requirements: Verbal, Somatic
+---
 **Spell Level:** 1
 **Tradition:** #DivineTradition 
 **Casting Time:** 1-2 actions
-**Components:** 
-**Casting Requirements:** 
-- **Duration:** 
+**Components:** #necromancy 
+**Casting Requirements:** #Verbal #Somatic 
+**Duration:** #Instantaneous 
 
 You channel void energy to harm the living or heal the [[undead]]. If the target is a living creature, the target must make a basic constitution saving throw or take 1d6 void damage. If the target is undead, you heal them that amount as [[Greater and Lesser Healing|Greater Healing]]. The number of actions you spend when Casting this Spell determines its damage.
 

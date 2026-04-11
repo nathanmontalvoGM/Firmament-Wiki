@@ -5,7 +5,7 @@ title: Home
 <div class="hero">
   <h1>Pathfinder & Dragons</h1>
   <p>It's like pathfinder and DND... WOW!</p>
-  <p>NOTE: Main links aren't setup yet so this wiki is pretty much useless. You can still navigate with the folders on the side but that kinda sucks tbh.</p>
+  <p>NOTE: Classes, Ancestries and Conditions work atm</p>
 </div>
 
 <div class="category-grid">
@@ -18,7 +18,7 @@ title: Home
   <a class="category-card" href="/Feats">
     <div class="card-title">Feats</div>
   </a>
-  <a class="category-card" href="/Ancestries">
+  <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Character Sheet/Ancestry/Ancestries">
     <div class="card-title">Ancestries</div>
   </a>
   <a class="category-card" href="/Combat">

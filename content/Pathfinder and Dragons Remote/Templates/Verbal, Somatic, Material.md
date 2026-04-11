@@ -1,0 +1,1 @@
+Verbal, Somatic, Material
