@@ -40,6 +40,7 @@
 - [ ] Favored Weapon specific sources [priority:: important] [class:: cleric] [notes::]
 
 ## 🟢 Optional Tasks
-
+### Class Core
+- [ ] Class art [priority:: optional] [class:: Bard [notes::]
 ### Life Domain
 - [ ] Flavor text descriptions [priority:: optional] [class:: cleric] [notes:: your note here]

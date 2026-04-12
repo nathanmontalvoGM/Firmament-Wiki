@@ -3,19 +3,13 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 
 const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
   const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
-  const baseDir = url.pathname
+  const baseDir = `https://nathanmontalvogm.github.io/pathfinder-and-dragons-wiki/${url.pathname.split("/").slice(0, -1).join("/")}/`
 
   return (
     <article class="popover-hint">
       <h1>404</h1>
       <p>{i18n(cfg.locale).pages.error.notFound}</p>
       <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
-      <div class="not-found-report">
-        <p class="not-found-hint">Think this page should exist? Report a broken link:</p>
-        <a id="report-404-btn" class="report-issue-btn" target="_blank" rel="noopener noreferrer">
-          Report this broken link
-        </a>
-      </div>
       <script dangerouslySetInnerHTML={{__html: `
         const btn = document.getElementById('report-404-btn')
         if (btn) {

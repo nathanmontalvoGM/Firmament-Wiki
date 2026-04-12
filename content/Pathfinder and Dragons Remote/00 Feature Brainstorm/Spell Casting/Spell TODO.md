@@ -11,22 +11,37 @@
 
 ### Arcane Tradition
 #### Level 1 Spells
+- [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 #### Level 2 Spells
+- [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 #### Level 3 Spells
+- [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 #### Level 4 Spells
+- [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 #### Level 5 Spells
+- [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 ### Primal Tradition
 #### Level 1 Spells
+- [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 #### Level 2 Spells
+- [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 #### Level 3 Spells
+- [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 #### Level 4 Spells
+- [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 #### Level 5 Spells
+- [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 ### Occult Tradition
 #### Level 1 Spells
+- [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 #### Level 2 Spells
+- [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 #### Level 3 Spells
+- [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 #### Level 4 Spells
+- [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 #### Level 5 Spells
+- [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 ## 🟡 Important Tasks
 
 ## 🟢 Optional Tasks
