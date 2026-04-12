@@ -14,7 +14,7 @@ const ReportIssue: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   return (
     <div class="report-issue">
       <a href={issueUrl} target="_blank" rel="noopener noreferrer" class="report-issue-btn">
-        🐛 Report an Issue with this page
+        Report an Issue with this page
       </a>
     </div>
   )
