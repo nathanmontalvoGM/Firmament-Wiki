@@ -5,12 +5,12 @@
 
 **Fundamental:** Whenever you restore hit points to a creature with a spell, the healing increases by 2 + your training in this feat.
 
-**Inherited:** Sources and Behaviors applied to this feat apply to the spell its used with.
+**Inherited:** Sources applied to this feat apply to the spell its used with.
 
 --- 
 - **Trained:** +2
 - **Expert:** +5
-- **Master:** +8, can exchange one minor behavior for a major one instead.
+- **Master:** +8
 - **Legendary:** +11
 
 ## NOTE

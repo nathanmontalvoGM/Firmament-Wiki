@@ -49,8 +49,10 @@ SORT file.name ASC
 ```
 ## Intro
 You specialize in one-on-one combat, wielding one-handed weapons. When you select this discipline at level 1, you gain the Duel Target feature.
-## Weapon Specialization 
-Weapons that are one handed or versatile while wielding no weapons in your second hand. If you select a versatile weapon, it must be wielded one-handed To gain your Discipline's features.
+## Signature Weapon
+Weapons that are one handed or versatile while wielding no weapons in your second hand. If you select a versatile weapon, it must be wielded one-handed to gain your Discipline's features.
+
+Your Signature Weapon can not have the **Versatile** weapon enhancement. It gains the **Sharp** enhancement as a free enhancement.
 
 ## Duel Target
 At 1st Level, Flavor text.
@@ -90,10 +92,10 @@ At 6th Level, when you designate a creature as your dueling target, you can choo
 ## Prolonged Duel
 Als at 6th Level, you've learned to engage your Duel Target for longer periods of time. You can go 1 round without attacking your Duel target before losing them as your Duel target. 
 
-## Finding the Opening
+## Making the Opening
 At 9th level, prolonged combat against a single foe reveals cracks in their defense. When your Duel Target becomes [[01 Condition#Bloodied (WIP)|Bloodied]], your attacks ignore resistance up to an amount equal to your level. If the creature would be immune to your attacks, it instead has resistance.
 ## Internal
-* unlocks more maneuvers has the class levels up
+* unlocks more maneuvers as the class levels up
 * additional class features allow you to be better at the target you are fighting
 	* 2 rounds of fighting means you gain a +2 attack bonus against the target
 ### feats

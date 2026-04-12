@@ -4,6 +4,7 @@
 - [ ] Define saving throw proficiencies [priority:: critical] [class:: Bard]
 - [ ] Define skill proficiencies and number granted [priority:: critical] [class:: Bard] [notes:: Bard should get more skills than most classes]
 - [ ] Define weapon and armor proficiencies [priority:: critical] [class:: Bard]
+- [ ] Class DC scaling [priority:: critical] [class:: Bard]
 
 ### Spellcasting
 - [ ] Build out core Bard spell list [priority:: critical] [class:: Bard] [notes:: Focus on debuffs, buffs, utility]

@@ -15,7 +15,6 @@ const config: QuartzConfig = {
   "Archive/**",
   "Pathfinder and Dragons Remote/Templates/**",
   "Pathfinder and Dragons Remote/Rejected Ideas/**",
-  "Pathfinder and Dragons Remote/PAD TODO/**",
   "Pathfinder and Dragons Remote/TTRPG Design/**",
 ],
     pageTitleSuffix: "",

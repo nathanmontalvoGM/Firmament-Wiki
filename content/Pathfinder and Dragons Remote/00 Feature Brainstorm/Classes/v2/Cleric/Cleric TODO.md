@@ -2,6 +2,7 @@
 
 ### Class Core
 - [ ] Update spell table [priority::critical] [class:: cleric] [notes::]
+- [ ] Class DC scaling [priority::critical] [class:: cleric] [notes::]
 
 ### Life Domain
 - [ ] 1st Level change [priority:: critical] [class:: cleric] [notes::]

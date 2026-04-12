@@ -1,3 +1,9 @@
+---
+casting-time:
+duration:
+components:
+casting_requirements:
+---
 ## Notes
 ### TODO
 * add the boring saving throw level up stuff
@@ -48,20 +54,71 @@ Trained in Fighter Class DC
 ## Fighting Discipline
 At 1st Level, you have trained in a specific discipline, adopting it as your fighting style. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again. 
 
-Each discipline has a specific **weapon specialization** unique to that discipline. Features granted by that discipline may only be used by weapon types specialized in that discipline. 
-
-| Discipline             |
-| ---------------------- |
-| [[Dueling Discipline]] |
+| Discipline                  |
+| --------------------------- |
+| [[Dueling Discipline]]      |
+| [[Great Weapon Discipline]] |
 
 
 Under Construction
  * [[Archery Discipline]]
 * [[Two-Weapon Discipline]]
-* [[Great Weapon Discipline]]
 * [[Defense Discipline]]
+## Signature Weapon
+Each discipline has a specific Signature Weapon that you create and that is unique to that discipline. Each discipline places restrictions on what traits your weapon can have. Features granted by that discipline may only be used by weapon types specialized in that discipline. 
+
+Below is a complete list of a all your Signature Weapon traits. Unless otherwise specified by your Discipline, you are free to pick your weapons traits from the list. All weapons are one handed unless otherwise specified.
+
+### Base Weapon (pick 1)
+
+| Base Weapon | Base Damage Dice         | Feature                                                                                                                                                                                                                                                                                                                                                    |
+| ----------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sword       | 1d8 Slashing             | Versatile. Swords gain the **Versatile** enhancement as a free enhancement                                                                                                                                                                                                                                                                                 |
+| Axe         | 1d8 Slashing             | Cleave. On hit, you can deal half damage to another creature within reach of your weapon                                                                                                                                                                                                                                                                   |
+| Hammer      | 1d8 Bludgeoning          | Concussive. On a critical hit, the target must make a Constitution saving throw against your Class DC or be [[01 Condition#Dazzled\|Dazzled]] until the end of their next turn                                                                                                                                                                             |
+| Spear       | 1d8 Piercing             | Reach. This weapon automatically has a range of Reach and doesn't get its [[Weapon Dice]] reduced                                                                                                                                                                                                                                                          |
+| Flail       | 1d8 Bludgeoning          | Disarming. Once per turn on a hit, you may attempt to disarm the target as a free action                                                                                                                                                                                                                                                                   |
+| Fists       | 1d4 Bludgeoning          | Relentless. You can make one additional unarmed strike per turn as a free action. Your [[Multiple Attack Penalty]] is also -4 on your second attack and -8 on your third.                                                                                                                                                                                  |
+| Dagger      | 1d4 Slashing or Piercing | Finesse. This weapon gains the **Finesse** enhancement as a free enhancement. Your [[Multiple Attack Penalty]] is also -4 on your second attack and -8 on your third.                                                                                                                                                                                      |
+| Whip        | 1d4 Slashing             | Reach. This weapon automatically has a range of Reach. On a hit you can attempt to [[01 Condition#Restrained\|Restrain]] the target as long as they are not no more than 1 size larger than you. They must a strength saving throw vs your constitution DC. While restrained in this way, you can move yourself and the target as an [[Impeded Movement]]. |
+| Rapier      | 1d6 Piercing             | Precise. You gain a +1 bonus to attack rolls with this weapon. it can only be used one handed                                                                                                                                                                                                                                                              |
+| Lance       | 1d10 Piercing            | Mounted. Rolls with this weapon are [[Favored and Hindered (Advantage System)\|Hindered]] unless you move 20 feet or more in a straight line. Deals an additional [[Weapon Dice\|Weapon Die]] on the first attack made after moving 20 feet or more.                                                                                                       |
+| Sickle      | 1d4 Slashing             | Trip. Once per turn on a hit you may attempt to knock the target [[01 Condition#Prone\|Prone]] as a free action. They must succeed strength saving throw vs your constitution DC.                                                                                                                                                                          |
+### Weapon Range (pick 1)
+
+| Range | Effect                                                                                                                                                                      |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Close | Your weapon has a range of 5 feet                                                                                                                                           |
+| Reach | Your weapon has a range of 10 feet. The weapon must be wielded two handed. If wielded with one hand, its attacks are [[Favored and Hindered (Advantage System)\|Hindered]]. |
+### Enhancements (pick 2)
+
+| Enhancement  | Effect                                                                                                                                                                                                                                                                                                                                                         |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Huge         | Increase the range of this weapon by 5 feet. This weapon must be wielded two handed or gain [[Favored and Hindered (Advantage System)\|Hindered]] on all its attack rolls. Attacks with this weapon gain a -2 penalty to the roll. you roll an additional [[Weapon Dice\|Weapon Die]] with this weapon. You cannot have Versatile and Huge on the same weapon. |
+| Sharp        | This weapon gains a +2 bonus to damage rolls.                                                                                                                                                                                                                                                                                                                  |
+| Balanced     | This weapon is weighted perfectly, it gains a +2 to attack rolls.                                                                                                                                                                                                                                                                                              |
+| Spiked       | This weapon causes enemies to bleed. Targets hit with this weapon take 1d4 persistent bleed damage.                                                                                                                                                                                                                                                            |
+| Versatile    | You can use one or two hands to wield this weapon. If you use two hands, increase its [[Weapon Dice]] by one step (maximum of a d12).                                                                                                                                                                                                                          |
+| Backstabbing | The weapon deals an additional [[Weapon Dice\|Weapon Die]] when attacking [[01 Condition#Off-Guard\|Off-Guard]] creatures.                                                                                                                                                                                                                                     |
+| Forecful     | The second attack made with this weapon gains a bonus to damage equal to double the number of weapon damage dice rolled.                                                                                                                                                                                                                                       |
+| Finesse      | You can use your Dexterity modifier instead of your Strength modifier on attack rolls using this weapon. You still calculate damage using Strength.                                                                                                                                                                                                            |
+| Parrying     | While wielding this weapon you gain a +1 bonus to AC.                                                                                                                                                                                                                                                                                                          |
+| Brutal       | You reroll 1s and 2s on all damage dice rolled with this weapon and must use the new result.                                                                                                                                                                                                                                                                   |
+| Sweeping     | When you make an attack with this weapon, you may choose a second creature adjacent to the first. That creature takes damage equal to your twice your Strength modifier on a hit.                                                                                                                                                                              |
+### Appearance (pick 1)
+
+| Appearance    | Effect                                                                                                                                                                                                                                                                                                                                        |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ancient       | Your weapon originates from a long time long past.                                                                                                                                                                                                                                                                                            |
+| Blood Stained | Your weapon is marked by countless battles. You can use your sword as part of an Intimidation (charisma) check. If you do, you gain a +2 bonus to the roll. Additionally, enemies that witness you reduce a creature to 0 Hit Points must make a Wisdom saving throw against your Class DC or become [[01 Condition#Frightened\|Frightened]]. |
+| Ornate        | Your weapon is work of art and clearly valuable to to others. You can brandish your weapon during deception (charisma) distraction checks. If you do so, gain a +2 bonus to the roll.                                                                                                                                                         |
+| Unblemished   | Your weapon is pristine and immaculate from hours of careful maintenance. You gain a +2 to diplomacy (charisma) checks against warriors . or other military figures.                                                                                                                                                                          |
+| Runic         | Your weapon is etched with strange markings. Once per scene, you may activate the runes as a free action to deal an additional 1d4 damage of a type of your choice on your next hit.                                                                                                                                                          |
+| Cursed        | Your weapon has a dark history. Its damage type is #void instead of its listed damage type. You gain a +4 bonus to attack rolls but the weapon cannot be out of your possession for more than a minute. If it is, you gain 1 level of Exhaustion, and gain additional levels every 10 minutes.                                                |
+| Blessed       | Your weapon has been consecrated. Its damage type is #Radiant instead of its listed damage type. Increase the degree of success by 1 step against undead and fiends.                                                                                                                                                                          |
 
 ## Maneuvers 
+
 At 1st Level, your proficiency with weapons within your discipline allows you to perform special maneuvers with them. Unless otherwise stated, a maneuver always has an attack followed by the listed maneuver. If you successfully hit with the preceding attack, you can then perform the maneuver. You can use 1 maneuver per turn and you regain uses at the end of your turn. All maneuvers use the #Maneuver tag.
 
 
@@ -87,24 +144,29 @@ At 3rd level, you choose an archetype that you strive to emulate in your combat 
 | Archetype          |     |
 | ------------------ | --- |
 | [[Arcane Warrior]] |     |
-| Scout              |     |
+| [[Weaponmaster]]   |     |
 | Eldritch Knight    |     |
 | Combat Medic       |     |
-| Champion           |     |
+| Scout              |     |
 ## General Feat
-At 5th level and every 5 levels thereafter, you gain an [[Ability Score Improvement]] and a [[General Feat]].
+At 5th level and 10th level, you gain an [[Ability Score Improvement]] and a [[General Feat]].
 
 ## Extra Attack
-At 5th level, you gain a 4th action that can only be used for features with the #Maneuver tag and doesn't incur multiple attack penalty. If a maneuver would take more than 1 action, ExtraAattack counts as one of those actions.
+At 5th level, you gain a 4th action that can only be used for features with the #Maneuver tag and doesn't incur multiple attack penalty. If a maneuver would take more than 1 action, Extra Attack counts as one of those actions.
+
+## Feat Expertise
+At 6th level, your proficiency rank for your feats increases to expert.
+## Battlefield Surveyor
+At 7th level, whether taking stock of an enemy army or simply standing guard, you excel at observing your foes. Your proficiency rank for Perception increases to master. In addition, you gain a +2  bonus to Perception checks for initiative, making you faster to react during combat.
 
 ## Battle Hardened
 At 8th Level, your experience in battle helps protect you against magic and toxins alike. Your proficiency rank for Strength and Dexterity saves increases to master. When you roll a success on a Strength or Dexterity save, you get a critical success instead.
 
-## Battlefield Surveyor
-At 7th level, whether taking stock of an enemy army or simply standing guard, you excel at observing your foes. Your proficiency rank for Perception increases to master. In addition, you gain a +2  bonus to Perception checks for initiative, making you faster to react during combat.
-
 ## Combat Flexibility 
 At 9th level, you can prepare your tactics to suit different situations. When you make your daily preparations, you can replace one fighter feat of 9th level or lower that you meet the prerequisites for and don't already have with another. You can use that feat until your next daily preparations.
+
+## Feat Mastery
+At 9th level, your proficiency rank for your feats increases to master.
 
 ## Armor Expertise
 At 10 level, you have spent so much time in armor that you know how to make the most of its protection. Your proficiency ranks for light, medium, and heavy armor, as well as for unarmored defense, increase to expert.
