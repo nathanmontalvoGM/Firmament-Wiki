@@ -52,8 +52,10 @@ function getSpellsFromFolder(
       continue
     }
 
-    const slug = folder + "/" + file.replace(".md", "")
-    const urlSlug = slug.replace(/\s+/g, "-")
+    // Build correct slug from full path including contentFolder prefix
+    const fullRelativePath = path.join(folder, file.replace(".md", ""))
+    // Replace spaces with hyphens for URL
+    const urlSlug = fullRelativePath.replace(/\s+/g, "-")
 
     spells.push({
       name: data.title || file.replace(".md", ""),
@@ -61,7 +63,7 @@ function getSpellsFromFolder(
       "casting-time": data["casting-time"] || "—",
       duration: data["duration"] || "—",
       components: data["components"] || "—",
-      "casting-requirements": data["casting-requirements"] || "—",
+      "casting-requirements": data["casting_requirements"] || data["casting-requirements"] || "—",
     })
   }
 
@@ -126,8 +128,8 @@ export const DataviewSpellTable: QuartzTransformerPlugin<
             const spells = getSpellsFromFolder(opts.contentFolder, parsed.folder, parsed.tag)
             const html = buildHtmlTable(spells)
 
-            // Insert the table AFTER the dataview block instead of replacing it
-            parent.children.splice(index + 1, 0, {
+            // Replace dataview block with just the static table (hides original dataview block)
+            parent.children.splice(index, 1, {
               type: "html",
               value: html,
             } as any)
