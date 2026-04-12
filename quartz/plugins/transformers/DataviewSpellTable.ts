@@ -53,7 +53,7 @@ function getSpellsFromFolder(
     }
 
     // Build correct slug from full path including contentFolder prefix
-    const fullRelativePath = path.join(folder, file.replace(".md", ""))
+    const fullRelativePath = path.join("Pathfinder and Dragons Remote", folder, file.replace(".md", ""))
     // Replace spaces with hyphens for URL
     const urlSlug = fullRelativePath.replace(/\s+/g, "-")
 
