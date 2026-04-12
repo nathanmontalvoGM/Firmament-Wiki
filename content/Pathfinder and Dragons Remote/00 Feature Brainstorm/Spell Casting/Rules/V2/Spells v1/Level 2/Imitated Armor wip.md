@@ -1,9 +1,9 @@
-**Tradition:** #DivineTradition 
-**Casting Time:** 1 minute
+- **Tradition:** #DivineTradition 
+- **Casting Time:** 1 minute
 - **Range:** touch
 **Targets:** 1 creature
-**Components:** 
-**Casting Requirements:** 
+- **Components:** 
+- **Casting Requirements:** 
 - **Duration:** 8 hours
 **Stability:** #Stable 
 

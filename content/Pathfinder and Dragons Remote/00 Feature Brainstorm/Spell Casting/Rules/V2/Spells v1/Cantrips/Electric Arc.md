@@ -1,9 +1,9 @@
-**Tradition:** #ArcaneTradition #PrimalTradition
-**Casting Time:** 2 actions
+- **Tradition:** #ArcaneTradition #PrimalTradition
+- **Casting Time:** 2 actions
 - **Range:** 30 feet
 **Targets:** 1 or 2 creatures
-**Components:** #Electricity #Evocation 
-**Casting Requirements:** #Verbal #Somatic 
+- **Components:** #Electricity #Evocation 
+- **Casting Requirements:** #Verbal #Somatic 
 - **Duration:** #Instantaneous
 **Stability:** #Volatile 
 

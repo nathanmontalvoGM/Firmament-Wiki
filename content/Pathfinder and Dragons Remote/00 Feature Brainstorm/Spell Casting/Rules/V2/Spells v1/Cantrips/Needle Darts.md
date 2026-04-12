@@ -1,9 +1,9 @@
-**Tradition:** #ArcaneTradition #DivineTradition #OccultTradition #PrimalTradition 
-**Casting Time:** 2 actions
+- **Tradition:** #ArcaneTradition #DivineTradition #OccultTradition #PrimalTradition 
+- **Casting Time:** 2 actions
 - **Range:** 60 Feet.
 **Targets:** 1 creature
-**Components:** #Physical 
-**Casting Requirements:** #Somatic #Material 
+- **Components:** #Physical 
+- **Casting Requirements:** #Somatic #Material 
 - **Duration:** #Instantaneous 
 **Stability:** #Volatile 
 

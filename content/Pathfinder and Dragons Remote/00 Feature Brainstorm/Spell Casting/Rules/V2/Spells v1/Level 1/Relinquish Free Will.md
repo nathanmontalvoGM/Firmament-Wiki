@@ -1,9 +1,9 @@
-**Tradition:** #DivineTradition 
-**Casting Time:** 3 actions
+- **Tradition:** #DivineTradition 
+- **Casting Time:** 3 actions
 - **Range:** 30 feet
 **Targets:** 1 creature
-**Components:** 
-**Casting Requirements:** 
+- **Components:** 
+- **Casting Requirements:** 
 - **Duration:** varies (maximum of 1 minute)
 **Stability:** 
 

@@ -4,12 +4,12 @@ duration: 1 minute concentration
 components: Summon
 casting_requirements: Verbal, Somatic, Material
 ---
-**Spell Level:** 2
-**Tradition:** #DivineTradition 
-**Casting Time:** 3 actions
-**Components:** #Summon 
-**Casting Requirements:** #Verbal #Somatic #Material 
-**Duration:** 1 minute concentration
+- **Spell Level:** 2
+- **Tradition:** #DivineTradition 
+- **Casting Time:** 3 actions
+- **Components:** #Summon 
+- **Casting Requirements:** #Verbal #Somatic #Material 
+- **Duration:** 1 minute concentration
 
 You summon a familiar to follow around a creature of your choosing for the duration. Regardless of the spells Delivery, this familiar is summoned within 5 feet of the caster. If the source targets a creature, it’s applied to the Sacrificial Heal feature Instead. Otherwise it’s cast with the spell as normal. The Delivery is instead applied to its Strike and Sacrificial Heal features. The familiar takes its turn during yours and has 3 actions. If the familiar must use a stat not listed in its stat block, the value is equal to the caster level. 
 

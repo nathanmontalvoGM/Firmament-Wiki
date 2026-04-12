@@ -1,9 +1,9 @@
-**Tradition:** #DivineTradition 
-**Casting Time:** 2 action
+- **Tradition:** #DivineTradition 
+- **Casting Time:** 2 action
 - **Range:** 120 feet
 **Targets:** 1 creature
-**Components:** 
-**Casting Requirements:** #Verbal #Somatic #Material 
+- **Components:** 
+- **Casting Requirements:** #Verbal #Somatic #Material 
 - **Duration:** 1 Round
 **Stability:** #Stable 
 

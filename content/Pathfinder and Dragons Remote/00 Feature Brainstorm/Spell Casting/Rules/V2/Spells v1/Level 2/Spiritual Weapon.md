@@ -1,9 +1,9 @@
-**Tradition:** 1 action
-**Casting Time:** 
+- **Tradition:** 1 action
+- **Casting Time:** 
 - **Range:** 60 feet
 **Targets:** ---
-**Components:** 
-**Casting Requirements:** #Verbal #Somatic 
+- **Components:** 
+- **Casting Requirements:** #Verbal #Somatic 
 - **Duration:** 1 minute
 **Stability:** #Volatile 
 

@@ -4,12 +4,12 @@ duration: 1 round
 components: Psychic
 casting_requirements: Verbal, Somatic
 ---
-**Spell Level:** 1
-**Tradition:** #ArcaneTradition #DivineTradition #OccultTradition
-**Casting Time:** 2 actions
-**Components:** #Psychic #Unkown
-**Casting Requirements:** #Verbal #Somatic 
-**Duration:** 1 round
+- **Spell Level:** 1
+- **Tradition:** #ArcaneTradition #DivineTradition #OccultTradition
+- **Casting Time:** 2 actions
+- **Components:** #Psychic #Unkown
+- **Casting Requirements:** #Verbal #Somatic 
+- **Duration:** 1 round
 
 You push into the target's mind and daze it with a mental jolt. The target must succeed a [[Basic Saving Throw|Basic]] Wisdom saving throw or take 1d6 mental damage.
 

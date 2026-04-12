@@ -1,9 +1,9 @@
-**Tradition:** #ArcaneTradition #PrimalTradition 
-**Casting Time:** 1 action
+- **Tradition:** #ArcaneTradition #PrimalTradition 
+- **Casting Time:** 1 action
 - **Range:** touch
 **Targets:** self
-**Components:** #Aegis #Physical #Abjuration
-**Casting Requirements:** #Somatic 
+- **Components:** #Aegis #Physical #Abjuration
+- **Casting Requirements:** #Somatic 
 - **Duration:** until the start of your next turn
 **Stability:** #Stable
 

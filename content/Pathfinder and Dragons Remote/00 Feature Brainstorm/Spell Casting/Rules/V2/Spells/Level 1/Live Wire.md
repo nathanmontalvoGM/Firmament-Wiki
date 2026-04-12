@@ -1,8 +1,8 @@
-**Spell Level:** 1
-**Tradition:** #ArcaneTradition #PrimalTradition 
-**Casting Time:** 2 actions
-**Components:** #Physical #Electricity 
-**Casting Requirements:** #Verbal #Somatic #Material
+- **Spell Level:** 1
+- **Tradition:** #ArcaneTradition #PrimalTradition 
+- **Casting Time:** 2 actions
+- **Components:** #Physical #Electricity 
+- **Casting Requirements:** #Verbal #Somatic #Material
 - **Duration:** #Instantaneous 
 
 You conjure up a length of sharp copper filament humming with electrical current that strikes out at your foe. Make a ranged spell attack against the target. On a hit, the wire deals 1d3 slashing damage and 1d3 electricity damage.

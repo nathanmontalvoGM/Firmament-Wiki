@@ -1,7 +1,7 @@
-**Tradition:** #DivineTradition 
-**Casting Time:** 24 hours
-**Components:** 
-**Casting Requirements:** #Verbal #Somatic #Material (gemstones worth a total value of 75 gp × the target’s level)
+- **Tradition:** #DivineTradition 
+- **Casting Time:** 24 hours
+- **Components:** 
+- **Casting Requirements:** #Verbal #Somatic #Material (gemstones worth a total value of 75 gp × the target’s level)
 - **Duration:** #Instantaneous 
 
 You attempt to call forth the target's soul and return it to its body. This requires the target's body to be present and relatively intact. The target must have died within the past year. Roll a d100 on the [[Reviving#Revivify Table|Revivify Table]]. The result determines the effectiveness of the resurrection. 

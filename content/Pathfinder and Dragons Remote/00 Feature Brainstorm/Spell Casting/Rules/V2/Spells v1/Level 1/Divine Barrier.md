@@ -1,11 +1,11 @@
 makes a shield the player can use. 
 
-**Tradition:** #DivineTradition 
-**Casting Time:** 2 actions
+- **Tradition:** #DivineTradition 
+- **Casting Time:** 2 actions
 - **Range:** touch
 **Targets:** 1 creature
-**Components:** #Aegis 
-**Casting Requirements:** #Verbal #Somatic 
+- **Components:** #Aegis 
+- **Casting Requirements:** #Verbal #Somatic 
 - **Duration:** 1 minute
 **Stability:** #Stable
 

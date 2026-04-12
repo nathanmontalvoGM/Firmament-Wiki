@@ -1,9 +1,9 @@
-**Tradition:** #DivineTradition 
-**Casting Time:** 1-3 actions
+- **Tradition:** #DivineTradition 
+- **Casting Time:** 1-3 actions
 - **Range:** varies
 **Targets:** 1 willing living creature or 1 undead creature
-**Components:** #void #necromancy 
-**Casting Requirements:** #Verbal #Somatic 
+- **Components:** #void #necromancy 
+- **Casting Requirements:** #Verbal #Somatic 
 - **Duration:** #Instantaneous 
 **Stability:** #Stable 
 

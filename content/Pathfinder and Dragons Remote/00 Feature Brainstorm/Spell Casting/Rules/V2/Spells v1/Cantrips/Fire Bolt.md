@@ -1,9 +1,9 @@
-**Tradition:** #ArcaneTradition
-**Casting Time:** 2 actions
+- **Tradition:** #ArcaneTradition
+- **Casting Time:** 2 actions
 - **Range:** 120 feet
 **Targets:** 1 creature
-**Components:** #Fire #Evocation
-**Casting Requirements:** #Verbal #Somatic
+- **Components:** #Fire #Evocation
+- **Casting Requirements:** #Verbal #Somatic
 - **Duration:** #Instantaneous
 **Stability:** #Volatile
 

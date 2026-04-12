@@ -1,10 +1,10 @@
-**Spell Level:** 2
-**Tradition:** 
-**Casting Time:** 
+- **Spell Level:** 2
+- **Tradition:** 
+- **Casting Time:** 
 - **Range:** 
 **Targets:** 
-**Components:** 
-**Casting Requirements:** 
+- **Components:** 
+- **Casting Requirements:** 
 - **Duration:** 
 **Stability:** 
 

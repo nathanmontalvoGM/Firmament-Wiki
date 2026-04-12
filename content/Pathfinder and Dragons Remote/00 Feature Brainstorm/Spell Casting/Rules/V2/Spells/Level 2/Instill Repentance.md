@@ -4,12 +4,12 @@ duration: 1 Round
 components: emotion
 casting_requirements: Verbal, Somatic
 ---
-**Spell Level:** 2
-**Tradition:** #DivineTradition 
-**Casting Time:** 2 actions
-**Components:** #emotion 
-**Casting Requirements:** #Verbal #Somatic 
-**Duration:** 1 Round
+- **Spell Level:** 2
+- **Tradition:** #DivineTradition 
+- **Casting Time:** 2 actions
+- **Components:** #emotion 
+- **Casting Requirements:** #Verbal #Somatic 
+- **Duration:** 1 Round
 
 You force a creature to atone for their sins and transgressions. The target must make a wisdom saving throw. 
 

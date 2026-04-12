@@ -1,9 +1,9 @@
-**Tradition:** #ArcaneTradition #DivineTradition 
-**Casting Time:** 2 actions
+- **Tradition:** #ArcaneTradition #DivineTradition 
+- **Casting Time:** 2 actions
 - **Range:** 60 feet
 **Targets:** 1 creature
-**Components:** #void #necromancy 
-**Casting Requirements:** #Verbal #Somatic 
+- **Components:** #void #necromancy 
+- **Casting Requirements:** #Verbal #Somatic 
 - **Duration:** #Instantaneous 
 **Stability:** #Stable 
 

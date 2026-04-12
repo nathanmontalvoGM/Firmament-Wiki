@@ -1,9 +1,9 @@
-**Tradition:** #DivineTradition 
-**Casting Time:** 2 actions
+- **Tradition:** #DivineTradition 
+- **Casting Time:** 2 actions
 - **Range:** touch
 **Targets:** 1 creature
-**Components:** 
-**Casting Requirements:** #Verbal #Somatic 
+- **Components:** 
+- **Casting Requirements:** #Verbal #Somatic 
 - **Duration:** #Instantaneous 
 **Stability:** #Stable 
 

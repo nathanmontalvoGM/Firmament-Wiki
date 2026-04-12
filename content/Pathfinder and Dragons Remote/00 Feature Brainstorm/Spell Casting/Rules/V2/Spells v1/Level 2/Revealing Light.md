@@ -1,10 +1,10 @@
-**Tradition:** 
-**Casting Time:** 
+- **Tradition:** 
+- **Casting Time:** 
 - **Range:** 120 feet
 **Area:** 10 foot burst
 **Targets:** creatures in the area
-**Components:** 
-**Casting Requirements:** 
+- **Components:** 
+- **Casting Requirements:** 
 - **Duration:** varies
 **Stability:** #Unstable 
 

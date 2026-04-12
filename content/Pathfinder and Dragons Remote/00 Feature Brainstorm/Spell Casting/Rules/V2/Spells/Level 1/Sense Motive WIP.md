@@ -5,12 +5,12 @@ components: Divination
 casting_requirements: Verbal, Somatic, Material
 ---
 
-**Spell Level:** 1
-**Tradition:** #DivineTradition 
-**Casting Time:** 1 minute
-**Components:** #Divination 
-**Casting Requirements:** #Verbal #Somatic #Material  
-**Duration:** 1 minute
+- **Spell Level:** 1
+- **Tradition:** #DivineTradition 
+- **Casting Time:** 1 minute
+- **Components:** #Divination 
+- **Casting Requirements:** #Verbal #Somatic #Material  
+- **Duration:** 1 minute
 
 You attempt to magically discern the intentions of a creature within range. The target must make a wisdom saving throw vs your spell DC, the results of which are kept a secret. The potency of the spell is determined by the success of the target.
 

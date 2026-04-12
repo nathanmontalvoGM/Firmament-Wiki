@@ -1,10 +1,10 @@
-**Tradition:** #DivineTradition #PrimalTradition 
-**Casting Time:** 3 actions
+- **Tradition:** #DivineTradition #PrimalTradition 
+- **Casting Time:** 3 actions
 - **Range:** touch
 **Targets:** any creatures in the area
 **Area:** 20 foot burst
-**Components:** 
-**Casting Requirements:** 
+- **Components:** 
+- **Casting Requirements:** 
 - **Duration:** 1 minute
 **Stability:** #Unstable 
 

@@ -1,9 +1,9 @@
-**Tradition:** #DivineTradition 
-**Casting Time:** 2 actions
+- **Tradition:** #DivineTradition 
+- **Casting Time:** 2 actions
 - **Range:** touch
 **Targets:** 1 creature
-**Components:** #Aegis #Abjuration 
-**Casting Requirements:** #Verbal #Somatic #Material 
+- **Components:** #Aegis #Abjuration 
+- **Casting Requirements:** #Verbal #Somatic #Material 
 - **Duration:** 1 minute
 **Stability:** #Unstable 
 

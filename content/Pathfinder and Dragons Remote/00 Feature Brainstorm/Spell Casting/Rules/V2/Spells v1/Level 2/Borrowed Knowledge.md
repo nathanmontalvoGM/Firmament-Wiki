@@ -1,9 +1,9 @@
-**Tradition:** 
-**Casting Time:** 
+- **Tradition:** 
+- **Casting Time:** 
 - **Range:** touch (self)
 **Targets:** 1 creature
-**Components:** 
-**Casting Requirements:** 
+- **Components:** 
+- **Casting Requirements:** 
 - **Duration:** 1 hour
 **Stability:** 
 

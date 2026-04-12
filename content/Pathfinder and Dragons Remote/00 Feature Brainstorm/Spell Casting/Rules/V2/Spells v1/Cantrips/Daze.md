@@ -1,9 +1,9 @@
-**Tradition:** #ArcaneTradition #DivineTradition #OccultTradition
-**Casting Time:** 2 actions
+- **Tradition:** #ArcaneTradition #DivineTradition #OccultTradition
+- **Casting Time:** 2 actions
 - **Range:** 60 feet
 **Targets:** 1 creature
-**Components:** #Mental #Unkown
-**Casting Requirements:** #Verbal #Somatic 
+- **Components:** #Mental #Unkown
+- **Casting Requirements:** #Verbal #Somatic 
 - **Duration:** 1 round
 **Stability:** #Volatile 
 

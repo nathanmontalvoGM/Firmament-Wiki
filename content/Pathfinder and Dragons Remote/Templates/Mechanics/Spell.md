@@ -5,11 +5,11 @@ components:
 casting_requirements: 
 ---
 
-**Spell Level:** 
-**Tradition:** 
-**Casting Time:** 
-**Components:** 
-**Casting Requirements:** 
-**Duration:** 
+- **Spell Level:** 
+- **Tradition:** 
+- **Casting Time:** 
+- **Components:** 
+- **Casting Requirements:** 
+- **Duration:** 
 
 **Empower:**

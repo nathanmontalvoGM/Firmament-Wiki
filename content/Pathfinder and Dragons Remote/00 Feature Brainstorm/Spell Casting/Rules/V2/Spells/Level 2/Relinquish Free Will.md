@@ -4,12 +4,12 @@ duration: varies (maximum of 1 minute)
 components: emotion
 casting_requirements: Verbal, Somatic, Material
 ---
-**Spell Level:** 2
-**Tradition:** #DivineTradition 
-**Casting Time:** 3 actions
-**Components:** #emotion 
-**Casting Requirements:** #Verbal #Somatic #Material 
-**Duration:** varies (maximum of 1 minute)
+- **Spell Level:** 2
+- **Tradition:** #DivineTradition 
+- **Casting Time:** 3 actions
+- **Components:** #emotion 
+- **Casting Requirements:** #Verbal #Somatic #Material 
+- **Duration:** varies (maximum of 1 minute)
 
 You channel your divinities power to control the fate of your target. The target must make a wisdom saving throw. 
 

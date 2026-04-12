@@ -1,9 +1,9 @@
-**Tradition:** 
-**Casting Time:** 3 actions
+- **Tradition:** 
+- **Casting Time:** 3 actions
 - **Range:** 30 feet
 **Targets:** any number of creatures within range
-**Components:** 
-**Casting Requirements:** 
+- **Components:** 
+- **Casting Requirements:** 
 - **Duration:** Concentration, up to 1 minute.
 **Stability:** #Stable 
 

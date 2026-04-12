@@ -4,12 +4,12 @@ duration: 1 minute
 components: Summon
 casting_requirements: Verbal, Somatic
 ---
-**Spell Level:** 2
-**Tradition:** #DivineTradition 
-**Casting Time:** 1 action
-**Components:** #Summon 
-**Casting Requirements:** #Verbal #Somatic 
-**Duration:** 1 minute
+- **Spell Level:** 2
+- **Tradition:** #DivineTradition 
+- **Casting Time:** 1 action
+- **Components:** #Summon 
+- **Casting Requirements:** #Verbal #Somatic 
+- **Duration:** 1 minute
 
 You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again.
 

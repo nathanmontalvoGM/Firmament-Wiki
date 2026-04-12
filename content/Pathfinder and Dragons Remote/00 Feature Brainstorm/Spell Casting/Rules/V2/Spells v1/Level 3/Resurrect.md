@@ -1,9 +1,9 @@
-**Tradition:** #DivineTradition 
-**Casting Time:** 24 hours
+- **Tradition:** #DivineTradition 
+- **Casting Time:** 24 hours
 - **Range:** 10 feet
 **Targets:** 1 dead creature of up to 10th level
-**Components:** 
-**Casting Requirements:** #Verbal #Somatic #Material (gemstones worth a total value of 75 gp × the target’s level)
+- **Components:** 
+- **Casting Requirements:** #Verbal #Somatic #Material (gemstones worth a total value of 75 gp × the target’s level)
 - **Duration:** #Instantaneous 
 **Stability:** #Unstable 
 
