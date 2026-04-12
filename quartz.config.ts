@@ -64,7 +64,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.DataviewSpellTable({
-  contentFolder: "content",
+  contentFolder: "content/Pathfinder and Dragons Remote",
 }),
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
