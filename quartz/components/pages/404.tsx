@@ -13,7 +13,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
       <div class="not-found-report">
         <p class="not-found-hint">Think this page should exist? Report a broken link:</p>
         <a id="report-404-btn" class="report-issue-btn" target="_blank" rel="noopener noreferrer">
-          🐛 Report this broken link
+          Report this broken link
         </a>
       </div>
       <script dangerouslySetInnerHTML={{__html: `
