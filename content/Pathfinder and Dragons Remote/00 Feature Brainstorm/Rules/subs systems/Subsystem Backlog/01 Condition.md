@@ -48,7 +48,7 @@ You're frozen in place. Paralyzed always has a value. The value determines in ho
 
 You can only be afflicted by one instance of a damage type. If multiple effects of the same damage type would be applied, you take the higher of the two.
 
-Persistent damage also only counts as one [[Death Saving Throw]] failure, instead of each individual instance of damage counting. 
+Persistent damage also only counts as one filled segment on your [[Death Clock]], instead of each individual instance of damage counting. 
 
 ## Petrified WIP
 

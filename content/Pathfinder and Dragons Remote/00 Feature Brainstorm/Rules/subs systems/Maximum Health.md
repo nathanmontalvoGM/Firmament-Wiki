@@ -1,1 +1,3 @@
-The combined total of your [[Hit Points]] and [[Stamina]]. If your stamina
+The maximum amount of [[Hit Points]] you can have.
+
+#Rule #revision1 

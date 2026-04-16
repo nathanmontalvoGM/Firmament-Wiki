@@ -89,7 +89,7 @@ Your fury makes your weapons lethal. Your proficiency ranks for simple weapons, 
 You gain training in Dexterity Saving throws.
 
 ### Beaten and Bruised
-Your body has grown accustomed to constant injury. You now receive the [[01 Condition#Bloodied (WIP)|Bloodied]] condition when you reach half your total [[Maximum Health]] instead of when you run out of stamina.  
+Your body has grown accustomed to constant injury. You now receive the [[01 Condition#Bloodied (WIP)|Bloodied]] condition when you reach half your total  [[Hit Points]] instead of when you run out of [[Stamina]]
 ## 7th Level
 ### Weapon Specialization
 Your rage helps you hit harder. You deal an additional 2 damage with weapons and unarmed attacks in which you have expert proficiency. This damage increases to 3 if you’re a master, and 4 if you’re legendary. You gain your instinct’s specialization ability.

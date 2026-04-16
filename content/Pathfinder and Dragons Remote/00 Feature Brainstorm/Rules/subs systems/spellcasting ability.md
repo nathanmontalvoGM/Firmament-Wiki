@@ -1,3 +1,3 @@
 Your spellcasting ability represents where your class derives its power. Clerics pull their power from their deity. Druids from nature. Wizards from studied knowledge. Your spellcasting ability can either be your wisdom, charisma or intelligence bonus. This will be listed under your classes [[Key Ability]]. Your spellcasting ability modifier is used when calculating spell attack rolls, spell save DCs, and the effectiveness of class features that rely on magical power.
 
-#Rule 
+#Rule #revision1 

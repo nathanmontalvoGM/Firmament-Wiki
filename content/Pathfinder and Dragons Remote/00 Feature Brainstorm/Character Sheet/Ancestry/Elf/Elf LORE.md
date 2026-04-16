@@ -1,0 +1,1 @@
+Elves are beings born from the [[Firmament]] from the ethos of passion. Each elf heritage is derived from a different passion from the[[Firmament]]. 

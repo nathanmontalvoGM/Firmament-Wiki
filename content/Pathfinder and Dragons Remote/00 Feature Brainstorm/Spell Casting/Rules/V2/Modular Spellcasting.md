@@ -58,7 +58,7 @@ Casting Requirements:
 Duration:
 ```
 
-#### Empowering
+#### Empowering (internal)
 ways a spell can be empowered
 **Empower:** increase damage by 1d6
 **Empower (2):** Increase the DC of the saving throw by 2 per Mana spent.
@@ -306,7 +306,9 @@ You select a willing creature to be a conduit for your magic. You can cast a spe
 ##### Magical Resilience
 - **Target:** One creature targeted by your spell
 - **Duration:** 1 Round
-Your target gains [[Favored and Hindran[[Favored and Hindered (Advantage System)|Favored]]inst magical effects and spell attack rolls against them are [[Favored and Hindered [[Favored and Hindered (Advantage System)|Hindered]]Ordained Expediency 
+Your target gains [[Favored and Hindered (Advantage System)|Favored]] against magical effects and spell attack rolls against them are [[Favored and Hindered (Advantage System)|Hindered]] 
+
+##### Ordained Expediency 
 - **Target:** 1 creature targeted by the spell
 Choose a feature of your spells target with a minimum action cost of 1 action. Reduce the action cost of this ability by one (minimum of 0) until the end of your targets next turn. When the feature is used in this way, regardless of the action cost of the ability, you limit its uses during their turn to 1. 
 ##### Cease Dying

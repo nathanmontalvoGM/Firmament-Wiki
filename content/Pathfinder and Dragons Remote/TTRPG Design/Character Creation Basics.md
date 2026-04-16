@@ -1,6 +1,6 @@
 ## Fundamentals of a Character
 [[Ancestry Overview]]
-[[01 Heritage]]
+[[Heritage]]
 [[01 Background]]
 [[01 Class]]
 

@@ -10,3 +10,8 @@
 		* WIP: need further explanation for crafting stuff
 	* Lore Flavor Feat WIP
 * **Languages:** WIP 
+
+## Heritages 
+- [[Death Walker Dwarf]]
+- [[Elemental Dwarf]]
+- [[Stone-Blood Dwarf]]

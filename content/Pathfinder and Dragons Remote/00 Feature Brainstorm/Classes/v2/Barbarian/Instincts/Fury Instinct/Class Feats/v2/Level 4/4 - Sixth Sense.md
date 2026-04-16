@@ -14,4 +14,3 @@ While raging, enemies do not gain [[Favored]] against you in circumstances deter
 - **Trained:** Enemies do not gain [[Favored]] against you from being Hidden.
 - **Expert:** Enemies do not gain [[Favored]] against you from being invisible.
 - **Master:** Enemies attacking you that are [[01 Condition#Hidden|Hidden]] and [[01 Condition#Invisible|Invisible]] have their attacks [[Favored and Hindered (Advantage System)|Hindered]]. 
-- **Legendary:** You ignore all bonuses enemies gain from being unseen unless you are [[Blinded]].

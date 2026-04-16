@@ -12,4 +12,4 @@ Any creature hostile to you that moves to a space within the spells Delivery ran
 
 *Delivery Exception:* If this spell uses the **Imbue** delivery type, the Guardian Protects feature is cast through the targets weapon as normal. However, the weapon must be within 30 feet of the guardian to use this ability. 
 
-**Empower:** The damage increases by 5 and the maximum damage the guardian can deal increases by the same amount.
+**Empower:** The damage and the maximum damage the guardian can deal increases by 5.

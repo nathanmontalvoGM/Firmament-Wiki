@@ -6,4 +6,4 @@ For instance, this is the attribute modifier you'll use to determine the Difficu
   
 Most classes are associated with one key attribute modifier, but some allow you to choose from two options. For instance, if you're a fighter, you can choose either Strength or Dexterity as your key attribute. A fighter who chooses Strength will excel in hand to hand combat, while those who choose Dexterity prefer ranged or finesse weapons.
 
-#Rule 
+#Rule #revision1 

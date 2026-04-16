@@ -8,7 +8,7 @@
 * [[Favored and Hindered (Advantage System)|Favored]]
 * [[Favored and Hindered (Advantage System)|Hindered]] 
 ## Wounding
-* [[01 Dying]]
+* [[Dying]]
 
 ## Damage Mitigation (armor, shields, evasion, stealth, incorporeal forms)  
 * [[01 Armor]]

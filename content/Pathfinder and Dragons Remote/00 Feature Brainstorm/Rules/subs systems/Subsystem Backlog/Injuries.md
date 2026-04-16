@@ -1,1 +1,0 @@
-Lingering injuries from going unconscious or being resurrected 
