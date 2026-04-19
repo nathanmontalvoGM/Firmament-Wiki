@@ -1,10 +1,10 @@
 ---
 casting-time: 2 actions
 duration: 1 round
-components: Psychic
-casting_requirements: Verbal, Somatic
+components: "#Psychic"
+casting_requirements: "#Verbal #Somatic"
 ---
-- **Spell Level:** 1
+- **Spell Level:** cantrip
 - **Tradition:** #ArcaneTradition #DivineTradition #OccultTradition
 - **Casting Time:** 2 actions
 - **Components:** #Psychic #Unkown
@@ -16,7 +16,9 @@ You push into the target's mind and daze it with a mental jolt. The target must 
 **Critical Failure:** The target takes [[01 Critical Hits#Critical Damage|Critical Damage]] and is [[01 Condition#Stunned|Stunned]].
 **Critical Success:** The target takes no damage and you are [[01 Condition#Stunned|Stunned]] until the end of your next turn. 
 
-**At Higher Levels:** This spell’s damage increases by 1d6. when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+**Empower:** increase the damage by 1d6
+
+**At Higher Levels:** This spell is automatically empowered by 1 level when you reach 5th level and once more at 9th level.
 
 
 

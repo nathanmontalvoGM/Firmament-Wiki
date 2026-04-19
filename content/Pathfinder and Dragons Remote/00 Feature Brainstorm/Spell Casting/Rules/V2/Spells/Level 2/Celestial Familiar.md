@@ -1,7 +1,7 @@
 ---
 casting-time: 3 actions
 duration: 1 minute concentration
-components: Summon
+components: "#Summon"
 casting_requirements: Verbal, Somatic, Material
 ---
 - **Spell Level:** 2

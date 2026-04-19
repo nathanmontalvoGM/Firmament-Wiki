@@ -1,7 +1,7 @@
 ---
 casting-time: 2 actions
 duration: 1 Round
-components: emotion
+components: "#Emotion"
 casting_requirements: Verbal, Somatic
 ---
 - **Spell Level:** 2
@@ -13,7 +13,7 @@ casting_requirements: Verbal, Somatic
 
 You force a creature to atone for their sins and transgressions. The target must make a wisdom saving throw. 
 
-**Failure:** the target takes 1d6 psychic damage and the next [[Hostile Actions|Hostile Action]] against you or your allies until the start of your next turn is [[Favored and Hindered (Advantage System)|Hindered]].
+**Failure:** the target takes 2d6 psychic damage and the next [[Hostile Actions|Hostile Action]] against you or your allies until the start of your next turn is [[Favored and Hindered (Advantage System)|Hindered]].
 **Critical Failure:** Double damage, and they cannot use any [[Hostile Actions]] for the duration against you or your allies as they are overwhelmed by their past guilt. 
 
 **Empower:** the damage increases by 1d6

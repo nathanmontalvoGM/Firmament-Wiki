@@ -7,6 +7,17 @@ title: Divine Spells
   <p>Magic granted by the gods and powered by faith. Divine spellcasters channel the will of their deity to heal allies, smite enemies, and shape the battlefield.</p>
 </div>
 
+## Cantrips
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Spell",
+  casting-time AS "Casting Time",
+  duration AS "Duration",
+  components AS "Components",
+  casting_requirements AS "Casting Requirements"
+FROM "00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Cantrips" AND #DivineTradition
+SORT file.name ASC
+```
 ## Level 1
 
 ```dataview
@@ -51,7 +62,10 @@ SORT file.name ASC
 ```dataview
 TABLE WITHOUT ID
   file.link AS "Spell",
-  join(filter(file.tags, (t) => t != "#DivineTradition"), ", ") AS "Tags"
+  casting-time AS "Casting Time",
+  duration AS "Duration",
+  components AS "Components",
+  casting_requirements AS "Casting Requirements"
 FROM "00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 4" AND #DivineTradition
 SORT file.name ASC
 ```

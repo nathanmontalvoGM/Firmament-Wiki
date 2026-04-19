@@ -15,8 +15,8 @@ title: Pathfinder & Dragon Wiki
   <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Spell Casting/List of Spells">
     <div class="card-title">Spells</div>
   </a>
-  <a class="category-card" href="/Feats">
-    <div class="card-title">Feats</div>
+  <a class="category-card" href="/Character Creation">
+    <div class="card-title">Character Creation</div>
   </a>
   <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Character Sheet/Ancestry/Ancestries">
     <div class="card-title">Ancestries</div>

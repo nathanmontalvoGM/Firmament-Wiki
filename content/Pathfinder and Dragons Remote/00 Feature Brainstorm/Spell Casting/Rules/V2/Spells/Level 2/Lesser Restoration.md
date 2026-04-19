@@ -1,7 +1,7 @@
 ---
 casting-time: 2 actions
 duration: 1 Round
-components: Divination
+components: "#Divination"
 casting_requirements: Verbal, Somatic, Material
 ---
 - **Spell Level:** 2

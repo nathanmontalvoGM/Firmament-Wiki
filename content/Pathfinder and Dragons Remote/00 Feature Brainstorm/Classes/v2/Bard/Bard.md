@@ -60,6 +60,7 @@ Your maximum Mana is equal to 4 x your Bard Level and the highest amount of Mana
 - 
 - **Allies:** The amount of creatures that can be [[01 Condition#Inspired|Inspired]] by you at once is equal to your Charisma modifier. 
 - **Enemies:** 1 creature
+- 
 - You can use Performing Arts a number of times equal to your Charisma modifier. 
 
 ### Favored Performance.
@@ -67,12 +68,13 @@ Your maximum Mana is equal to 4 x your Bard Level and the highest amount of Mana
 - **Range:** 30 foot aura
 - **Type:** #FlexibleFeat 
 
-Allies that hear or see hear you within 30 feet of of your Favored Performance gain the [[01 Condition#Inspired|Inspired]] condition. While [[01 Condition#Inspired|Inspired]], when the ally fails or critically fails a d20 roll within the next 10 minutes, they can choose to gain [[Favored]] on that roll. Once they use [[Favored and Hindered (Advantage System)|Favored]] in this way, they are no longer [[01 Condition#Inspired|Inspired]]. If a creature is already [[01 Condition#Inspired|Inspired]], they cannot be [[01 Condition#Inspired|Inspired]] again. 
-
 - **Trained:** 
-- **Expert:** Increase the range to 60 feet.
-- **Master:** The ally gains 2 stacks of [[Favored and Hindered (Advantage System)|Favored]] on the roll instead of 1. 
+Choose an ally that you can see or hear you within 30 feet of you. That ally gains the [[01 Condition#Inspired|Inspired]] condition. While [[01 Condition#Inspired|Inspired]], when the ally fails or critically fails a d20 roll within the next 10 minutes, they can choose to gain [[Favored]] on that roll. Once they use [[Favored and Hindered (Advantage System)|Favored]] in this way, they are no longer [[01 Condition#Inspired|Inspired]]. You can spend 1 action on subsequent turns to grant a new ally the [[01 Condition#Inspired|Inspired]] condition in this way. If a creature is already [[01 Condition#Inspired|Inspired]], they cannot be [[01 Condition#Inspired|Inspired]] again. 
 
+- **Expert:** Increase the range to 60 feet.
+- **Master:** Allies gain 2 stacks of [[Favored and Hindered (Advantage System)|Favored]] on the roll instead of 1. 
+
+maybe have it be you select a creature to gain the benefits, and then on subsequent turns you can spend 1 action to give it someone within range. The maximum amount of people that can be affected is till equal to charisma. 
 ## Bardic Lore
 At 1st level, choose an area of expertise:
 - Spells and Magics
@@ -107,7 +109,6 @@ At 2nd level, you weave your performance into the spells you cast. When you cast
 Your training in performance determines the effects potency. Make a performance check against the DC of the effect you chose. You can attempt a harder DC if you have training equal to that DC in your performance skill. On a success, your target gains the effects, double the bonus on a crit. Arcane Arts effects resolve before the effects of your spell.
 
 You can use Arcane Art a number of times equal to your Charisma modifier + half your level (rounded down) regaining spent uses on a [[Long Rest]].
-
 
 ### The healing one
 The target receives xd8 amount of [[Greater and Lesser Healing|Greater Healing]].

@@ -25,17 +25,17 @@ When a source is applied to an area of effect spell and references a target, it 
 
 Each spell uses a delivery method determining how it reaches its target. Deliveries have a base Mana cost and can be upgraded by spending additional Mana.
 
-|Delivery|Base Cost|Upgrade Cost|
-|---|---|---|
-|Aura|2|+1 per 5 ft. increase|
-|Cone|2|+2 per 5 ft. increase|
-|Cube|1|+1 per additional 5 ft. cube|
-|Imbue|0|+2 per additional target|
-|Glyph|2|—|
-|Line|2|+1 per 10 ft. of extra length|
-|Remote|0|+1 per additional target|
-|Sphere|2|+1 per +5 ft. to radius|
-|Touch|0|—|
+| Delivery | Base Cost | Upgrade Cost                  |
+| -------- | --------- | ----------------------------- |
+| Aura     | 2         | +1 per 5 ft. increase         |
+| Cone     | 2         | +2 per 5 ft. increase         |
+| Cube     | 1         | +1 per additional 5 ft. cube  |
+| Imbue    | 0         | +2 per additional target      |
+| Glyph    | 2         | —                             |
+| Line     | 2         | +1 per 10 ft. of extra length |
+| Remote   | 0         | +1 per additional target      |
+| Sphere   | 2         | +1 per +5 ft. to radius       |
+| Touch    | 0         | —                             |
 **Aura:** 10 foot radius cantered on you, affecting all targets within
 **Cone:** 15 foot area in front of you
 **Cube:** 5 foot area you can see
@@ -43,7 +43,7 @@ Each spell uses a delivery method determining how it reaches its target. Deliver
 **Imbue:** Targets a weapon wielded by a creature within 60 feet. If the weapon hits a creature while imbued, you can spend a reaction and 1 mana to to cast the spell with a range of Touch against the target.
 **Line:** 5-foot-wide, 30-foot-long, 10-foot-high area. Expanding the area’s height by 5 feet and length by 10 feet is double the mana cost.
 **Remote:** A target you can see within 30 feet.
-Ranged spells targeting a creature within 5 feet are **Hindered**.
+Ranged spells targeting a creature within 5 feet are [[Favored and Hindered (Advantage System)|Hindered]].
 **Sphere:** 5 foot radius sphere you can see. 
 **Touch:** A target within 5 feet, or yourself. Touch grants [[Favored and Hindered (Advantage System)|Favored]] on spell attack rolls and [[Favored and Hindered (Advantage System)|Hindered]] on saving throws.
 
@@ -333,3 +333,10 @@ When you select this source at level 5, pick an elemental damage type (Fire, Ele
 **Cold:** Constitution saving throw. On failure, reduce the targets movement speed by 5 feet for 1 minute. They can repeat this save at the end of each of their turns. This increases to 10 at level 11. 
 
 **At Higher Levels:** Pick an additional element type. You can choose between the elemental types you selected. 
+
+## Notes
+possible spell slot integration with Mana 
+maybe just empower the spell by one level for free when Upcast
+
+maybe have wizards convert mana to spell slots
+would need cantrips again. Cantrips can't be empowered by mana. Might keep auto heightening 

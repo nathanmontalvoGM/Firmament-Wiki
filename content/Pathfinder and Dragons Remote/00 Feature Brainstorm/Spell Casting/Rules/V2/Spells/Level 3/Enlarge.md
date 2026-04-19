@@ -1,7 +1,13 @@
+---
+casting-time: 3 actions
+duration: 10 minutes
+components: "#Transmutation"
+casting_requirements: Verbal, Somatic, Material
+---
 - **Spell Level:**  3
 - **Tradition:** #DivineTradition 
 - **Casting Time:** 3 actions
-- **Components:** 
+- **Components:** #Transmutation
 - **Casting Requirements:** #Verbal #Somatic #Material 
 - **Duration:** 10 minutes 
 

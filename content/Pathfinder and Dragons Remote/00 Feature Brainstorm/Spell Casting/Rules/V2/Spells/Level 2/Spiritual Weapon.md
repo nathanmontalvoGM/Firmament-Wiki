@@ -1,7 +1,7 @@
 ---
 casting-time: 1 action
 duration: 1 minute
-components: Summon
+components: "#Summon"
 casting_requirements: Verbal, Somatic
 ---
 - **Spell Level:** 2
@@ -11,9 +11,10 @@ casting_requirements: Verbal, Somatic
 - **Casting Requirements:** #Verbal #Somatic 
 - **Duration:** 1 minute
 
-You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again.
+You create a floating, spectral weapon within 300 feet, overriding the spell delivery, that lasts for the duration or until you cast this spell again. The spells delivery s instead applied to the spells Spiritual Strike feature.
 
-When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes 1d6 radiant damage.
+**Spiritual Strike.**
+When you cast the spell, you can make a melee spell attack against a target(s) determined by the spells delivery. On a hit, the target takes 1d8 + your spell casting modifier radiant damage.
 
 You can use an action to move the weapon 20 feet and attack as part of that action. It incurs [[Multiple Attack Penalty]] as normal.
 
@@ -22,4 +23,4 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 **Critical Success:** double damage and the target is [[01 Condition#Off-Guard|Off-Guard]]
 **Critical Failure:** The weapon shatters and cant be cast again till your next [[Long Rest]]
 
-**Empower (2):** The damage increases by 1d6
+**Empower (2):** The damage increases by 1d8

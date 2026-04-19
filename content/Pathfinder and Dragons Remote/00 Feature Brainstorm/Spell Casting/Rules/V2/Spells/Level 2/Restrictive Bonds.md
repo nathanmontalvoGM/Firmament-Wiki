@@ -1,7 +1,7 @@
 ---
 casting-time: 2 actions
 duration: Concentration, up to 1 minute
-components: 
+components: "#Emotion"
 casting_requirements: Verbal, Somatic, Material
 ---
 - **Spell Level:** 2

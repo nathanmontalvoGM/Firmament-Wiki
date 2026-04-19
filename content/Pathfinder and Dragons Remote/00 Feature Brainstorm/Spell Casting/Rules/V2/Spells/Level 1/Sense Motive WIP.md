@@ -1,8 +1,8 @@
 ---
 casting-time: 1 minute
 duration: 1 minute
-components: Divination
-casting_requirements: Verbal, Somatic, Material
+components: "#Divination"
+casting_requirements: "#Verbal #Somatic #Material"
 ---
 
 - **Spell Level:** 1

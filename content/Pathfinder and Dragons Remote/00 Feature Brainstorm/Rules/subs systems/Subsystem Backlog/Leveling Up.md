@@ -19,3 +19,9 @@ Once per level, players can forgo getting a Keystone level and instead gain a pe
 - **Battle Hardened:** Gain a permanent +1 bonus to AC
 - **Resilient:** Your hit point maximum increases by your Constitution modifier
 - **Swift:** Your movement speed permanently increases by 5 feet
+
+### Note
+maybe have some features be locked at certain keystone levels.
+class stuff is locked behind level. 
+* maybe ancestries could scale with keystone
+* maybe you can pick a magic item

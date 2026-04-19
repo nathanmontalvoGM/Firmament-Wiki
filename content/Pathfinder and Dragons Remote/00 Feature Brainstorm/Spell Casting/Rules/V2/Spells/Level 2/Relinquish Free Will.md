@@ -1,7 +1,7 @@
 ---
 casting-time: 3 actions
 duration: varies (maximum of 1 minute)
-components: emotion
+components: "#Emotion"
 casting_requirements: Verbal, Somatic, Material
 ---
 - **Spell Level:** 2

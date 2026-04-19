@@ -1,3 +1,9 @@
+---
+casting-time: 2 actions
+duration: 8 hours
+components: "#Summon"
+casting_requirements: Verbal
+---
 - **Spell Level:** 4
 - **Tradition:** #DivineTradition 
 - **Casting Time:** 2 actions 

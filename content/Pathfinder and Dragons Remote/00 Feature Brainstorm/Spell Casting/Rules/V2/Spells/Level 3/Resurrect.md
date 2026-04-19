@@ -1,6 +1,12 @@
-- **Tradition:** #DivineTradition 
+---
+casting-time: 2 actions
+duration: instantaneous
+components: "#Necromancy"
+casting_requirements: Verbal, Somatic, Material (gemstones worth a total value of 75 gp × the target’s level)
+---
+- - **Tradition:** #DivineTradition 
 - **Casting Time:** 24 hours
-- **Components:** 
+- **Components:** #Necromancy
 - **Casting Requirements:** #Verbal #Somatic #Material (gemstones worth a total value of 75 gp × the target’s level)
 - **Duration:** #Instantaneous 
 

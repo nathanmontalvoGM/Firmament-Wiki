@@ -8,7 +8,7 @@ If you are playing a rogue and you have two feats with the **Nimble** tag, you c
 #Font - Cleric exclusive. Relates to feats that affect your font
 #Haste - Affects movement speed or number of actions available during a turn
 #Lore - Relates to feats affecting or granting lore skills
-#necromancy - relates to effects altering or changing death or dealing void damage
+#Necromancy - relates to effects altering or changing death or dealing void damage
 #Radiant - relates to effects the deal radiant damage
 #Sense - Relates to feats that grant or alter your characters senses.
 #SpellStudy - alters or grants a spellcasters spells

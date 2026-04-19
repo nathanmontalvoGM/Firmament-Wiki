@@ -28,7 +28,6 @@
 		{"id":"2880c9f508d3d093","type":"text","text":"# WIKI","x":4190,"y":-80,"width":340,"height":140,"color":"5"},
 		{"id":"b03f2af430ee2d50","type":"file","file":"00 Feature Brainstorm/Character Sheet/Character Sheet TODO.md","x":3790,"y":60,"width":400,"height":1060},
 		{"id":"e369049c889cfd9a","type":"text","text":"# WIKI TODO\n* ","x":4190,"y":60,"width":340,"height":1060},
-		{"id":"e87859391e89c862","type":"text","text":"# Skills","x":2950,"y":-80,"width":340,"height":140,"color":"5"},
 		{"id":"139ec59b8673e0ca","type":"file","file":"PAD TODO/Development Tracker/Optional Tasks.md","x":-710,"y":-1570,"width":400,"height":1200,"color":"4"},
 		{"id":"952f3d7d22a28ec4","type":"file","file":"PAD TODO/Development Tracker/Important Tasks.md","x":-270,"y":-1570,"width":400,"height":1200,"color":"3"},
 		{"id":"83a02422eeb70bf7","type":"file","file":"PAD TODO/Development Tracker/Critical Tasks.md","x":170,"y":-1570,"width":390,"height":1200,"color":"1"},
@@ -44,7 +43,10 @@
 		{"id":"08c640099812dc84","type":"file","file":"00 Feature Brainstorm/Spell Casting/Spell TODO.md","x":2250,"y":100,"width":340,"height":1020},
 		{"id":"label-spells","type":"text","text":"# Spells","x":2250,"y":-80,"width":340,"height":140,"color":"5"},
 		{"id":"58898d1dc0785ec1","type":"file","file":"00 Feature Brainstorm/Classes/v2/Cleric/Cleric TODO.md","x":580,"y":80,"width":340,"height":1020},
-		{"id":"dc20c09577cb555b","type":"file","file":"00 Feature Brainstorm/Classes/v2/Fighter/Fighter TODO.md","x":240,"y":80,"width":340,"height":1020}
+		{"id":"dc20c09577cb555b","type":"file","file":"00 Feature Brainstorm/Classes/v2/Fighter/Fighter TODO.md","x":240,"y":80,"width":340,"height":1020},
+		{"id":"6fc1bd14c3c27404","x":3400,"y":-80,"width":340,"height":140,"color":"5","type":"text","text":"# Rework"},
+		{"id":"e87859391e89c862","type":"text","text":"# Skills","x":2880,"y":-80,"width":340,"height":140,"color":"5"},
+		{"id":"7829a8e010a5d8ea","x":3400,"y":100,"width":340,"height":1020,"type":"text","text":"# Rework TODO\n## 🔴 Critical Tasks\n\n## 🟡 Important Tasks\n\n## 🟢 Optional Tasks\n"}
 	],
 	"edges":[]
 }

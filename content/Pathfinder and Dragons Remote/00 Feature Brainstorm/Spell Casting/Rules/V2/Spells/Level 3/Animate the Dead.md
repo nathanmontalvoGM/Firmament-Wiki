@@ -1,13 +1,13 @@
 ---
 casting-time: 3 actions
 duration: Concentration, Varies
-components: Summon, Necromancy
+components: "#Summon, #Necromancy"
 casting_requirements: Verbal, Somatic, Material
 ---
 - **Spell Level:**  3
 - **Tradition:** #DivineTradition 
 - **Casting Time:** 3 actions
-- **Components:** #Summon #necromancy 
+- **Components:** #Summon #Necromancy
 - **Casting Requirements:** #Verbal #Somatic #Material 
 - **Duration:** Concentration, Varies
 
