@@ -3,8 +3,8 @@ title: Occult Spells
 ---
 
 <div class="hero">
-  <h1>Arcane Spells</h1>
-  <p>Magic granted by rigorous study of the [[Firmament]]. Arcane casters use logic and reason to interpret and harness the magic around them</p>
+  <h1>Occult Spells</h1>
+  <p>Desc</p>
 </div>
 
 ## Cantrips
