@@ -9,7 +9,7 @@ title: Classes
     <div class="hub-desc">Pretty incomplete</div>
     <div class="hub-tags">Support · Spellcasting · Utility</div>
   </a>
-  <a class="hub-card cleric" href="/Pathfinder-and-Dragons-Remote/00-Feature-Brainstorm/Classes/v2/Cleric/Cleric">
+  <a class="hub-card cleric" href="/Pathfinder-and-Dragons-Remote/00-Feature-Brainstorm/Classes/v2/Cleric/Cleric Class">
     <div class="hub-status">Mostly Complete</div>
     <div class="hub-title">Cleric</div>
     <div class="hub-desc">Mostly complete base class and pretty complete Life Domain subclass</div>
