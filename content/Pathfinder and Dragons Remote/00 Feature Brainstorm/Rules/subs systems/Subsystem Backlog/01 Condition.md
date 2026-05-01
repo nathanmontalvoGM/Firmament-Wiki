@@ -86,7 +86,7 @@ You're body loses some of its strength. All strength based d20 rolls are [[Favor
 While inspired, you gain benefits of the bards performance. If you would gain the inspired condition again, you can choose to keep your current inspiration, or gain the effects of the new one. You cannot inspired more than once.
 ## Other Condition-like Effects
 ### Encumbrance
-### Exhaustion (WIP)
+
 
 
 #Condition #v1 #revision1 

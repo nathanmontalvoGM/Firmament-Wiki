@@ -1,3 +1,5 @@
+## Intro
+> *The world is a vast array of knowledge to a Vagabond, every creature, place and artifact filling a small page in an endless library. They carry these stories with them telling tales of monsters that have never seen and places that have never been visited. The lessons from these travelers become powerful weapons to those who listen. *
 ## Vagabond Spells
 
 | Bard Level | Spells                 |
@@ -14,8 +16,9 @@ You gain training in Survival and 1 additional skill of your choice.
 - **Tag:** #PerformingArt 
 - **Aura:** 30 feet
 - **Targets:** a number of allies equal to your Charisma modifier
+- **Type:** #RudimentaryFeat 
 
-You spin a tale of your grand adventures battling a mighty foe. Make a Bardic Lore recall knowledge check on an enemy you can see. On a success, you select a part on the creatures body and designate it as the monsters weak spot. Allies that start their turn within the Travelers Tale’s aura gain the [[01 Condition#Inspired|Inspired]] condition. While [[01 Condition#Inspired|Inspired]] they can attempt to attack the creatures weak spot within the next 10 minutes, taking -5 penalty to the roll. If the attack is a hit, it becomes a critical hit instead. Once they attack in this way, they are no longer [[01 Condition#Inspired|Inspired]]. If a creature is already [[01 Condition#Inspired|Inspired]], they cannot be [[01 Condition#Inspired|Inspired]] again. 
+At 1st Level, you spin a tale of your grand adventures battling a mighty foe. Make a Bardic Lore recall knowledge check on an enemy you can see. On a success, you select a part on the creatures body and designate it as the monsters weak spot. Allies that start their turn within the Travelers Tale’s aura gain the [[01 Condition#Inspired|Inspired]] condition. While [[01 Condition#Inspired|Inspired]] they can attempt to attack the creatures weak spot within the next 10 minutes, taking -5 penalty to the roll. If the attack is a hit, it becomes a critical hit instead. Once they attack in this way, they are no longer [[01 Condition#Inspired|Inspired]]. If a creature is already [[01 Condition#Inspired|Inspired]], they cannot be [[01 Condition#Inspired|Inspired]] again. 
 
 A creature can benefit from Travelers Tale a number of times equal to half your level (rounded down). They are then immune to its effects for 1 hour. 
 ## Polyglot Magic 
@@ -37,7 +40,7 @@ At 6th level, your extensive travels have granted you an encyclopedic memory of 
 
 You can use this feature a number of times equal to your Charisma modifier, regaining all uses on a [[Long Rest]].
 ## Borrowed Power
-At 9th level, you have collected fragments of knowledge about magic items from across the world. Once per long rest you can recall the properties of a magic weapon, armor, or wondrous item you have previously encountered or have heard stories about and temporarily replicate one of its non-passive properties for 8 hours. Make Bardic Lore recall knowledge check against the item DC of the magical item. On a success, you imbue these properties on an item that is thematically similar to the one you remember (i.e a Flaming Great sword would be imbued on a mundane great sword). 
+At 9th level, you have collected fragments of knowledge about magic items from across the world. Once per [[Long Rest]] you can recall the properties of a magic weapon, armor, or wondrous item you have previously encountered or have heard stories about and temporarily replicate one of its non-passive properties for 8 hours. Make Bardic Lore recall knowledge check against the item DC of the magical item. On a success, you imbue these properties on an item that is thematically similar to the one you remember (i.e a Flaming Great sword would be imbued on a mundane great sword). 
 ## Subclass Identity
 Could be about Gaining features or spells from other classes similar to Lore bard. 
 #### What unique aspect does this subclass emphasize?

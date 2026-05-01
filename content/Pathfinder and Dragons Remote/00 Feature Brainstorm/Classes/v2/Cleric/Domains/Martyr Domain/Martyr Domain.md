@@ -2,21 +2,27 @@ Your love and devotion to your deity knows no bounds, even though it probably sh
 
 ## Martyr Domain Spells
 
-| Cleric Level | Spells                                                                     |
-| ------------ | -------------------------------------------------------------------------- |
-| 1st          | [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 1/Harm\|Harm]] |
-| 3rd          |                                                                            |
-| 5th          |                                                                            |
-| 7th          |                                                                            |
-| 9th          |                                                                            |
+| Cleric Level | Spells                                                                                                                                                                                                       |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1st          | [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 1/Harm\|Harm]], [[Blood Letting]]                                                                                                                |
+| 3rd          | [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 2/Restrictive Bonds\|Restrictive Bonds]], [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 2/Instill Repentance\|Instill Repentance]] |
+| 5th          | [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 3/Life Transference\|Life Transference]]                                                                                                         |
+| 7th          |                                                                                                                                                                                                              |
+| 9th          |                                                                                                                                                                                                              |
 
 ## Skill Training 
 When you choose this domain at 1st level, you gain training in occultism
 
-## Favored Weapon - WIP
-
+## Favored Weapon
+Pick a favored weapon from the list below. 
+- [[Flail]]
+- [[Whip]]
+- [[Dagger]]
+- [[Mace]]
+- [[Spear]]
+- 
 ## My Body is a Temple
-At 1st level, years of dedication to your deity has made your body resilient and durable. When you level up and increase your maximum [[Hit Points]], increase your maximum by 2.
+At 1st level, years of dedication to your deity has made your body resilient and durable. When you level up and increase your maximum [[Hit Points]], increase your maximum by an additional 2 [[Hit Points]].
 
 ## Channel Divinity: Blood Offering
 - **Type:** #RudimentaryFeat 

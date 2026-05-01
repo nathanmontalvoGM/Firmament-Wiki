@@ -8,10 +8,14 @@
 	* **Dwarven Resilience.** You gain [[Favored and Hindered (Advantage System)|Favored]] on constitution saves against the [[01 Condition#Sickened|Sickened]] condition. 
 	* **Stone cunning.** You can shape stone into trinkets or simple tools. You gain the Masonry Lore skill and can use it to make Crafting Checks. Also, when you make a Lore check related to stonework, architecture, or underground structures you gain [[Favored and Hindered (Advantage System)|Favored]]
 		* WIP: need further explanation for crafting stuff
-	* Lore Flavor Feat WIP
+	* **Armored Strength.** You gain a +1 to your strength when considering the strength requirement for wearing armor. 
 * **Languages:** WIP 
 
 ## Heritages 
 - [[Death Walker Dwarf]]
 - [[Elemental Dwarf]]
 - [[Stone-Blood Dwarf]]
+
+## Lore
+### Armor
+The bigger and heavier the armor a Dwarf wears, the more respected they are in dwarven society. The strongest dwarves have big ornate helmets and wield impossibly heavy weapons.

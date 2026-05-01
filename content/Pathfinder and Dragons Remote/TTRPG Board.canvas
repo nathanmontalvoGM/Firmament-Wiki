@@ -44,9 +44,9 @@
 		{"id":"label-spells","type":"text","text":"# Spells","x":2250,"y":-80,"width":340,"height":140,"color":"5"},
 		{"id":"58898d1dc0785ec1","type":"file","file":"00 Feature Brainstorm/Classes/v2/Cleric/Cleric TODO.md","x":580,"y":80,"width":340,"height":1020},
 		{"id":"dc20c09577cb555b","type":"file","file":"00 Feature Brainstorm/Classes/v2/Fighter/Fighter TODO.md","x":240,"y":80,"width":340,"height":1020},
-		{"id":"6fc1bd14c3c27404","x":3400,"y":-80,"width":340,"height":140,"color":"5","type":"text","text":"# Rework"},
+		{"id":"6fc1bd14c3c27404","type":"text","text":"# Rework","x":3400,"y":-80,"width":340,"height":140,"color":"5"},
 		{"id":"e87859391e89c862","type":"text","text":"# Skills","x":2880,"y":-80,"width":340,"height":140,"color":"5"},
-		{"id":"7829a8e010a5d8ea","x":3400,"y":100,"width":340,"height":1020,"type":"text","text":"# Rework TODO\n## 🔴 Critical Tasks\n\n## 🟡 Important Tasks\n\n## 🟢 Optional Tasks\n"}
+		{"id":"7829a8e010a5d8ea","type":"text","text":"# Rework TODO\n## 🔴 Critical Tasks\n\n## 🟡 Important Tasks\n\n## 🟢 Optional Tasks\n","x":3400,"y":100,"width":340,"height":1020}
 	],
 	"edges":[]
 }

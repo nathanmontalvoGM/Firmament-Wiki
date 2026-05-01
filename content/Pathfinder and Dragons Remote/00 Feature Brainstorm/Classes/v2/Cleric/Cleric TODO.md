@@ -5,17 +5,16 @@
 - [ ] Class DC scaling [priority::critical] [class:: cleric] [notes::]
 
 ### Life Domain
-- [ ] 1st Level change [priority:: critical] [class:: cleric] [notes::]
 - [ ] Favored Weapon [priority:: critical] [class:: cleric] [notes::]
 - [ ] Spell List [priority:: critical] [class:: cleric] [notes::]
 - [ ] Favored weapon list [priority::important] [class:: cleric] [notes::]
-- [ ]  4 feat options at Level 2 [priority:: critical] [class:: cleric] [notes::]
+- [x]  4 feat options at Level 2 [priority:: critical] [class:: cleric] [notes::]
 - [ ] 4 feat options at Level 4 [priority:: critical] [class:: cleric] [notes::]
 - [ ] 4 feat options at Level 6 [priority:: critical] [class:: cleric] [notes::]
 - [ ] 4 feat options at Level 8 [priority:: critical] [class:: cleric] [notes::]
 - [ ] 4 feat options at Level 10 [priority:: critical] [class:: cleric] [notes::]
 ### Marty Domain
-- [ ] Favored weapon list [priority::important] [class:: cleric] [notes::]
+- [x] Favored weapon list [priority::important] [class:: cleric] [notes::]
 - [ ] Spell List [priority:: critical] [class:: cleric] [notes::]
 - [x]  4 feat options at Level 2 [priority:: critical] [class:: cleric] [notes::]
 - [ ] 4 feat options at Level 4 [priority:: critical] [class:: cleric] [notes::]

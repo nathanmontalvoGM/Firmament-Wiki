@@ -1,1 +1,1 @@
-You're ancestors lived among the stones and mountains, granting you a hearty resilience that makes you solid as a rock. Any effect that attempts to reposition you (such as a [[shove]] or [[trip]], but other effects can apply as well per GM discretion) is [[Hindered]]. 
+You're ancestors lived among the stones and mountains, granting you a hearty resilience that makes you solid as a rock. Any effect that attempts to reposition you (such as a [[shove]] or [[Trip]], but other effects can apply as well per GM discretion) is [[Hindered]]. 

@@ -1,8 +1,7 @@
 ## 🔴 Critical Tasks
-- [ ] lOW LEVEL MAGIC EQUIVALRNT FOR SPELLCASTERS [priority:: critical] [system:: spells] [notes::]
 - [ ] unify spell components [priority:: critical] [system:: spells] [notes::]
-- [ ] Update formatting to look good on wiki [priority:: critical] [system:: spells] [notes::]
-- [ ] Rework spells to use spell slots [priority:: critical] [system:: spells] [notes::]
+- [x] Update formatting to look good on wiki [priority:: critical] [system:: spells] [notes::]
+- [x] Rework spells to use spell slots [priority:: critical] [system:: spells] [notes::]
 ### Divine Tradition
 #### Cantrips
 - [x] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
@@ -45,6 +44,8 @@
 #### Level 5 Spells
 - [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 ### Occult Tradition
+#### Cantrips
+- [x] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 #### Level 1 Spells
 - [ ] at least 8 spells here [priority:: critical] [system:: spells] [notes::]
 #### Level 2 Spells

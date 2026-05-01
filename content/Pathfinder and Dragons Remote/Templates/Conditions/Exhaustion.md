@@ -1,0 +1,1 @@
+[[01 Condition#Exhausted x|Exhaustion]]

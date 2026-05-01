@@ -6,20 +6,20 @@
 UPDATE: spell table
 ## Cleric Class Features
 
-| Level | Features                                                                                                                                                        | 1st | 2nd | 3rd | 4th | 5th |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- |
-| 1st   | [[Cleric#Spellcasting\|Spellcasting]], [[Cleric#Divine Domain\| Divine Domain]]. [[Cleric#Divine Font\|Divine Font]], [[Cleric#Favored Weapon\|Favored Weapon]] | 4   |     |     |     |     |
-| 2nd   | [[Cleric Class Feat]]                                                                                                                                           | 4   |     |     |     |     |
-| 3rd   | [[Cleric#Skill Increases\|Skill Increases]]                                                                                                                     | 4   | 2   |     |     |     |
-| 4th   | Domain Feature                                                                                                                                                  | 4   | 3   |     |     |     |
-| 5th   | General feat, [[Cleric#Perception Expertise\| Perception Expertise]]                                                                                            | 4   | 3   | 2   |     |     |
-| 6th   | , Domain Feature                                                                                                                                                | 4   | 3   | 3   |     |     |
-| 7th   |                                                                                                                                                                 | 4   | 3   | 3   | 2   |     |
-| 8th   | Domain Feature. [[Cleric#Potent Divinity]]                                                                                                                      | 4   | 3   | 3   | 3   |     |
-| 9th   |                                                                                                                                                                 | 4   | 3   | 3   | 3   | 2   |
-| 10th  |                                                                                                                                                                 | 4   | 3   | 3   | 3   | 3   |
-**Key Ability:** Wisdom
-When you choose this class at 1st level, you gain an attribute boost to Wisdom. 
+| Level | Features                                                                                                                                                        | Cantrips | 1st | 2nd | 3rd | 4th | 5th |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --- | --- | --- | --- | --- |
+| 1st   | [[Cleric#Spellcasting\|Spellcasting]], [[Cleric#Divine Domain\| Divine Domain]]. [[Cleric#Divine Font\|Divine Font]], [[Cleric#Favored Weapon\|Favored Weapon]] | 5        | 4   |     |     |     |     |
+| 2nd   | [[Cleric Class Feat]]                                                                                                                                           | 5        | 4   |     |     |     |     |
+| 3rd   | [[Cleric#Skill Increases\|Skill Increases]]                                                                                                                     | 5        | 4   | 2   |     |     |     |
+| 4th   | Domain Feature                                                                                                                                                  | 5        | 4   | 3   |     |     |     |
+| 5th   | General feat, [[Cleric#Perception Expertise\| Perception Expertise]]                                                                                            | 5        | 4   | 3   | 2   |     |     |
+| 6th   | , Domain Feature                                                                                                                                                | 5        | 4   | 3   | 3   |     |     |
+| 7th   |                                                                                                                                                                 | 5        | 4   | 3   | 3   | 2   |     |
+| 8th   | Domain Feature. [[Cleric#Potent Divinity]]                                                                                                                      | 5        | 4   | 3   | 3   | 3   |     |
+| 9th   |                                                                                                                                                                 | 5        | 4   | 3   | 3   | 3   | 2   |
+| 10th  |                                                                                                                                                                 | 5        | 4   | 3   | 3   | 3   | 3   |
+- **Key Ability:** Wisdom
+- When you choose this class at 1st level, you gain an attribute boost to Wisdom. 
 
 ## Maximum Health
 **[[Hit Dice]]:** 1d8 per Cleric level
@@ -41,12 +41,12 @@ Trained in a number of additional skills equal to 2 plus your Intelligence modif
 ## Equipment
 
 ## Sources and Behaviors
-At level 1, clerics gain access to the Divine list of sources, gaining access to more powerful sources as listed in their class table. They gain access to other sources as determined by their Domain.
+At level 1, clerics gain access to the Divine list of sources, gaining access to more powerful sources as listed in [[Cleric Sources]]. They gain access to other sources as determined by their Domain.
 ## Spellcasting 
 ### Spells
 You learn 4 spells. You learn new spells based on your level in this class.
 ### Mana
-Your maximum Mana is equal to 4 x your Cleric Level and the highest amount of Mana you can spend when casting a spell is equal to your Wisdom modifier + half your Cleric level rounded up). You regain all spent Mana on a [[Long Rest]].
+Your maximum Mana is equal to 4 x your Cleric Level and the highest amount of Mana you can spend when casting a spell is equal to your Wisdom modifier + half your Cleric level rounded up). You regain all spent Mana on a [[Long Rest]]. 
 ## Divine Domain
 At 1st level, you choose a domain shaped by your choice of Deity and the gifts they grant you. Your choice grants you domain spells and other features when you choose it at 1st level. 
 
@@ -56,6 +56,9 @@ At 1st level, you choose a domain shaped by your choice of Deity and the gifts t
 
 ## Favored Weapon
 At 1st Level, as a symbol of your deity you wield a weapon that represents them. The types of favored weapons you can pick from are determined by your Domain. This weapon is your spell casting focus for casting spells. You can only have one favored weapon that accomplishes this purpose, requiring an [[01 Investment]] slot. You can choose to invest in a different weapon of the same weapon type, losing investment in the original weapon. 
+
+### Divine Imbuement - WIP
+You pick an additional effect that your Favored Weapon gets. 
 
 ## Channel Divinity
 At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. The effects of your doctrine are determined by your domain.
