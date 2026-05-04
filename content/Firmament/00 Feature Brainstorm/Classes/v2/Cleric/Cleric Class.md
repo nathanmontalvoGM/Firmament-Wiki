@@ -8,7 +8,7 @@ title: Cleric
 </div>
 
 <div class="hub-grid">
-  <a class="hub-card cleric" href="//00 Feature Brainstorm/Classes/v2/Cleric/Cleric">
+  <a class="hub-card cleric" href="/{{CONTENT_PREFIX}}/00 Feature Brainstorm/Classes/v2/Cleric/Cleric">
     <div class="hub-status">Class core basically done</div>
     <div class="hub-title">Class Features</div>
   </a>
