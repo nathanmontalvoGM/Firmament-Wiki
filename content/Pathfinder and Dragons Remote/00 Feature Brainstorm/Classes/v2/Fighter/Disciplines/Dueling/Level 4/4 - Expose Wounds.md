@@ -4,7 +4,7 @@
 - **Type:** #FlexibleFeat 
 - **Trigger:** You are attacking your Duel Target and they are [[01 Condition#Bloodied (WIP)|Bloodied]].
 - **Cost:** 1 Action
-
+**Fundamental:**
 You strike with careful precision, targeting your opponent’s exposed wounds. Make a melee attack. 
 
 - **Trained:** On Hit, the target takes 1d4 persistent bleed damage.

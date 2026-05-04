@@ -1,5 +1,6 @@
 Your love and devotion to your deity knows no bounds, even though it probably should. You channel your suffering into strength for those around you. Every wound is a blessing and a gift from your deity. Sacrifice breeds salvation.
-
+## [[Martyr Domain Feats]]
+A complete list of all feats for Martyr Domain
 ## Martyr Domain Spells
 
 | Cleric Level | Spells                                                                                                                                                                                                       |
@@ -18,9 +19,7 @@ Pick a favored weapon from the list below.
 - [[Flail]]
 - [[Whip]]
 - [[Dagger]]
-- [[Mace]]
 - [[Spear]]
-- 
 ## My Body is a Temple
 At 1st level, years of dedication to your deity has made your body resilient and durable. When you level up and increase your maximum [[Hit Points]], increase your maximum by an additional 2 [[Hit Points]].
 

@@ -7,4 +7,3 @@
 **Fundamental:** You become immovable.
 
 - **Master:** Until the start of your next turn, you cannot be Repositioned, or knocked [[01 Condition#Prone|Prone]]
-- **Legendary:** You gain [[Favored and Hindered (Advantage System)|Favored]]on any saving throw versus effects that reduce your movement speed .

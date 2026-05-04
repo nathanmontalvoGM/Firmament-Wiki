@@ -3,7 +3,7 @@
 - **Tag:** #Aegis #Maneuver
 - **Type:** #FlexibleFeat 
 - **Trigger:** You are hit by an attack from your Duel Target.
-
+**Fundamental:**
 Once per round, when your Duel Target hits you with am attack, reduce the damage by an amount determined by your training.
 
 - **Trained:** Reduce the damage by 1d6 + your Strength modifier.

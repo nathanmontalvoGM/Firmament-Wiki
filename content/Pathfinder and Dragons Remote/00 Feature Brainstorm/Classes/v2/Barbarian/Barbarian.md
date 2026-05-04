@@ -1,11 +1,26 @@
 ## Barbarian Class Features
 
+| Level | Features | Rage Damage |
+| ----- | -------- | ----------- |
+| 1st   |          | 2           |
+| 2nd   |          | 2           |
+| 3rd   |          | 3           |
+| 4th   |          | 3           |
+| 5th   |          | 3           |
+| 6th   |          | 4           |
+| 7th   |          | 4           |
+| 8th   |          | 4           |
+| 9th   |          | 5           |
+| 10th  |          | 5           |
+- **Key Ability:** Strength
+- When you choose this class at 1st level, you gain an attribute boost to Strength
+
 ## Maximum Health
 
 - **Hit Dice:** 1d12 per barbarian level
 - **[[Hit Points]]:** 12 + your Constitution modifier
 - You increase your maximum number of [[Hit Points]] by this number at 1st level and every level thereafter.
-- **Stamina:** 2 + your Dexterity modifier (Minimum of 1).
+- **[[00 Feature Brainstorm/Rules/subs systems/Stamina/Stamina|Stamina]]:** 2 + your Dexterity modifier (Minimum of 1).
 - You increase your Stamina by this number at 1st level and every level thereafter.
 ## Proficiencies
 
@@ -21,8 +36,8 @@
 ## 1st Level
 ### Rage
 1 action
-You tap into your inner fury and begin raging. You gain a number of [[[01 Temporary Hit Points]] equal to your level plus your Constitution modifier. While you are raging:
-* You deal 2 additional damage on melee attacks.
+You tap into your inner fury and begin raging. You gain a number of [[Temporary Hit Points]] equal to your level plus your Constitution modifier. While you are raging:
+* You deal 2 additional damage on melee attacks. This damage increases as you gain levels in this class.
 * You have [[Favored and Hindered (Advantage System)|Favored]] on all strength d20 rolls
 * You gain resistance to [[physical damage]] equal to your barbarian level + 2.
 	* NOTEL Might make it half your level
@@ -33,7 +48,7 @@ Feats the can only be used while raging will have the #Rage tag.
 Barbarians are granted a unique gift of unbridled fury that is channeled into their lives. However, a barbarian cannot let this fury grow to strong or they might lash out.
 
 You gain 1 Temper when you:
-- Are hit with a melee attack
+- Hit with a melee attack
 	- Gaining 2 temper on a critical hit
 - take damage from a creature
 	- Gaining 2 temper on a critical hit from the attack.
@@ -41,7 +56,7 @@ You gain 1 Temper when you:
 You’re temper can be augmented or changed depending on your Instinct.
 
 you can have a maximum temper equal to your constitution + half your level (rounded down).
-
+#### Breaking Point
 if you exceed your maximum Temper outside of your turn:
 * You must immediately make a constitution saving throw with the DC being equal to 10 + half the damage taken (Rounded down). Resistance and other effects are applied before the DC is calculated.
 If you exceed your maximum Temper during your turn.
@@ -65,7 +80,9 @@ You remove a number of Temper equal to half your maximum (rounded down). Doing s
 ### Unarmored Defense
 While you are not wearing armor, your AC equals: 10 + your Constitution modifier + your Dexterity modifier  adding training bonus and level as normal.
 ### Instinct
-the subclass
+Subclass
+* [[Fury Instinct]]
+* [[Ancestral Instinct]]
 ## 3rd Level
 ### Furious Footfalls
 The urge to fight drives you ever forward. Your speed increases by 10 feet while you aren't wearing heavy armor.

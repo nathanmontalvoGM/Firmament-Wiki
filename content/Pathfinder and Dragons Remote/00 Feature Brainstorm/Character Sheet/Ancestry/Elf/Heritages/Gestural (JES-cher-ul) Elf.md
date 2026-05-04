@@ -1,10 +1,10 @@
 ![[Gestural Elf Art.png|300]]
 *[Credit LachlanPageArt on Reddit](https://www.reddit.com/r/DnD/comments/12o1kjo/art_high_elven_archmage/)*
-Formed from the passion of art and beauty, Gestural elves embody unbridled creativity. Their skin resembles textured brush strokes.
+> Formed from the passion of art and beauty, Gestural elves embody the [[Firmament]]s unbridled creativity. Their skin resembles textured brush strokes, oil paints or other painting techniques. They are able to alter the world around them .
 
 ## 1st Elven Magic WIP
 
-## 1st Chroma
+## 1st - Chroma
 You channel the [[Firmament]]'s chroma into an object of 1 bulk or less that you can touch.
 
 - **Saturate:** You increase the intensity and vibrance of the object. The object emits a faint glow equivalent to candlelight and sheds bright light in 20 feet radius and dim light 20 feet beyond that. Once per [[Long Rest]] you can spend an action to brighten the object. All creatures within 10 feet must make dexterity saving throw or be [[Dazzled]] for 1 round. 
@@ -12,8 +12,9 @@ You channel the [[Firmament]]'s chroma into an object of 1 bulk or less that you
 - **Shift:** You change the color of the object to one of your liking. The object can perfectly mimics another object of similar size and shape in appearance. Creatures must succeed on a Perception check against your spell save DC or Class DC (whichever is higher) to identify it as altered.
 
 The alteration lasts indefinitely and you can alter up to 5 objects at a time. If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.
-## 5th Blanch 
+## 5th - Blanch 
 You drain the color from an object that takes no more space than 5 feet. The hue of your skin shifts more towards the color you drained. You gain an effect depending on what the dominant color category of that object was (GM discretion). This effect lasts for 1 hour. If you try to drain another color while you already have on drained, the oldest effect immediately ends, and then the new effect applies.
+Once you use this feature, you can't do so again until you finish a [[Long Rest]].
 
 **Color Categories:**
 - *Warm (red, orange, yellow):* This color fills you with passion and strength. You gain a +2 bonus to attack rolls for the duration.

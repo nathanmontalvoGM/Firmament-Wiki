@@ -1,11 +1,9 @@
 - **Prerequisite:** [[Arcane Warrior]]
 - **Level:** 3
 - **Tag:** #Rune
+- **Type:** #RudimentaryFeat 
 
 This rune empowers your weapon, causing explosions after you attack.
-## Lesser Rune
-On hit, the target and all other creatures within 10 feet of it take 1d8 force damage each. This damage ignores you.
-## Greater Rune
-As lesser rune, but the damage increases to 1d8
-## Master Rune
-As Greater Rune, but all targets must make a Dexterity Save against your Class DC or be knocked [[01 Condition#Prone|Prone]] 
+- **Trained:** On a hit, the target and all creatures within 10 feet of it take 1d8 force damage. This damage ignores you.
+- **Expert:** As Trained, but the damage increases to 2d8.
+- **Master:** As Expert. All creatures that take damage from this rune must make a Dexterity saving throw against your Class DC or be knocked [[Prone]].

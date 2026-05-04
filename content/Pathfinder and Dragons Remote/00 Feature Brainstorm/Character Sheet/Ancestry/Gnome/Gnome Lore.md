@@ -1,0 +1,1 @@
+Gnomes were created by a god in the [[Firmament]] and are an ongoing project by that same deity. Gnomes physiology has changed drastically over thousands of years as their creator makes adjustments to their bodies. 

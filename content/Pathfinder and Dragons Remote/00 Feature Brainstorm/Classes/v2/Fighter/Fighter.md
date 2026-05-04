@@ -28,11 +28,11 @@ As a fighter, you gain the following class features.
 
 ## [[Hit Points]]
 
-**Hit Dice:** 1d10 per Fighter level
-**Maximum Health:** 10 + your Constitution modifier
-You increase your maximum number of HP by this number at 1st level and every level thereafter.
-**Stamina:** 6 + your Dexterity modifier (Minimum of 1).
-You increase your Stamina by this number at 1st level and every level thereafter.
+- **Hit Dice:** 1d10 per Fighter level
+- **Maximum Health:** 10 + your Constitution modifier
+- You increase your maximum number of HP by this number at 1st level and every level thereafter.
+- **Stamina:** 6 + your Dexterity modifier (Minimum of 1).
+- You increase your Stamina by this number at 1st level and every level thereafter.
 ## Proficiencies
 
 **Armor:** Trained in all armor and Unarmored Defense

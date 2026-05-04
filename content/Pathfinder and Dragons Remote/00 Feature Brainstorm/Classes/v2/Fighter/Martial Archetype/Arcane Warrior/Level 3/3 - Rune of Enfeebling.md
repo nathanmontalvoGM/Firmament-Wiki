@@ -1,12 +1,10 @@
 - **Prerequisite:** [[Arcane Warrior]]
 - **Level:** 3
 - **Tag:** #Rune 
+- **Type:** #RudimentaryFeat 
 
 You weave necromantic magic into your next attack. 
 
-## Lesser Rune
-On hit, the creature takes an extra 1d8 void damage. The target must also succeed on a Constitution saving throw against your Class DC, or the damage dealt by its next weapon attack is halved until the start of your next turn.
-## Greater Rune
-As Lesser Rune, but the damage increases to 2d8. 
-## Master Rune
-As Greater Rune, but the target is also [[01 Condition#Weakened (Strength)|Weakened]] until the start of your next turn.
+- **Trained:** On a hit the target takes an additional 1d8 void damage and must succeed on a Constitution saving throw against your Class DC or have the damage of their next weapon attack reduced by 5.
+- **Expert:** As Trained but the damage increases to 2d8 and the reduced damage is increased to 8.
+- **Master:** As Expert. On a failed save the target is also [[Weakened]] until the start of your next turn.

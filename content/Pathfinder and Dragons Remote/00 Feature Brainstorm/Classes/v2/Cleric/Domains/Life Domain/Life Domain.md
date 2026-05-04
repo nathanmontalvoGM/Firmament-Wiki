@@ -1,3 +1,5 @@
+## [[Life Domain Feats]]
+A complete list of all feats for Life Domain
 ## Life Domain Spells
 
 | Cleric Level | Spells                                                                                                                                                                                                     |

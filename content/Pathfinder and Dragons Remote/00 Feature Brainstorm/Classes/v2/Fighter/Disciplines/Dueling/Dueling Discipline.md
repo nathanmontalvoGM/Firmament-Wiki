@@ -1,52 +1,9 @@
 ## NOTE:
 * Each discipline should have existing features you unlock WITH THE MAIN DIFERENCE BEEING THE MENUEVERS YOU SELECT.
 * Currently class is very reaction heavy, maybe give them two reactions
-## Feats Per Level
-```dataview
-TABLE WITHOUT ID
-  file.link AS "Level 2 Feats"
-FROM "00 Feature Brainstorm/Classes/v1/Fighter/Disciplines/Dueling"
-WHERE
-  contains(file.etags, "#FighterFeat") AND
-  contains(file.etags, "#Level2Feat")
-SORT file.name ASC
-```
-```dataview
-TABLE WITHOUT ID
-  file.link AS "Level 4 Feats"
-FROM "00 Feature Brainstorm/Classes/v1/Fighter/Disciplines/Dueling"
-WHERE
-  contains(file.etags, "#FighterFeat") AND
-  contains(file.etags, "#Level4Feat")
-SORT file.name ASC
-```
-```dataview
-TABLE WITHOUT ID
-  file.link AS "Level 6 Feats"
-FROM "00 Feature Brainstorm/Classes/v1/Fighter/Disciplines/Dueling"
-WHERE
-  contains(file.etags, "#FighterFeat") AND
-  contains(file.etags, "#Level6Feat")
-SORT file.name ASC
-```
-```dataview
-TABLE WITHOUT ID
-  file.link AS "Level 8 Feats"
-FROM "00 Feature Brainstorm/Classes/v1/Fighter/Disciplines/Dueling"
-WHERE
-  contains(file.etags, "#FighterFeat") AND
-  contains(file.etags, "#Level8Feat")
-SORT file.name ASC
-```
-```dataview
-TABLE WITHOUT ID
-  file.link AS "Level 10 Feats"
-FROM "00 Feature Brainstorm/Classes/v1/Fighter/Disciplines/Dueling"
-WHERE
-  contains(file.etags, "#FighterFeat") AND
-  contains(file.etags, "#Level10Feat")
-SORT file.name ASC
-```
+## [[Dueling Discipline Feats]]
+A complete list of all feats for Dueling Discipline
+
 ## Intro
 You specialize in one-on-one combat, wielding one-handed weapons. When you select this discipline at level 1, you gain the Duel Target feature.
 ## Signature Weapon

@@ -1,5 +1,8 @@
 ## Intro
 > *The world is a vast array of knowledge to a Vagabond, every creature, place and artifact filling a small page in an endless library. They carry these stories with them telling tales of monsters that have never seen and places that have never been visited. The lessons from these travelers become powerful weapons to those who listen. *
+
+## [[Vagabond Feats]]
+A complete list of all Vagabond feats
 ## Vagabond Spells
 
 | Bard Level | Spells                 |

@@ -4,5 +4,4 @@
 
 Flavor text.
 
-## Master Rune
-Attacks with this rune increase its degree of success by one step.
+- **Master:** Attacks with this rune increase are always [[Favored and Hindered (Advantage System)|Favored]]. [[Favored and Hindered (Advantage System)|Hindered]] still cancels out [[Favored and Hindered (Advantage System)|Favored]] as normal.

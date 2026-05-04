@@ -8,13 +8,13 @@
 #### Dueling 
 - [x] 1st level subclass feature [priority:: critical] [class:: fighter] [notes::]
 - [x] 4th level subclass feature [priority:: critical] [class:: fighter] [notes::]
-- [ ] rework studied amount to scale with feat training [priority:: critical] [class:: fighter] [notes::]
+- [x] rework studied amount to scale with feat training [priority:: critical] [class:: fighter] [notes::]
 - [x] 6th level subclass feature [priority:: critical] [class:: fighter] [notes::]
 - [x] 9th level subclass feature [priority:: critical] [class:: fighter] [notes::]
 ##### Feats
-- [ ] rework v1 feats into v2 [priority:: critical] [class:: fighter] [notes::]
-- [ ] 4 feat options at Level 2 [priority:: critical] [class:: fighter] [notes::]
-- [ ] 4 feat options at Level 4 [priority:: critical] [class:: fighter] [notes::]
+- [x] rework v1 feats into v2 [priority:: critical] [class:: fighter] [notes::]
+- [x] 4 feat options at Level 2 [priority:: critical] [class:: fighter] [notes::]
+- [x] 4 feat options at Level 4 [priority:: critical] [class:: fighter] [notes::]
 - [ ] 4 feat options at Level 6 [priority:: critical] [class:: fighter] [notes::]
 - [ ] 4 feat options at Level 8 [priority:: critical] [class::fighter] [notes::]
 - [ ] 4 feat options at Level 10 [priority:: critical] [class:: fighter] [notes::]
