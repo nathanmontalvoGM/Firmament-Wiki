@@ -13,7 +13,7 @@ title: Classes
     <div class="hub-title">Cleric</div>
     <div class="hub-desc">Mostly complete base class and pretty complete Life Domain subclass</div>
   </a>
-  <a class="hub-card fighter" href="/{{CONTENT_PREFIX}}}/00-Feature-Brainstorm/Classes/v2/Fighter/Fighter Class">
+  <a class="hub-card fighter" href="/{{CONTENT_PREFIX}}/00-Feature-Brainstorm/Classes/v2/Fighter/Fighter Class">
     <div class="hub-status">Mostly Complete</div>
     <div class="hub-title">Fighter</div>
     <div class="hub-desc">Mostly complete base class, dueling discipline, weapon master, arcane warrior. Great weapon fighter in the works.</div>

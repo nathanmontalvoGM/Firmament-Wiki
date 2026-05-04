@@ -3,7 +3,7 @@ title: Bard
 ---
 
 <div class="hero">
-  <h1>Cleric</h1>
+  <h1>Bard</h1>
   <p>Sick flavor text goes here</p>
 </div>
 
