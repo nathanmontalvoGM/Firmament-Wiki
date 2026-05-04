@@ -8,16 +8,16 @@ title: Spells
 </div>
 
 <div class="hub-grid">
-  <a class="hub-card arcane" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Spell Casting/Spell Lists/Arcane Tradition/Arcane Spells">
+  <a class="hub-card arcane" href="/{{CONTENT_PREFIX}}/00 Feature Brainstorm/Spell Casting/Spell Lists/Arcane Tradition/Arcane Spells">
     <div class="hub-title">Arcane</div>
   </a>
-  <a class="hub-card primal" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Spell Casting/Spell Lists/Primal Tradition/Primal Spells">
+  <a class="hub-card primal" href="/{{CONTENT_PREFIX}}/00 Feature Brainstorm/Spell Casting/Spell Lists/Primal Tradition/Primal Spells">
     <div class="hub-title">Primal</div>
   </a>
-  <a class="hub-card divine" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Spell Casting/Spell Lists/Divine Tradition/Divine Spells">
+  <a class="hub-card divine" href="/{{CONTENT_PREFIX}}/00 Feature Brainstorm/Spell Casting/Spell Lists/Divine Tradition/Divine Spells">
     <div class="hub-title">Divine</div>
   </a>
-  <a class="hub-card occult" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Spell Casting/Spell Lists/Occult Tradition/Occult Spells">
+  <a class="hub-card occult" href="/{{CONTENT_PREFIX}}/00 Feature Brainstorm/Spell Casting/Spell Lists/Occult Tradition/Occult Spells">
     <div class="hub-title">Occult</div>
   </a>
 </div>
