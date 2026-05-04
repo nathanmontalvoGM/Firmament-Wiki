@@ -1,5 +1,14 @@
 @use "./base.scss";
+@font-face {
+  font-family: 'Moria Citadel';
+  src: url('/static/fonts/MoriaCitadel.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 
+.hero h1 {
+  font-family: 'Moria Citadel', serif;
+}
 /* ─── Hero ─────────────────────────────────────────── */
 
 .hero {

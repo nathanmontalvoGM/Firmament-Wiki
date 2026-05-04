@@ -8,11 +8,11 @@ title: Barbarian
 </div>
 
 <div class="hub-grid">
-  <a class="hub-card Barbarian" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Classes/v2/Barbarian/Barbarian">
+  <a class="hub-card Barbarian" href="/{{CONTENT_PREFIX}}/00 Feature Brainstorm/Classes/v2/Barbarian/Barbarian">
     <div class="hub-status">Class core done</div>
     <div class="hub-title">Class Features</div>
   </a>
-  <a class="hub-card Barbarian" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Classes/v2/Barbarian/Barbarian Sources">
+  <a class="hub-card Barbarian" href="/{{CONTENT_PREFIX}}/00 Feature Brainstorm/Classes/v2/Barbarian/Barbarian Sources">
     <div class="hub-status">Missing sources at higher levels. Might rework existing sources</div>
     <div class="hub-title">Sources</div>
   </a>

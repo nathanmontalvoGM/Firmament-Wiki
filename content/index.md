@@ -12,7 +12,7 @@ title: Firmament Wiki
   <a class="category-card" href="/{{CONTENT_PREFIX}}/00-Feature-Brainstorm/Classes/v2/Classes">
     <div class="card-title">Classes</div>
   </a>
-  <a class="category-card" href="/{{CONTENT_PREFIX}}t/00-Feature-Brainstorm/Spell-Casting/List-of-Spells">
+  <a class="category-card" href="/{{CONTENT_PREFIX}}/00-Feature-Brainstorm/Spell-Casting/List-of-Spells">
     <div class="card-title">Spells</div>
   </a>
   <a class="category-card" href="/Character-Creation">
