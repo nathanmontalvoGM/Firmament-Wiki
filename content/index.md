@@ -1,10 +1,10 @@
 ---
-title: Pathfinder & Dragon Wiki
+title: Firmament Wiki
 ---
 
 <div class="hero">
-  <h1>Pathfinder & Dragons</h1>
-  <p>It's like pathfinder and DND... WOW!</p>
+  <h1>Firmament</h1>
+  <p>Sick tagline here</p>
   <p>NOTE: Classes, Ancestries, Conditions and Spells are setup.</p>
 </div>
 
