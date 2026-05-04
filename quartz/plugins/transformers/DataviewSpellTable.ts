@@ -4,13 +4,16 @@ import { Root, Code } from "mdast"
 import path from "path"
 import fs from "fs"
 import matter from "gray-matter"
+import { CONTENT_PREFIX } from "../config/paths"
 
 interface DataviewSpellTableOptions {
   contentFolder: string
+  slugPrefix?: string
 }
 
 const defaultOptions: DataviewSpellTableOptions = {
   contentFolder: "content",
+  slugPrefix: CONTENT_PREFIX,
 }
 
 function parseDataviewQuery(query: string): { folder: string; tag: string } | null {
@@ -25,6 +28,7 @@ function parseDataviewQuery(query: string): { folder: string; tag: string } | nu
 
 function getSpellsFromFolder(
   contentFolder: string,
+  slugPrefix: string,
   folder: string,
   tag: string,
 ): Array<Record<string, string>> {
@@ -52,9 +56,8 @@ function getSpellsFromFolder(
       continue
     }
 
-    // Build correct slug from full path including contentFolder prefix
-    const fullRelativePath = path.join("Pathfinder and Dragons Remote", folder, file.replace(".md", ""))
-    // Replace spaces with hyphens for URL
+    // Build slug using slugPrefix from config/paths
+    const fullRelativePath = path.join(slugPrefix, folder, file.replace(".md", ""))
     const urlSlug = fullRelativePath.replace(/\s+/g, "-")
 
     spells.push({
@@ -125,10 +128,15 @@ export const DataviewSpellTable: QuartzTransformerPlugin<
             const parsed = parseDataviewQuery(query)
             if (!parsed) return
 
-            const spells = getSpellsFromFolder(opts.contentFolder, parsed.folder, parsed.tag)
+            const spells = getSpellsFromFolder(
+              opts.contentFolder,
+              opts.slugPrefix ?? CONTENT_PREFIX,
+              parsed.folder,
+              parsed.tag,
+            )
+
             const html = buildHtmlTable(spells)
 
-            // Replace dataview block with just the static table (hides original dataview block)
             parent.children.splice(index, 1, {
               type: "html",
               value: html,

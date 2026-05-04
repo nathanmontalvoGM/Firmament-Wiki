@@ -1,6 +1,6 @@
----
-title: Firmament Wiki
----
+\---
+
+## title: Firmament Wiki
 
 <div class="hero">
   <h1>Firmament</h1>
@@ -9,22 +9,23 @@ title: Firmament Wiki
 </div>
 
 <div class="category-grid">
-  <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00-Feature-Brainstorm/Classes/v2/Classes">
+  <a class="category-card" href="/{{CONTENT\_PREFIX}}/00-Feature-Brainstorm/Classes/v2/Classes">
     <div class="card-title">Classes</div>
   </a>
-  <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Spell Casting/List of Spells">
+  <a class="category-card" href="/{{CONTENT\_PREFIX}t/00-Feature-Brainstorm/Spell-Casting/List-of-Spells">
     <div class="card-title">Spells</div>
   </a>
-  <a class="category-card" href="/Character Creation">
+  <a class="category-card" href="/Character-Creation">
     <div class="card-title">Character Creation</div>
   </a>
-  <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Character Sheet/Ancestry/Ancestries">
+  <a class="category-card" href="/{{CONTENT\_PREFIX}/00-Feature-Brainstorm/Character-Sheet/Ancestry/Ancestries">
     <div class="card-title">Ancestries</div>
   </a>
-  <a class="category-card" href="/Pathfinder-and-Dragons-Remote/PAD TODO/Development Tracker/Development Progress">
-    <div class="card-title">Devlopment Progress</div>
+  <a class="category-card" href="/{{CONTENT\_PREFIX}/PAD-TODO/Development-Tracker/Development-Progress">
+    <div class="card-title">Development Progress</div>
   </a>
-  <a class="category-card" href="/Pathfinder-and-Dragons-Remote/00 Feature Brainstorm/Rules/subs systems/Subsystem Backlog/01 Condition">
+  <a class="category-card" href="/{{CONTENT\_PREFIX}/00-Feature-Brainstorm/Rules/subs-systems/Subsystem-Backlog/01-Condition">
     <div class="card-title">Conditions</div>
   </a>
 </div>
+

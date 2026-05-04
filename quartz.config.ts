@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { CONTENT_PREFIX, CONTENT_FOLDER } from "./quartz/config/paths"
 
 /**
  * Quartz 4 Configuration
@@ -10,10 +11,11 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Firmament WIKI",
     ignorePatterns: [
-  "Templates/**",
-  "Private/**", 
-  "Archive/**",
-],
+      `${CONTENT_PREFIX}/Templates/**`,
+      `${CONTENT_PREFIX}/Rejected Ideas/**`,
+      `${CONTENT_PREFIX}/PAD TODO/**`,
+      `${CONTENT_PREFIX}/TTRPG Design/**`,
+    ],
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -21,7 +23,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "nathanmontalvogm.github.io/Firmament-Wiki",
     defaultDateType: "modified",
     theme: {
       cdnCaching: true,
@@ -37,7 +39,7 @@ const config: QuartzConfig = {
           lightgray: "#d4c5a0",
           gray: "#888888",
           darkgray: "#faf5ec",
-          dark: "#1a1a1a",
+          dark: "#2c1a0e",
           secondary: "#1a3d2b",
           tertiary: "#2d6b4a",
           highlight: "rgba(201, 168, 76, 0.15)",
@@ -48,7 +50,7 @@ const config: QuartzConfig = {
           lightgray: "#d4c5a0",
           gray: "#888888",
           darkgray: "#faf5ec",
-          dark: "#1a1a1a",
+          dark: "#2c1a0e",
           secondary: "#1a3d2b",
           tertiary: "#2d6b4a",
           highlight: "rgba(201, 168, 76, 0.15)",
@@ -60,8 +62,10 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.DataviewSpellTable({
-  contentFolder: "content/Pathfinder and Dragons Remote",
-}),
+        contentFolder: CONTENT_FOLDER,
+        slugPrefix: CONTENT_PREFIX,
+      }),
+      Plugin.InjectContentPrefix(),
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
@@ -91,7 +95,7 @@ const config: QuartzConfig = {
         enableSiteMap: true,
         enableRSS: true,
         includeEmptyFiles: false,
-}),
+      }),
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
