@@ -4,7 +4,7 @@ import { Root, Code } from "mdast"
 import path from "path"
 import fs from "fs"
 import matter from "gray-matter"
-import { CONTENT_PREFIX } from "../config/paths"
+import { CONTENT_PREFIX } from "../../config/paths"
 
 interface DataviewSpellTableOptions {
   contentFolder: string
