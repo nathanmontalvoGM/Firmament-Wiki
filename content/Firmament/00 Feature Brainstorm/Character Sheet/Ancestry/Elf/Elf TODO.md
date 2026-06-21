@@ -1,4 +1,4 @@
-## 🔴 Critical Tasks
+When you bite a creature and deal damage, you enter a brief frenzy. Until the start of your next turn you gain a +2 bonus to melee attack rolls but take a −2 penalty to AC## 🔴 Critical Tasks
 ### Heritages (3 Min)
 - [ ] decide on 3 heritages [priority:: critical] [ancestry::Elf] [notes::]
 #### [[Gestural (JES-cher-ul) Elf]]

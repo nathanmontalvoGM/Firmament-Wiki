@@ -1,15 +1,8 @@
----
-casting-time: 
-duration: 
-components: 
-casting_requirements: 
----
-
 - **Spell Level:** 
 - **Tradition:** 
-- **Casting Time:** 
-- **Components:** 
-- **Casting Requirements:** 
-- **Duration:** 
+- **Casting Time:** <% tp.frontmatter["casting-time"] %>
+- **Components:** <% tp.frontmatter["components"] %>
+- **Casting Requirements:** <% tp.frontmatter["casting_requirements"] %>
+- **Duration:** <% tp.frontmatter["duration"] %>
 
 **Empower:**

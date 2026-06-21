@@ -22,8 +22,18 @@ For every 2 Temper you have, the Ancestral Spirit grows stronger
 
 ## 1st Level - Ancestral Wrath (Breaking Point Feature)
 You lose control of your Ancestral Spirit. The spirit attacks the last creature it used an action on. That creature and all creatures within 10 feet of it must must make a basic strength saving throw or take 1d6 times your maximum temper force damage as the spirits body erupts violently back to the [[Firmament]]. Creatures who fail are also knocked [[01 Condition#Prone|Prone]] and are [[01 Condition#Frightened|Frightened]] for 1 round. In addition to being [[01 Condition#Off-Guard|Off-Guard]] and [[01 Condition#Weakened (Strength)|Weakened]], you also can't resummon your Ancestral Spirit for 1 round.  
-## 3rd Level - Instinct Technique WIP
-Your Ancestral Spirit can now act without you having to succeed on an attack. It uses your actions instead of your own. 
+## 3rd Level - Instinct Technique 
+At 3rd level your ancestors presence bolsters others. 
+- **Target:** all allies within range
+- **Range:** 15 feet
+- **Action Cost:** ---
+- **Duration:** #Instantaneous  
+- **Type:** #RudimentaryFeat 
+
+Allies within range gains a bonus to their attack rolls determined by your training in this feat. 
+- **Trained:** +2 
+- **Expert:** +3
+- **Master:** +4
 ## 7th Specialization Ability
 Your ancestors have fully accepted you as their champion. You may now have two Ancestral Spirits active simultaneously while Raging. Each spirit can act independently after you successfully make an attack. 
 

@@ -13,11 +13,16 @@
 ### Subclasses
 #### Vagabond
 - [ ] Spell List [priority:: critical] [class:: Bard] [notes::]
-- [ ] Design subclass 1st level core feature [priority:: critical] [class:: Bard]
-- [ ] Design subclass 3rd level core feature [priority:: critical] [class:: Bard]
-- [ ] Design subclass 6th level core feature [priority:: critical] [class:: Bard]
-- [ ] Design subclass 9th level core feature [priority:: critical] [class:: Bard]
-
+- [x] Design subclass 1st level core feature [priority:: critical] [class:: Bard]
+- [x] Design subclass 3rd level core feature [priority:: critical] [class:: Bard]
+- [x] Design subclass 6th level core feature [priority:: critical] [class:: Bard]
+- [x] Design subclass 9th level core feature [priority:: critical] [class:: Bard]
+##### Feats
+ - [x] 4 feat options at Level 2 [priority:: critical] [class:: Bard] [notes::]
+- [ ] 4 feat options at Level 4 [priority:: critical] [class:: Bard] [notes::]
+- [ ] 4 feat options at Level 6 [priority:: critical] [class:: Bard] [notes::]
+- [ ] 4 feat options at Level 8 [priority:: critical] [class:: Bard] [notes::]
+- [ ] 4 feat options at Level 10 [priority:: critical] [class:: Bard] [notes::]
 #### Second Subclass
 - [ ] Need second subclass idea [priority:: critical] [class:: Bard]
 - [ ] Design subclass 1st level core feature [priority:: critical] [class:: Bard]

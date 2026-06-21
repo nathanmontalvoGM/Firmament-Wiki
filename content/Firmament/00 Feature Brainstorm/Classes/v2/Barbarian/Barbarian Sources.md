@@ -14,7 +14,7 @@ gain the following effects:
 * Extra damage?
 
 ### Bonebreaker
-You harness tour rage into crushing the bodied of your enemies.
+You harness your rage into crushing the bodied of your enemies.
 
 Once per turn, when you hit with a weapon:
 
