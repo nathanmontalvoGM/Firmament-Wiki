@@ -12,7 +12,7 @@
 * **Languages:** WIP 
 
 ## Heritages 
-- [[Death Walker Dwarf]]
+- [[Death Walker Dwarf v1]]
 - [[Elemental Dwarf]]
 - [[Stone-Blood Dwarf]]
 

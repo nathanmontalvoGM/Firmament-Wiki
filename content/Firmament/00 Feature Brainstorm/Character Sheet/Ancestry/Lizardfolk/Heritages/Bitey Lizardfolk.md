@@ -16,4 +16,4 @@ A number of times equal to your training bonus, when you make a bite attack you 
 - **Neurotoxic:** The target is [[01 Condition#Dazzled|Dazzled]] until the end of their next turn.
 
 ## 9th - Death's Kiss
-Once per long rest when you hit a creature with your bite that is already suffering persistent poison damage from you, you may choose to deliver a concentrated dose. The target must make a Constitution saving throw against your Class DC. On a failure they are [[01 Condition#Paralyzed|Paralyzed]] until the end of their next turn and their persistent poison damage immediately deals its maximum damage. 
+Once per long rest when you hit a creature with your bite that is already suffering persistent poison damage from you, you may choose to deliver a concentrated dose. The target must make a Constitution saving throw against your Class DC. On a failure they are [[01 Condition#Paralyzed|Paralyzed]] until the end of their next turn and their persistent poison immediately deals its maximum damage. Once the [[01 Condition#Paralyzed|Paralyzed]] conditions ends, they are immune to this effect for 24 hours.

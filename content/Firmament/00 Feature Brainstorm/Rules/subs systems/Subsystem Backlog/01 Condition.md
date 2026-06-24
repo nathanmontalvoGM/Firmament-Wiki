@@ -59,7 +59,7 @@ You're lying on the ground. You're [[01 Condition#Off-Guard|Off-Guard]] and your
 You're tied up and can barely move, or a creature has you pinned. You are [[01 Condition#Off-Guard|Off-Guard]] and your speed is reduced to 0. You can't gain any benefit from any bonus to your speed. You cannot take actions to [[attack]] or [[manipulate]] other than to [[Escape]]. Attack rolls against the creature are [[Favored and Hindered (Advantage System)|Favored]] and the creatures attack rolls are [[Favored and Hindered (Advantage System)|Hindered]]. The restrained creature is considered [[01 Condition#Clumsy (Dex)|Clumsy]].
 
 ## Staggered 
-You only gain this condition when reduced to 0 [[Hit Points]]. You only have 2 actions and all your rolls are [[Favored and Hindered (Advantage System)|Hindered]]. Being restored to 1 [[Hit Points|Hit Point]] or more removes this condition.
+You only gain this condition when reduced to 0 [[Hit Points]]. You only have 2 actions and all your d20 rolls are [[Favored and Hindered (Advantage System)|Hindered]]. Being restored to 1 [[Hit Points|Hit Point]] or more removes this condition.
 
 ## Sickened
 You feel ill. All your d20 rolls are [[Favored and Hindered (Advantage System)|Hindered]], you can't ingest anything and every healing dice rolled to heal you takes a -2 penalty to the roll (minimum of 0). You can use a single action retching in an attempt to recover, which lets you immediately attempt a Constitution save against the DC of the effect that made you sickened.

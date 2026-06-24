@@ -1,7 +1,7 @@
 Table adapted from [farlandworld](http://farlandworld.com/injuries.html)
 
 
-When you gain the [[01 Condition#Staggered|Staggered]] condition, you gain a Minor Injury. To determine the nature of the injury, determine the type of damage that triggered the injury and roll on the appropriate table below that corresponds to the damage type. If multiple types of damage caused the injury, use the type that dealt the majority of damage
+When you gain the [[01 Condition#Staggered|Staggered]] condition, you gain a Minor Injury. If the damage dealt was equal to half your maximum [[Hit Points]] or more, gain a Sever Injury instead. To determine the nature of the injury, determine the type of damage that triggered the injury and roll on the appropriate table below that corresponds to the damage type. If multiple types of damage caused the injury, use the type that dealt the majority of damage
 
 ## Minor Injury Table
 

@@ -82,7 +82,7 @@ Need ancestry progression system
 #### Heritage
 ##### Dwarf 
 * [x] [[Elemental Dwarf]]
-* [x] [[Death Walker Dwarf]]
+* [x] [[Death Walker Dwarf v1]]
 * [x] [[Forge Dwarf]]
 * [x] [[Mountain Dwarf]]
 * [x] [[Primordial Dwarf]]
