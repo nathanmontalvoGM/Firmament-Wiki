@@ -9,15 +9,11 @@ Your saliva carries a potent toxin developed through centuries of hunting poison
 
 ## 5th - Varied Venom
 Through exposure to different environments your body has developed multiple strains of venom. 
-A number of times determined by your training, when you make a bite attack you may force the creature to make a constitution save vs your Class DC or suffer one of the following effects. 
+A number of times equal to your training bonus, when you make a bite attack you may force the creature to make a constitution save vs your Class DC or suffer one of the following effects. 
 
 - **Paralytic:** The target is [[01 Condition#Slowed|Slowed]] until the end of their next turn.
 - **Myotoxin:** The target is [[01 Condition#Weakened (Strength)|Weakened]] until the end of their next turn.
 - **Neurotoxic:** The target is [[01 Condition#Dazzled|Dazzled]] until the end of their next turn.
-
-- **Trained:** 2 times
-- **Expert:** 3 times
-- **Master:** 5 times
 
 ## 9th - Death's Kiss
 Once per long rest when you hit a creature with your bite that is already suffering persistent poison damage from you, you may choose to deliver a concentrated dose. The target must make a Constitution saving throw against your Class DC. On a failure they are [[01 Condition#Paralyzed|Paralyzed]] until the end of their next turn and their persistent poison damage immediately deals its maximum damage. 
