@@ -11,9 +11,9 @@ Your saliva carries a potent toxin developed through centuries of hunting poison
 Through exposure to different environments your body has developed multiple strains of venom. 
 A number of times determined by your training, when you make a bite attack you may force the creature to make a constitution save vs your Class DC or suffer one of the following effects. 
 
-- **Paralytic:** The target is [[01 Condition#Slowed|Slowed]] until the end of their next turn
-- **Myotoxin:** The target is [[01 Condition#Weakened (Strength)|Weakened]].
-- **Neurotoxic:** The target is [[01 Condition#Dazzled|Dazzled]].
+- **Paralytic:** The target is [[01 Condition#Slowed|Slowed]] until the end of their next turn.
+- **Myotoxin:** The target is [[01 Condition#Weakened (Strength)|Weakened]] until the end of their next turn.
+- **Neurotoxic:** The target is [[01 Condition#Dazzled|Dazzled]] until the end of their next turn.
 
 - **Trained:** 2 times
 - **Expert:** 3 times
