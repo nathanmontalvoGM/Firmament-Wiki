@@ -10,9 +10,9 @@ hey gang, wanted to give a small update about some of the ancestries and heritag
 	* Goblin is almost done, just needs one more feat for the Ancestry and some tweaks for the heritage and some artwork.
 * ## [Human](https://nathanmontalvogm.github.io/Firmament-Wiki/Firmament/00-Feature-Brainstorm/Character-Sheet/Ancestry/Human/Human) - 90% there
 	* missing a couple heritage feats 
-* ## Lizardolk - 2/3 heritages done.
+* ## [Lizardolk ](https://nathanmontalvogm.github.io/Firmament-Wiki/Firmament/00-Feature-Brainstorm/Character-Sheet/Ancestry/Lizardfolk/Lizardfolk)- 2/3 heritages done.
 	* Completed heritages are: **Bitey Lizardfolk** and **Crafty Lizardfolk**. Crafty lizardfolk is a bit complex atm and I'm looking for a way to keep its core identity without removing its versatility. Will be interested if you guys take a look at him. Pretty happy with Bitey LIzardfolk tho.
-* ## ORC - not started
+* ## [ORC](https://nathanmontalvogm.github.io/Firmament-Wiki/Firmament/00-Feature-Brainstorm/Character-Sheet/Ancestry/Orc/Orc) - not started
 
 Take a look at what's done so far if you'd like. More to come soon hopefully. 
 * 

@@ -1,5 +1,5 @@
 ![[Pasted image 20260623211312.png|300]]
-*[credit to Mike Andreoli on ArtStation](https://www.artstation.com/artwork/9eRQvo)*
+- *[credit to Mike Andreoli on ArtStation](https://www.artstation.com/artwork/9eRQvo)*
 > Your lineage has developed an especially potent bite, honed over generations of hunting larger prey
 ## 1st - Venomous Bite
 Your saliva carries a potent toxin developed through centuries of hunting poisonous prey.

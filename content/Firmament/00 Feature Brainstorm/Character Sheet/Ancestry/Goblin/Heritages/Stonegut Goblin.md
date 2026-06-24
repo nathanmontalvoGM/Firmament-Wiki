@@ -9,12 +9,12 @@ You consume an object. 1 action
 	- **Other Objects:** Other objects may be eaten as well but don't have a given statistic benefit. Feel free to come up with flavor for your goblin on how these objects affect them.  
 
 These bonuses increases as you gain training in this feat.
-- **Trained:** as written 
-- **Expert:** 
+- ### **Trained:** as written 
+- ### **Expert:** 
 - 	**Metallic Objects:** +2 bonus to AC
 	- **Stone or Earth Objects:** +2 bonus to Strength and Constitution rolls
 	- **Plants or Plant Matter:** +10 [[Temporary Hit Points]]
-- **Master:** You can have two objects in your stomach at the same time. If you choose two different objects, you gain both of their benefits. If you choose the same object, refer to the objects doubled section. 
+- ### **Master:** You can have two objects in your stomach at the same time. If you choose two different objects, you gain both of their benefits. If you choose the same object, refer to the objects doubled section. 
 	- **Metallic Objects:** +3 bonus to AC
 		- **Doubled:** increase the bonus to +5. Additionally you gain resistance 5 to physical damage.
 	- **Stone or Earth Objects:** +3 bonus to Strength and Constitution rolls
