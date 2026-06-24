@@ -11,3 +11,7 @@
 	* **Feat.** You gain a [[General Feat]] as a bonus feat.
 	* **Restful Dreams.** When you complete a long rest, you may recall one detail from a dream you had. Once per long rest you may ask the GM a yes-or-no question about something that has happened to you within the last 7 days. The GM will answer truthfully.
 * **Languages:**
+## Heritages
+- [[Ambitious Human]]
+- [[Dreamtouched Human]]
+- [[Wanderer Human]]

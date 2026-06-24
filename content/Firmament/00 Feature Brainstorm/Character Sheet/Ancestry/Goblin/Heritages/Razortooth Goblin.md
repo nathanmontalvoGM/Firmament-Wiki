@@ -1,3 +1,4 @@
+![[Pasted image 20260623213841.png|300]]
 > Your family's teeth are formidable weapons.
 
 # 1st - Jaws

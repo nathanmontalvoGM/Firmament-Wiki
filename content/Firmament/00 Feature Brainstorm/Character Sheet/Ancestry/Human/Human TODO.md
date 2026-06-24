@@ -5,13 +5,13 @@
 - [x] 1st Level Feature [priority:: critical] [ancestry::Human] [notes::]
 - [x] 5th Level Feature [priority:: critical] [ancestry::Human] [notes::]
 - [x] 9th Level Feature [priority:: critical] [ancestry::Human] [notes::]
-#### Lucid Human
-- [ ] 1st Level Feature [priority:: critical] [ancestry::Human] [notes::]
+#### Dreamtouched Human
+- [x] 1st Level Feature [priority:: critical] [ancestry::Human] [notes::]
 - [ ] 5th Level Feature [priority:: critical] [ancestry::Human] [notes::]
 - [x] 9th Level Feature [priority:: critical] [ancestry::Human] [notes::]
 #### Wanderer Human
-- [ ] 1st Level Feature [priority:: critical] [ancestry::Human] [notes::]
-- [ ] 5th Level Feature [priority:: critical] [ancestry::Human] [notes::]
+- [x] 1st Level Feature [priority:: critical] [ancestry::Human] [notes::]
+- [x] 5th Level Feature [priority:: critical] [ancestry::Human] [notes::]
 - [ ] 9th Level Feature [priority:: critical] [ancestry::Human] [notes::]
 
 ## 🟡 Important Tasks

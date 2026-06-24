@@ -28,8 +28,8 @@ You increase your maximum [[Hit Points]] by this number at 1st level and every l
 **[[Stamina]]:** 4 + your Dexterity modifier (Minimum of 1).
 You increase your [[Stamina]] by this number at 1st level and every level thereafter.
 ## Proficiencies
-**Armor:** Trained in [[Light Armor]], [[01 medium armor]], [[01 Shields]]
-**Weapons:** Trained in all simple weapons and the favored weapon determined by your [[Domain]] (see [[Favored Weapon List]])
+**Armor:** Trained in [[Unarmored Defense]], [[Light Armor]], [[01 medium armor]], [[01 Shields]]
+**Weapons:** Trained in all [[simple weapons]], [[unarmed attacks]] and the favored weapon determined by your [[Domain]] (see [[Favored Weapon List]])
 **Tools:** None  
 **Saving Throws:** Expert in Wisdom and Charisma and trained in the other ones.
 **Perception:** Trained in Perception

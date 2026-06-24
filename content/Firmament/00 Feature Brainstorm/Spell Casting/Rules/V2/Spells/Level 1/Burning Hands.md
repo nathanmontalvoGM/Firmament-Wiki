@@ -11,7 +11,7 @@ casting_requirements: "#Verbal #Somatic"
 - **Components:** #Fire #Evocation 
 - **Casting Requirements:** #Verbal #Somatic 
 - **Duration:** #Instantaneous 
-A thin sheet of flames shoots forth from your outstretched fingertips. All creatures within range must make a basic Dexterity saving throw or take 3d6 fire damage.
+A thin sheet of flames shoots forth from your outstretched fingertips. All creatures within range must make a basic Dexterity saving throw or take 2d6 fire damage.
 
 **Critical Fail:** [[01 Critical Hits#Critical Damage|Critical Damage]] and they take 1d4 persistent fire damage
 

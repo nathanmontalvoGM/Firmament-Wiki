@@ -8,3 +8,8 @@
 	* **Adept Hider:** You are trained in Stealth.
 	* Lore Flavor Feat WIP
 * **Languages:**
+
+## Heritages
+- [[Big Boss Goblin]]
+- [[Razortooth Goblin]]
+- [[Stonegut Goblin]]

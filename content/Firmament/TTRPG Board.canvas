@@ -47,8 +47,9 @@
 		{"id":"6fc1bd14c3c27404","type":"text","text":"# Rework","x":3400,"y":-80,"width":340,"height":140,"color":"5"},
 		{"id":"e87859391e89c862","type":"text","text":"# Skills","x":2880,"y":-80,"width":340,"height":140,"color":"5"},
 		{"id":"7829a8e010a5d8ea","type":"text","text":"# Rework TODO\n## 🔴 Critical Tasks\n\n## 🟡 Important Tasks\n\n## 🟢 Optional Tasks\n","x":3400,"y":100,"width":340,"height":1020},
-		{"id":"96eca79e30bd5af2","x":3680,"y":-280,"width":620,"height":130,"color":"5","type":"text","text":"# MISC"},
-		{"id":"dcc973815ef21320","x":4530,"y":60,"width":400,"height":1060,"type":"file","file":"00 Feature Brainstorm/Rules/subs systems/Subsystem Backlog/Lingering Injury.md"}
+		{"id":"96eca79e30bd5af2","type":"text","text":"# MISC","x":3680,"y":-280,"width":620,"height":130,"color":"5"},
+		{"id":"dcc973815ef21320","type":"file","file":"00 Feature Brainstorm/Rules/subs systems/Subsystem Backlog/Lingering Injury.md","x":4530,"y":60,"width":400,"height":1060},
+		{"id":"53dd6fafbb901815","x":5000,"y":60,"width":400,"height":1060,"type":"file","file":"00 Feature Brainstorm/Character Sheet/Background/Background TODO.md"}
 	],
 	"edges":[]
 }

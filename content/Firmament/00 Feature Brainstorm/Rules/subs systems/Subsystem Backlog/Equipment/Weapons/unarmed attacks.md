@@ -1,0 +1,1 @@
+You can Strike with your fist or another body part. Your unarmored attack is equal to your strength modifier (minimum of 1)

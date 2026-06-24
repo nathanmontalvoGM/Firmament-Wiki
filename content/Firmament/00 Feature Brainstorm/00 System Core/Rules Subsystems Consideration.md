@@ -15,7 +15,7 @@
 * [[01 Shields]]
 * [[01 Damage Resistance and Vulnerability]]
 * [[Dodge]]
-* [[Hide]]
+* [[00 Feature Brainstorm/Rules/subs systems/Subsystem Backlog/Combat/Actions/Hide]]
 
 ## Rest/Recovery
 * [[Long Rest]]
