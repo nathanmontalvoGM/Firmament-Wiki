@@ -8,7 +8,7 @@ When you bite a creature and deal damage, you enter a brief frenzy. Until the st
 #### [[Seer Elf]]
 - [x] 1st Level Feature [priority:: critical] [ancestry::Elf] [notes::]
 - [x] 5th Level Feature [priority:: critical] [ancestry::Elf] [notes::]
-- [ ] 9th Level Feature [priority:: critical] [ancestry::Elf] [notes::]
+- [x] 9th Level Feature [priority:: critical] [ancestry::Elf] [notes::]
 #### [[Woodland Elf WIP]]
 - [x] 1st Level Feature [priority:: critical] [ancestry::Elf] [notes::]
 - [x] 5th Level Feature [priority:: critical] [ancestry::Elf] [notes::]

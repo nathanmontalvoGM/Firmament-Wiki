@@ -4,9 +4,9 @@
 - [x] decide on 3 heritages [priority:: critical] [ancestry::Dwarf] [notes::]
 - [ ] redo features [priority:: critical] [ancestry::Dwarf] [notes::]
 #### Death Walker
-- [ ] 1st Level Feature [priority:: critical] [ancestry::Dwarf] [notes::]
-- [ ] 5th Level Feature [priority:: critical] [ancestry::Dwarf] [notes::]
-- [ ] 9th Level Feature [priority:: critical] [ancestry::Dwarf] [notes::]
+- [x] 1st Level Feature [priority:: critical] [ancestry::Dwarf] [notes::]
+- [x] 5th Level Feature [priority:: critical] [ancestry::Dwarf] [notes::]
+- [x] 9th Level Feature [priority:: critical] [ancestry::Dwarf] [notes::]
 #### Elemental Dwarf
 - [ ] 1st Level Feature [priority:: critical] [ancestry::Dwarf] [notes::]
 - [ ] 5th Level Feature [priority:: critical] [ancestry::Dwarf] [notes::]

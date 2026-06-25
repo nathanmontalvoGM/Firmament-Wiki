@@ -13,7 +13,7 @@ Seer elf’s gains training in a skill determined by their tradition.
 **Occult:** You gain training in Occultism
 
 ## 5th - Something Magical
-
+You gain access to additional spells determined by your Elven Magic. These spells use spell slots as normal
 **Arcane:** You can cast [[Detect Magic]] and it’s always empowered by 1 level with no [[Mana]] cost. 
 **Primal:** You can speak with animals and plants at will as if you had the Spell [[Speak with Animals]] and [[Speak with Plants]] cast on you. 
 **Divine:** You can cast [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 1/Heal|Heal]] and its always empowered by 1 level with no [[Mana]] cost. 
@@ -21,10 +21,10 @@ Seer elf’s gains training in a skill determined by their tradition.
 
 ## 9th
 
-**Arcane:** 
-**Primal:**
-**Divine:**
-**Occult:**
+**Arcane:** Cantrips cast from the arcane spell list are empowered by an additional level with no [[Mana]] cost. 
+**Primal:** Cantrips cast from the primal spell list are empowered by an additional level with no [[Mana]] cost. 
+**Divine:** Cantrips cast from the divine spell list are empowered by an additional level with no [[Mana]] cost. 
+**Occult:** Cantrips cast from the occult spell list are empowered by an additional level with no [[Mana]] cost. 
 
 
 > WIP

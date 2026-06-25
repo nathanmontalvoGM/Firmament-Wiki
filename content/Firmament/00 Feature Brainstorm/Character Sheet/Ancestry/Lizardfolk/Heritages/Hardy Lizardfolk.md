@@ -1,7 +1,7 @@
 ![[Pasted image 20260624182609.png|300]]
 *[credit to jonelliottart on reddit](https://www.reddit.com/r/DnD/comments/lki6iw/ocart_urthurtux_lizardfolk_barbarian_commission/)*
 ## 1st - Tough Scales
-Change the calculation for [[Unarmored Defense]] to 14 + level + training + dexterity. Additionally while unarmored, reduce all physical damage by 2. This reduction increases to 3 at Expert and 5 at Master proficiency in your [[Unarmored Defense]]
+Change the calculation for [[Unarmored Defense]] to 14 + level + training + dexterity. Additionally while unarmored, reduce all physical damage by 2. This reduction increases to 3 at Expert and 5 at Master proficiency in your [[Unarmored Defense]]. 
 
 ## 5th - Scaly Endurance
 You gain the following benefits while unarmored:
