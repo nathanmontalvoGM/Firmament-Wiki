@@ -1,8 +1,2 @@
-1 action
- Climbing
-- Swimming
-- Crawling
-- Squeezing
-You move 2 feet per 1 foot moved. You can split up this move like normal.
-
+Movement through difficult conditions. Includes actions like climbing, swimming, crawling, and squeezing through tight spaces. Moving in this way costs 2 feet of movement for every 1 foot traveled. You may split this movement across your turn as normal.
 #revision1 

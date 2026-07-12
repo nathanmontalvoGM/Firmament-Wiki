@@ -1,0 +1,1 @@
+A creature with darkvision or greater darkvision can see perfectly well in areas of darkness and  dim light though such vision is in black and white only.

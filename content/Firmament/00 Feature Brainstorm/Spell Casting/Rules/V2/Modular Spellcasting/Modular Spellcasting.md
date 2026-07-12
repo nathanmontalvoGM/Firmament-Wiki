@@ -25,6 +25,8 @@ When a source is applied to an area of effect spell and references a target, it 
 > **Note:** A mechanic to incentivize using varied sources rather than repeating the same one is still needed.
 
 ### Delivery
+> dont use delivery for cantrips 
+
 
 Each spell uses a delivery method determining how it reaches its target. Deliveries have a base Mana cost and can be upgraded by spending additional Mana.
 

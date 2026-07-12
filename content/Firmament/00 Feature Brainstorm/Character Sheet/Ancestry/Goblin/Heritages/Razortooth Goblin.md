@@ -9,11 +9,11 @@ You gain a bite attack as an unarmed attack. Your bite deals 1d6 piercing damage
 - **Master:** 3d8. you heal 8 [[Hit Points]] and you heal on a 6, 7 or 8.
 
 # 5th - Blood Frenzy
-When you bite a creature and deal damage, you can choose to enter a blood frenzy. Until the end of your next turn you gain a bonus to melee attack and damage rolls determined by your training but are [[01 Condition#Off-Guard|Off-Guard]] until the start of your next turn.
+When you bite a creature and deal damage, you can choose to enter a blood frenzy as a free action. Until the end of your next turn you gain a bonus to melee attack and damage rolls determined by your training but are [[01 Condition#Off-Guard|Off-Guard]] until the end of your next turn. You can use this feature a number of times equal to your training in this feat.
 
-- **Trained:** +3
-- **Expert:**  +5
-- **Master:** +8
+- **Trained:** +2
+- **Expert:**  +4
+- **Master:** +6
 
 > Note: needs more interesting scaling
 # 9th - Feral 

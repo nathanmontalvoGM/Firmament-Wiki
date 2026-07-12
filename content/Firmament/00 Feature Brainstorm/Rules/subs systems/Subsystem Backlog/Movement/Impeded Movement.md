@@ -1,8 +1,2 @@
-1 action
-- Scaling a cliff during combat
-- Wading chest-deep in rushing water
-- Moving through collapsed tunnels
-- Trekking through a thick jungle
-- Crawling under fire
-As [[Move]] but you move 3 feet per 1 foot moved. You can split up this move like normal assuming.
+Movement through severely obstructed conditions. Includes actions like scaling cliffs, wading through rushing water, moving through collapsed tunnels, trekking through dense jungle, or crawling under fire. Moving in this way costs 3 feet of movement for every 1 foot traveled. You may split this movement across your turn as normal.
 #revision1 

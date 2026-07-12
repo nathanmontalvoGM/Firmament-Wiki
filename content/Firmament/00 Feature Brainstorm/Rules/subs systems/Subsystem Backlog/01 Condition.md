@@ -43,10 +43,12 @@ You're distracted or otherwise unable to focus your full attention on defense. Y
 ## Paralyzed X
 You're frozen in place. Paralyzed always has a value. The value determines in how many rounds it takes before you become paralyzed. While you are being paralyzed but before its effects have applied, your movement is [[Strained Movement]]. If you become paralyzed, you are [[01 Condition#Unconscious|Unconscious]]. You automatically fail Strength and Dexterity based saving throws. Attack rolls against you are [[Favored and Hindered (Advantage System)|Favored]] and any attack within 5ft increase its [[Degree of Success]] of its attacks by 1 step.
 
-## Persistent Damage WIP
+## Persistent Damage
  Persistent damage always lists a die value (i.e. 1d4) you will be taking and a damage type dealt (such as fire). This damage is taken at the end of your turn. Afterwards, you roll a DC 15 flat check to see if you recover from the persistent damage. If you succeed this condition ends.
 
-You can only be afflicted by one instance of a damage type. If multiple effects of the same damage type would be applied, you take the higher of the two.
+Multiple instances of the same persistent damage type stack, up to a maximum of 3 instances. If a 4th instance of the same type would be applied, compare it to the lowest existing instance and keep whichever die is higher.
+
+When rolling to recover from persistent damage, a single recovery roll applies to all instances of that damage type simultaneously rather than requiring a separate roll for each.
 
 Persistent damage also only counts as one filled segment on your [[Death Clock]], instead of each individual instance of damage counting. 
 

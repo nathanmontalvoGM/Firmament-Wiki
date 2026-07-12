@@ -1,8 +1,10 @@
-When you drop to 0 hit points, you gain the [[01 Condition#Staggered|Staggered]] condition. While you have this condition you only have 2 actions, all your rolls are [[Favored and Hindered (Advantage System)|Hindered]] and you're movement speed is a [[Strained Movement]]. If you are restored above 0 [[Hit Points]] while you have the [[01 Condition#Staggered|Staggered]] condition, you increase your [[Death Clock]] by 1 and remove the condition. 
+When you drop to 0 hit points, you gain the [[01 Condition#Staggered|Staggered]] condition. While you have this condition you only have 2 actions, all your rolls are [[Favored and Hindered (Advantage System)|Hindered]] and you're movement speed is a [[Strained Movement]]. This lasts for a number of rounds = to your constitution. 
 
-This lasts for a number of rounds = to your constitution. If you lose the [[01 Condition#Staggered|Staggered]] condition after its duration ends, you go [[01 Condition#Unconscious|Unconscious]] and start filling your [[Death Clock]]. If you go [[01 Condition#Unconscious|Unconscious]] in this way you gain a [[Lingering Injury]].
+ If you lose the [[01 Condition#Staggered|Staggered]] condition after its duration ends, you go [[01 Condition#Unconscious|Unconscious]] and start filling your [[Death Clock]]. If you go [[01 Condition#Unconscious|Unconscious]] in this way you gain a [[Lingering Injury]].
+ 
+If you are restored above 0 [[Hit Points]] while you have the [[01 Condition#Staggered|Staggered]] condition, you increase your [[Death Clock]] by 1 and remove the condition. 
 
-The Death Clock has 3 total segments. When you first hit 0 hit points, your total amount of segments is reduced by 1 (meaning you fill in the first segment). When all 3 segments are filled, you die.
+The Death Clock has 4 total segments. When you first hit 0 hit points, your total amount of segments is reduced by 1 (meaning you fill in the first segment). When all 4 segments are filled, you die.
 
 While at 0 hit points:
 
@@ -13,7 +15,7 @@ If healing restores you to at least 1 hit point:
 
 - Your Death Clock resets to empty,
 - But you lose its final segment.
-	- (You now have 2 total segments instead of 3).
+	- (You now have 2 total segments instead of 4).
 
 you regain all lost segments on a [[Long Rest]] 
 

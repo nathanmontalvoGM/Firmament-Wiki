@@ -1,5 +1,5 @@
 - **Prerequisite:** #Fighter [[Weaponmaster]]
-- **Level:** 7
+- **Level:** 6
 - **Tag:** #CombatExploit 
 - **Type:** #RudimentaryFeat 
 

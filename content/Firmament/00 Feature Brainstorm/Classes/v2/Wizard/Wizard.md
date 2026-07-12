@@ -19,6 +19,7 @@
 **[[Hit Points]]:** 6 + your Constitution modifier
 You increase your maximum [[Hit Points]] by this number at 1st level and every level thereafter.
 **[[Stamina]]:** 2 + your Dexterity modifier (Minimum of 1).
+**[[Stamina|Recovery Dice]].** 1d2
 You increase your [[Stamina]] by this number at 1st level and every level thereafter.
 
 ## Proficiencies

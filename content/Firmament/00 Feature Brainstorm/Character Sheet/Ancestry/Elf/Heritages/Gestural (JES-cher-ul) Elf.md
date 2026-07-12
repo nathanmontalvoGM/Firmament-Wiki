@@ -3,7 +3,7 @@
 > Formed from the passion of art and beauty, Gestural elves embody the [[Firmament]]s unbridled creativity. Their skin resembles textured brush strokes, oil paints or other painting techniques. They are able to alter the world around them .
 
 ## 1st Elven Magic WIP
-
+you get access to the [[Minor Illusion]] cantrip
 ## 1st - Chroma
 You channel the [[Firmament]]'s chroma into an object of 1 bulk or less that you can touch.
 

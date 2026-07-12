@@ -13,7 +13,7 @@ At 3rd level, you learn to unleash special magical effects with some of your att
 **Melee:** Nonmagical weapons inherit the runes properties, magical weapons do not.
 
 ## Magic Bypass
-At 7th level, your attacks count as magical for the sake of overcoming resistance and immunity to nonmagical attacks and damage.
+At 6th level, your attacks count as magical for the sake of overcoming resistance and immunity to nonmagical attacks and damage.
 
 ## Guided Attack
-At 10th level, you learn how to use magic to aid your attacks. When you make an attack roll with an enchanted weapon and miss, you can reroll the attack once per turn.
+At 9th level, you learn how to use magic to aid your attacks. When you make an attack roll with an enchanted weapon and miss, you can reroll the attack once per turn.

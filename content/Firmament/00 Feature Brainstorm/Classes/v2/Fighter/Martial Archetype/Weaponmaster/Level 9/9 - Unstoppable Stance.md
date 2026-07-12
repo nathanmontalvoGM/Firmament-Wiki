@@ -1,5 +1,5 @@
 - **Prerequisite:** #Fighter #Aegis [[Weaponmaster]]
-- **Level:** 10
+- **Level:** 9
 - **Tag:** #Aegis  #CombatExploit 
 - **Type:** #RudimentaryFeat 
 

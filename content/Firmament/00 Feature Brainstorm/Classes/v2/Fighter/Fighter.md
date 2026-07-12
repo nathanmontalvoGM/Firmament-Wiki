@@ -12,18 +12,18 @@ casting_requirements:
 ## Fighter Class Features
 As a fighter, you gain the following class features.
 
-| Level | Features                                                                                                                                                                                |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st   | [[Fighter#Fighting Discipline\|Fighting Discipline]], [[Fighter#Maneuvers\|Maneuvers]], [[Fighter#Opportunity Attack\|Opportunity Attack]] |
-| 2nd   | [[Fighter Class feat]], [[Fighter#Bravery\|Bravery]]                                                                                                                     |
-| 3rd   | [[Fighter#Martial Archetype\|Martial Archetype]], Martial Archetype Feat                                                                                                 |
-| 4th   | [[Fighter Class feat]], Fighting Discipline Feat                                                                                                                                        |
-| 5th   | General Feat, [[Fighter#Extra Attack\|Extra Attack]]                                                                                                                     |
-| 6th   | [[Fighter Class feat]], Fighting Discipline Feat                                                                                                                                        |
-| 7th   | Martial Archetype Feat, [[Fighter#Battlefield Surveyor\|Battlefield Surveyor]]                                                                                           |
-| 8th   | [[Fighter Class feat]], [[Fighter#Battle Hardened\|Battle Hardened]]                                                                                                     |
-| 9th   | Fighting Discipline Feat, [[Fighter#Combat Flexibility\|Combat Flexibility ]]                                                                                            |
-| 10th  | [[Fighter Class feat]], [[Fighter#Armor Expertise\|Armor Expertise]], General feat                                                                                       |
+| Level | Features                                                                                                                                                                                   |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1st   | [[Fighter#Fighting Discipline\|Fighting Discipline]], [[Fighter#Signature Weapon\|Signature Weapon]], [[Fighter#Maneuvers\|Maneuvers]], [[Fighter#Opportunity Attack\|Opportunity Attack]] |
+| 2nd   | [[Fighter Class feat]], [[Fighter#Bravery\|Bravery]]                                                                                                                                       |
+| 3rd   | [[Fighter#Martial Archetype\|Martial Archetype]], Martial Archetype Feat, [[Fighter#Skill Increases\|Skill Increases]]                                                                     |
+| 4th   | [[Fighter Class feat]]                                                                                                                                                                     |
+| 5th   | General Feat, [[Fighter#Extra Attack\|Extra Attack]], [[Fighter#Skill Increases\|Skill Increases]]                                                                                         |
+| 6th   | [[Fighter Class feat]], Martial Archetype Feat                                                                                                                                             |
+| 7th   | [[Fighter#Battlefield Surveyor\|Battlefield Surveyor]], [[Fighter#Skill Increases\|Skill Increases]]                                                                                       |
+| 8th   | [[Fighter Class feat]], [[Fighter#Battle Hardened\|Battle Hardened]]                                                                                                                       |
+| 9th   | [[Fighter#Combat Flexibility\|Combat Flexibility]], Martial Archetype Feat, [[Fighter#Skill Increases\|Skill Increases]]                                                                   |
+| 10th  | [[Fighter Class feat]], [[Fighter#Armor Expertise\|Armor Expertise]], General feat                                                                                                         |
 
 
 ## [[Hit Points]]
@@ -33,6 +33,7 @@ As a fighter, you gain the following class features.
 - You increase your maximum number of HP by this number at 1st level and every level thereafter.
 - **Stamina:** 6 + your Dexterity modifier (Minimum of 1).
 - You increase your Stamina by this number at 1st level and every level thereafter.
+- **Recovery Dice.** 1d8
 ## Proficiencies
 
 **Armor:** Trained in all armor and Unarmored Defense
@@ -148,6 +149,10 @@ At 3rd level, you choose an archetype that you strive to emulate in your combat 
 | Eldritch Knight    |     |
 | Combat Medic       |     |
 | Scout              |     |
+## Skill Increases
+At 3rd level and every 2 levels thereafter you gain a skill increase. You can use this increase to become trained in one skill you are untrained in, or to become an expert in a skill you are already trained in.
+
+You can use any skill increase gained at 7th level or higher to become a master in a skill you are already an expert in.
 ## General Feat
 At 5th level and 10th level, you gain an [[Ability Score Improvement]] and a [[General Feat]].
 

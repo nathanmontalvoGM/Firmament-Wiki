@@ -11,6 +11,6 @@
 **Fundamental:**
 While your Ancestral Spirit is active, you and allies within 15 feet of it receive additional [[Greater and Lesser Healing|Lesser Healing]] based on your training.
 
-- **Trained:** additional healing is 4
+- **Trained:** the additional healing is 4
 - **Expert:** increase the range to 20 feet and the healing by 6
 - **Master:** the range increases to 30 feet and the healing by 8. The healing is [[Greater and Lesser Healing|Greater Healing]] instead of [[Greater and Lesser Healing|Lesser Healing]].

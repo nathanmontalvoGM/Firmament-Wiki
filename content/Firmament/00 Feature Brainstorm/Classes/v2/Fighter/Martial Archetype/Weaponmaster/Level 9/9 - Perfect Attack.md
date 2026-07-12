@@ -1,5 +1,5 @@
 - **Prerequisite:** #Fighter  #Strike [[Weaponmaster]]
-- **Level:** 10
+- **Level:** 9
 - **Tag:** #Strike #CombatExploit 
 - **Type:** #RudimentaryFeat 
 

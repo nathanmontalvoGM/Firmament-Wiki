@@ -1,5 +1,5 @@
 - **Prerequisite:** [[Arcane Warrior]]
-- **Level:** 7
+- **Level:** 6
 - **Tag:** #Rune 
 - **Type:** #RudimentaryFeat 
 

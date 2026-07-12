@@ -4,6 +4,17 @@ Table adapted from [farlandworld](http://farlandworld.com/injuries.html)
 When you gain the [[01 Condition#Staggered|Staggered]] condition, you gain a Minor Injury. If the damage dealt was equal to half your maximum [[Hit Points]] or more, gain a Sever Injury instead. To determine the nature of the injury, determine the type of damage that triggered the injury and roll on the appropriate table below that corresponds to the damage type. If multiple types of damage caused the injury, use the type that dealt the majority of damage
 
 ## Minor Injury Table
+### Acid
+
+| 2d10  | Lingering Injury    | Effect                                                                                                                                                                                                                                                                             |
+| ----- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2     | **Minor Neuralgia** | You have constant, painful nerve damage over a large portion of your body. All d20 rolls suffer a -2 penalty. [[Greater and Lesser Healing\|Greater Healing]] of 4th level or higher, such as heal and regenerate, cures the neuralgia, or it will resolve on its own in ten days. |
+| 3-5   |                     |                                                                                                                                                                                                                                                                                    |
+| 6-8   |                     |                                                                                                                                                                                                                                                                                    |
+| 9-13  |                     |                                                                                                                                                                                                                                                                                    |
+| 14-16 |                     |                                                                                                                                                                                                                                                                                    |
+| 17-20 |                     |                                                                                                                                                                                                                                                                                    |
+### Bludgeoning or Force
 
 ## Severe Injury Table
 ### Acid

@@ -1,9 +1,3 @@
-## Notes
-* DND cleric seems to be built with more durability in mind while pf2e doesn't get any armor proficiencies
-* This iteration will lean into DND's version of cleric
-* unhappy with the turn undead feature, I would replace this 
-
-UPDATE: spell table
 ## Cleric Class Features
 
 | Level | Features                                                                                                                                                        | Cantrips | 1st | 2nd | 3rd | 4th | 5th |
@@ -12,11 +6,11 @@ UPDATE: spell table
 | 2nd   | [[Cleric Class Feat]]                                                                                                                                           | 5        | 4   |     |     |     |     |
 | 3rd   | [[Cleric#Skill Increases\|Skill Increases]]                                                                                                                     | 5        | 4   | 2   |     |     |     |
 | 4th   | Domain Feature                                                                                                                                                  | 5        | 4   | 3   |     |     |     |
-| 5th   | General feat, [[Cleric#Perception Expertise\| Perception Expertise]]                                                                                            | 5        | 4   | 3   | 2   |     |     |
+| 5th   | General feat, [[Cleric#Perception Expertise\| Perception Expertise]], [[Cleric#Skill Increases\|Skill Increases]]                                               | 5        | 4   | 3   | 2   |     |     |
 | 6th   | , Domain Feature                                                                                                                                                | 5        | 4   | 3   | 3   |     |     |
-| 7th   |                                                                                                                                                                 | 5        | 4   | 3   | 3   | 2   |     |
+| 7th   | [[Cleric#Skill Increases\|Skill Increases]]                                                                                                                     | 5        | 4   | 3   | 3   | 2   |     |
 | 8th   | Domain Feature. [[Cleric#Potent Divinity]]                                                                                                                      | 5        | 4   | 3   | 3   | 3   |     |
-| 9th   |                                                                                                                                                                 | 5        | 4   | 3   | 3   | 3   | 2   |
+| 9th   | [[Cleric#Skill Increases\|Skill Increases]]                                                                                                                     | 5        | 4   | 3   | 3   | 3   | 2   |
 | 10th  |                                                                                                                                                                 | 5        | 4   | 3   | 3   | 3   | 3   |
 - **Key Ability:** Wisdom
 - When you choose this class at 1st level, you gain an attribute boost to Wisdom. 
@@ -27,6 +21,7 @@ UPDATE: spell table
 You increase your maximum [[Hit Points]] by this number at 1st level and every level thereafter.
 **[[Stamina]]:** 4 + your Dexterity modifier (Minimum of 1).
 You increase your [[Stamina]] by this number at 1st level and every level thereafter.
+**[[Stamina|Recovery Dice]].** 1d6
 ## Proficiencies
 **Armor:** Trained in [[Unarmored Defense]], [[Light Armor]], [[01 medium armor]], [[01 Shields]]
 **Weapons:** Trained in all [[simple weapons]], [[unarmed attacks]] and the favored weapon determined by your [[Domain]] (see [[Favored Weapon List]])
@@ -50,9 +45,10 @@ Your maximum Mana is equal to 4 x your Cleric Level and the highest amount of Ma
 ## Divine Domain
 At 1st level, you choose a domain shaped by your choice of Deity and the gifts they grant you. Your choice grants you domain spells and other features when you choose it at 1st level. 
 
-| Domain          |
-| --------------- |
-| [[Life Domain]] |
+| Domain            |
+| ----------------- |
+| [[Life Domain]]   |
+| [[Martyr Domain]] |
 
 ## Favored Weapon
 At 1st Level, as a symbol of your deity you wield a weapon that represents them. The types of favored weapons you can pick from are determined by your Domain. This weapon is your spell casting focus for casting spells. You can only have one favored weapon that accomplishes this purpose, requiring an [[01 Investment]] slot. You can choose to invest in a different weapon of the same weapon type, losing investment in the original weapon. 
@@ -66,9 +62,9 @@ At 2nd level, you gain the ability to channel divine energy directly from your d
 At 2nd level and every 2 levels thereafter, you gain a [[Cleric Class Feat]] 
 
 ## Skill Increases
-At 3rd level and every 2 levels thereafter, you gain a skill increase. You can use this increase to either become trained in one skill you're untrained in, or become an expert in one skill in which you're already trained.  
-  
-You can use any of these skill increases you gain at 7th level or higher to become a master in a skill in which you're already an expert, and any of these skill increases you gain at 15th level or higher to become legendary in a skill in which you're already a master.
+At 3rd level and every 2 levels thereafter you gain a skill increase. You can use this increase to become trained in one skill you are untrained in, or to become an expert in a skill you are already trained in.
+
+You can use any skill increase gained at 7th level or higher to become a master in a skill you are already an expert in.
 ## General Feat
 At 5th level and 10th level, you gain an [[Ability Score Improvement]] and a [[General Feat]].
 

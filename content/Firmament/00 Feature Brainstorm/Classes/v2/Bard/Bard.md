@@ -10,13 +10,13 @@ UPDATE: spell table
 | ----- | ------------------------------------------------------------------------------------------------------------------ | -------- | --- | --- | --- | --- | --- |
 | 1st   | [[Bard#Spellcasting\|Spellcasting]], [[Bard#Performing Arts\|Performing Arts]], [[Bard#Bardic Lore\|Bardic Lore]], | 5        | 2   |     |     |     |     |
 | 2nd   |                                                                                                                    | 5        | 3   |     |     |     |     |
-| 3rd   |                                                                                                                    | 5        | 4   | 2   |     |     |     |
+| 3rd   | [[Fighter#Skill Increases\|Skill Increases]]                                                                       | 5        | 4   | 2   |     |     |     |
 | 4th   |                                                                                                                    | 5        | 4   | 3   |     |     |     |
-| 5th   | General feat                                                                                                       | 5        | 4   | 3   | 2   |     |     |
+| 5th   | General feat, [[Fighter#Skill Increases\|Skill Increases]]                                                         | 5        | 4   | 3   | 2   |     |     |
 | 6th   |                                                                                                                    | 5        | 4   | 3   | 3   |     |     |
-| 7th   |                                                                                                                    | 5        | 4   | 3   | 3   | 2   |     |
+| 7th   | [[Fighter#Skill Increases\|Skill Increases]]                                                                       | 5        | 4   | 3   | 3   | 2   |     |
 | 8th   |                                                                                                                    | 5        | 4   | 3   | 3   | 3   |     |
-| 9th   |                                                                                                                    | 5        | 4   | 3   | 3   | 3   | 2   |
+| 9th   | [[Fighter#Skill Increases\|Skill Increases]]                                                                       | 5        | 4   | 3   | 3   | 3   | 2   |
 | 10th  |                                                                                                                    | 5        | 4   | 3   | 3   | 3   | 3   |
 - **Key Ability:** Charisma
 - When you choose this class at 1st level, you gain an attribute boost to Charisma. 
@@ -27,6 +27,7 @@ UPDATE: spell table
 - You increase your maximum [[Hit Points]] by this number at 1st level and every level thereafter.
 - **[[Stamina]]:** 3 + your Dexterity modifier (Minimum of 1). 
 - You increase your [[Stamina]] by this number at 1st level and every level thereafter.
+- **[[Stamina|Recovery Dice]].** 1d6
 ## Proficiencies
 - **Armor:** Trained in [[Light Armor]] 
 - **Weapons:** Trained in simple and martial weapons.
@@ -166,6 +167,10 @@ At 3rd level, you up the ante on your performance, allowing [[01 Condition#Inspi
 
 You use your current performances Up the Ante feature. 
 
+## Skill Increases
+At 3rd level and every 2 levels thereafter you gain a skill increase. You can use this increase to become trained in one skill you are untrained in, or to become an expert in a skill you are already trained in.
+
+You can use any skill increase gained at 7th level or higher to become a master in a skill you are already an expert in.
 
 ## 5th - more lore
 Choose an additional area of expertise for your Bardic Lore.

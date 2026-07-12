@@ -1,0 +1,1 @@
+[[Lingering Injury#Minor Injury Table|Minor Injury]]
