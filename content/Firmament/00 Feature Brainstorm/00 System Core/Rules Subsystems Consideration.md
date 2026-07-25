@@ -11,8 +11,8 @@
 * [[Dying]]
 
 ## Damage Mitigation (armor, shields, evasion, stealth, incorporeal forms)  
-* [[01 Armor]]
-* [[01 Shields]]
+* [[Armor Rules]]
+* [[Shields]]
 * [[01 Damage Resistance and Vulnerability]]
 * [[Dodge]]
 * [[00 Feature Brainstorm/Rules/subs systems/Subsystem Backlog/Combat/Actions/Hide]]

@@ -24,9 +24,9 @@ Pick a favored weapon from the list below.
 
 ### Divine Imbuement
 At 1st level, choose one Divine Imbuement for your weapon from the list below. You choose another at 5th level. Unless otherwise stated, each imbuement has a number of uses equal to your wisdom modifier. You regain expended uses on a [[Long Rest]]
-* **Vitality Empowerment:** You empower a #Vitality spell by 1 level with no [[Mana]] cost. 
-* **Radiant Empowerment:** You empower a #Radiant spell by 1 level with no [[Mana]] cost. 
-* **Weapon Empowerment:** You can spend [[Mana]] to empower the damage of your weapon. When you hit a creature, you can spend one [[Mana]] to have your weapon deal an extra 1d6 radiant damage. Your maximum mana spent per round still applies to this effect.
+* **Vitality Empowerment:** You expended a use to empower a #Vitality spell by 1 level with no [[Mana]] cost. 
+* **Radiant Empowerment:** You expended a use to empower a #Radiant spell by 1 level with no [[Mana]] cost. 
+* **Weapon Empowerment:** You expended a use to spend [[Mana]] to empower the damage of your weapon. When you hit a creature, you can spend one [[Mana]] to have your weapon deal an extra 1d6 radiant damage. Your maximum mana spent per round still applies to this effect.
 * **Sacred Ward:**  When a creature within 30 feet takes damage, you may expend a use as a reaction to grant them a +2 bonus to their AC against the attack.
 * **Consecrated Strike:** When you hit a creature with your weapon, you may expend a use to cast a cantrip as part of the attack. This cantrip can not be empowered with [[Mana]] and has a range of imbued using your weapon as the imbuement. 
 
@@ -37,7 +37,7 @@ At 1st level, choose one Divine Imbuement for your weapon from the list below. Y
 At 2nd level, your doctrine allows allies to call on your deity for aid.
 
 **Fundamental:**
-Increase your maximum [[Hit Dice]] by your spellcasting ability modifier. Allies within 30 feet who are [[01 Condition#Bloodied (WIP)|Bloodied]] may use [[Healing Surge]] by expending your [[Hit Dice]] instead of their own. This healing counts as **Vitality Dice.** If the healing gained would remove the [[01 Condition#Bloodied (WIP)|Bloodied]] condition, then the excess healing is wasted. Using [[Healing Surge]] in this way does not cause the ally to become immune to [[Healing Surge]]. Instead, the ally becomes immune to Healer’s Mercy for 1 hour.
+Increase your maximum [[Hit Dice]] by your spellcasting ability modifier. Allies within 30 feet who are [[01 Condition#Bloodied (WIP)|Bloodied]] may use [[Healing Surge]] by expending your [[Hit Dice]] instead of their own. If the healing gained would remove the [[01 Condition#Bloodied (WIP)|Bloodied]] condition, then the excess healing is wasted. Using [[Healing Surge]] in this way does not cause the ally to become immune to [[Healing Surge]]. Instead, the ally becomes immune to Healer’s Mercy for 1 hour.
 
 ## Blessed Healer
 - **Type:** #FlexibleFeat 
@@ -50,7 +50,7 @@ Beginning at 4th level, the healing spells you cast on others heal you as well. 
 ## Mark of Protection
 - **Type:** #FlexibleFeat 
 - 
-At 6th level, your healing leaves a lingering mark on those you protect. When you restore  [[Hit Points]] using a levelled spell or Cleric Class Feat to a creature other than you, you place a Divine Mark upon that creature that lasts  for the duration.
+At 6th level, your healing leaves a lingering mark on those you protect. When you restore [[Hit Points]] using a levelled spell or Cleric Class Feat to a creature other than you, you place a Divine Mark upon that creature that lasts for the duration.
 
 - **Expert:** While marked, the creature gains [[Favored]] on all saving throws. When the mark expires, the creature regains Hit Points equal to your Wisdom modifier. The mark persists for one round.
 - **Master:** As Expert. Additionally you may have two marked creatures active simultaneously. When a marked creature succeeds on a saving throw, you may immediately move the mark to another creature within 30 feet as a free action, refreshing its duration. The mark persists for two rounds.

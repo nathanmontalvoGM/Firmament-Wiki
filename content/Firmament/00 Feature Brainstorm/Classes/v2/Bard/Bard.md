@@ -42,7 +42,10 @@ UPDATE: spell table
 * **Inspired:** Commonly given with the Bards Performing Arts feature. Creatures that have the inspired condition gain the benefits of whatever performance granted the condition. A creature cannot have more than one instance of inspired and if inspired would be applied, it replaces the old inspired condition
 	* Wording bad, fix. 
 ## Equipment
-
+11 GP
+- **Armor.** (a) [[leather armor]]
+- **Weapon.** 2 [[simple weapons]] of your choice 
+- **Gear.** explorers pack, musical instrument of your choice
 ## [[Bard Sources]]
 At level 1, Bards gain access to the Bard list of sources, gaining access to more powerful sources as listed in their class table. 
 ## Spellcasting 

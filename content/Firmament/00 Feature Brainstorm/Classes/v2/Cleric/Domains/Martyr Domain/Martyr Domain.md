@@ -7,7 +7,7 @@ A complete list of all feats for Martyr Domain
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1st          | [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 1/Harm\|Harm]], [[Blood Letting]]                                                                                                                |
 | 3rd          | [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 2/Restrictive Bonds\|Restrictive Bonds]], [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 2/Instill Repentance\|Instill Repentance]] |
-| 5th          | [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 3/Life Transference\|Life Transference]]                                                                                                         |
+| 5th          | [[00 Feature Brainstorm/Spell Casting/Rules/V2/Spells/Level 3/Life Transference\|Life Transference]],                                                                                                        |
 | 7th          |                                                                                                                                                                                                              |
 | 9th          |                                                                                                                                                                                                              |
 
@@ -21,7 +21,7 @@ Pick a favored weapon from the list below.
 - [[Dagger]]
 - [[Spear]]
 ## My Body is a Temple
-At 1st level, years of dedication to your deity has made your body resilient and durable. When you level up and increase your maximum [[Hit Points]], increase your maximum by an additional 2 [[Hit Points]].
+At 1st level, years of dedication to your deity has made your body resilient and durable. Your current [[Hit Points|Hit Point]] maximum increases by 2. When you level up, increase your maximum by an additional 2 [[Hit Points]].
 
 ## Channel Divinity: Blood Offering
 - **Type:** #RudimentaryFeat 
@@ -45,7 +45,7 @@ If an enemy deals additional damage to you because of the [[01 Condition#Bloodie
 ## Suffering Made Holy
 At 6th level, your devotion to your deity has granted you resilience to your markings. You gain resistance to bleed damage equal to your level. You also gain the following effects while you have the [[01 Condition#Bloodied (WIP)|Bloodied]] condition:
 * Your spells deal persistent bleed damage equal to your training.
-* You heal [[Greater and Lesser Healing|Greater Healing]] equal to the bleed damage taken.  
+* You heal [[Greater and Lesser Healing|Greater Healing]] equal to the bleed damage dealt.  
 
 - **Expert:** 1d6 persistent bleed damage
 - **Master:** 2d6 persistent bleed damage

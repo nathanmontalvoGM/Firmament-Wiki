@@ -1,10 +1,10 @@
-## Blinded (WIP)
+## Blinded
 You can't see. All d20 rolls requiring vision fail and all enemies are considered undetected. All enemies gain [[Favored and Hindered(Advantage System)|Favored]]against you. 
 
 ## Bloodied (WIP)
 You receive this condition when you reduce your [[Hit Points]] below their maximum. 
 
-NOTE: doesn't do much on its own but certain abilities can exploit a bloodied creature 
+> NOTE: doesn't do much on its own but certain abilities can exploit a bloodied creature 
 ## Clumsy (Dex)
 Your movements become clumsy and inexact. All dexterity based d20 rolls are [[Favored and Hindered (Advantage System)|Hindered]] and you lose your dexterity bonus to AC. 
 

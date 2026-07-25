@@ -15,9 +15,9 @@
     <div class="hub-desc">Will complete once all other ancestries are done</div>
   </a>
   <a class="hub-card Goblin" href="/{{CONTENT_PREFIX}}/00 Feature Brainstorm/Character Sheet/Ancestry/Goblin/Goblin">
-    <div class="hub-status">Almost done</div>
+    <div class="hub-status">Completed!</div>
     <div class="hub-title">Goblin</div>
-    <div class="hub-desc">Just needs one more feat for the Ancestry and some tweaks for the heritages, and some artwork.</div>
+    <div class="hub-desc">3 heritages completed</div>
   </a>
   <a class="hub-card Human" href="/{{CONTENT_PREFIX}}/00 Feature Brainstorm/Character Sheet/Ancestry/Human/Human">
     <div class="hub-status">Almost done</div>
@@ -25,13 +25,13 @@
     <div class="hub-desc">missing a couple heritage feats </div>
   </a>
   <a class="hub-card Orc" href="/{{CONTENT_PREFIX}}/00 Feature Brainstorm/Character Sheet/Ancestry/Orc/Orc">
-    <div class="hub-status">Incomplete</div>
+    <div class="hub-status">Completed</div>
     <div class="hub-title">Orc</div>
-    <div class="hub-desc">Not Started</div>
+    <div class="hub-desc">3 heritages completed</div>
   </a>
    <a class="hub-card Orc" href="/{{CONTENT_PREFIX}}/00 Feature Brainstorm/Character Sheet/Ancestry/Lizardfolk/Lizardfolk">
-    <div class="hub-status">2/3 heritages done.</div>
+    <div class="hub-status">Completed</div>
     <div class="hub-title">Lizardfolk</div>
-    <div class="hub-desc">This guy for sure needs playtesting. Really like him tho </div>
+    <div class="hub-desc">3 heritages complete. This guy for sure needs playtesting. Really like him tho </div>
   </a>
 </div>

@@ -1,5 +1,5 @@
  **[[Hit Points]]:** 6
-* **Age:** 
+* **Age:** Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
 * **Speed:** Elves get a +2 to their Dexterity bonus when determining their movement speed
 * **Ability Score Increase:** +1 to three stats, -1 to one stat
 * **Features:**

@@ -25,6 +25,6 @@ These bonuses increases as you gain training in this feat.
 
 
 # 5th - Calcified Micro Biome
-Once per [[Long Rest]] rest as an action, you may consume any object of 1 bulk or less to remove a [[01 Condition|Condition]] afflicting you.
+Once per scene, as an action, you may consume any object of 1 bulk or less to remove a [[01 Condition|Condition]] afflicting you.
 # 9th - Gut Reaction
 You've eaten so many dangerous things that almost nothing can hurt you from the inside. You gain immunity to poison and disease. Additionally, when you take damage from an effect you can see within 15 feet, you can use your reaction to expel an object in your stomach as a violent eruption. If you were gaining a benefit from the stored object, you immediately lose that benefit. All creatures within a 15 foot cone of you must make a basic dexterity saving throw vs your class DC or take 5d8 acid damage. 

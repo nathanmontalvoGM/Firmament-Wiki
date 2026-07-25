@@ -18,7 +18,6 @@
 		{"id":"label-feats","type":"text","text":"# 📖 Feats","x":2720,"y":-890,"width":200,"height":140,"color":"1"},
 		{"id":"label-general","type":"text","text":"# 📋 General","x":3020,"y":-890,"width":200,"height":140,"color":"1"},
 		{"id":"770cb6a211cc7cc9","type":"text","text":"# Cleric","x":600,"y":-80,"width":340,"height":140,"color":"5"},
-		{"id":"b7b381348af5aea3","type":"file","file":"00 Feature Brainstorm/Classes/v2/Bard/Bard TODO.md","x":940,"y":100,"width":340,"height":1020},
 		{"id":"label-barbarian","type":"text","text":"# Bard","x":940,"y":-80,"width":340,"height":140,"color":"5"},
 		{"id":"f08d40ec6c3ad491","type":"text","text":"# Barbarian","x":1280,"y":-80,"width":340,"height":140,"color":"5"},
 		{"id":"2ffa371209ca8621","type":"text","text":"# Sorcerer","x":1620,"y":-80,"width":340,"height":140,"color":"5"},
@@ -49,7 +48,8 @@
 		{"id":"7829a8e010a5d8ea","type":"text","text":"# Rework TODO\n## 🔴 Critical Tasks\n\n## 🟡 Important Tasks\n\n## 🟢 Optional Tasks\n","x":3400,"y":100,"width":340,"height":1020},
 		{"id":"96eca79e30bd5af2","type":"text","text":"# MISC","x":3680,"y":-280,"width":620,"height":130,"color":"5"},
 		{"id":"dcc973815ef21320","type":"file","file":"00 Feature Brainstorm/Rules/subs systems/Subsystem Backlog/Lingering Injury.md","x":4530,"y":60,"width":400,"height":1060},
-		{"id":"53dd6fafbb901815","x":5000,"y":60,"width":400,"height":1060,"type":"file","file":"00 Feature Brainstorm/Character Sheet/Background/Background TODO.md"}
+		{"id":"53dd6fafbb901815","type":"file","file":"00 Feature Brainstorm/Character Sheet/Background/Background TODO.md","x":5000,"y":60,"width":400,"height":1060},
+		{"id":"b7b381348af5aea3","type":"file","file":"00 Feature Brainstorm/Classes/v2/Bard/Bard TODO.md","x":920,"y":80,"width":340,"height":1020}
 	],
 	"edges":[]
 }

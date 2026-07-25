@@ -2,6 +2,7 @@
 ### Class Core
 - [ ] Formatting Cleanup [priority:: critical] [class:: Barbarian] [notes::]
 - [ ] Class DC scaling [priority:: critical] [class:: Barbarian] [notes::]
+- [x] equipment [priority:: critical] [class:: Barbarian] [notes::]
 ### Fury Instinct
 #### Subclass Core
 - [x] Instinct Ability [priority:: critical] [class:: Barbarian [notes::]

@@ -1,5 +1,6 @@
 When you attempt to revive someone either by an item, spell or other magical effect, you roll a d100 on the table. You add or subtract any relevant modifiers.
 
+Credit: [Original Table Here](https://docs.google.com/spreadsheets/d/1mm1JGkPzps6BVlMxEaUsWrH72NQJNuAyvlfQCRKRwSQ/edit?gid=0#gid=0) by Jack_of_all_Tricks on reddit. Slight modifications by me.
 ## Revivify Table
 
 | d100 minus 5 times the # of previous deaths. | Effect                                                                                                                                                                                                                                                                                                    |                                                                                                          |
@@ -25,6 +26,5 @@ When you attempt to revive someone either by an item, spell or other magical eff
 | 99                                           | increase a mental stat of your choice (Wisdom, Charisma or Intelligence) by 1.                                                                                                                                                                                                                            |                                                                                                          |
 | 100                                          | Increase a physical stat of your choice (Dexterity, Strength or Constitution) by 1.                                                                                                                                                                                                                       |                                                                                                          |
 |                                              |                                                                                                                                                                                                                                                                                                           |                                                                                                          |
-## Resurrection Quirks
+## Resurrection Quirks TODO
 
-Credit: [Original Table Here](https://docs.google.com/spreadsheets/d/1mm1JGkPzps6BVlMxEaUsWrH72NQJNuAyvlfQCRKRwSQ/edit?gid=0#gid=0) by Jack_of_all_Tricks on reddit. Slight modifications by me.

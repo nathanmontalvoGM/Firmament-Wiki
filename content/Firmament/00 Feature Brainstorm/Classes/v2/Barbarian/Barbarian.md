@@ -30,20 +30,24 @@
 - **Tools:** None  
 - **Saving Throws:** Expert in Strength and Constitution and trained in the other ones.
 - **Initiative:** Expert in Initiative 
-- **Skills:** Trained in [[Athletics]] 
+- **Skills:** Trained in Athletics
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 
 ## Equipment
+- 11 GP
+- **Armor.** (a) [[Hide Armor]] and a [[steel shield]] or (b) [[Breastplate]]
+- **Weapon.** 3 [[martial weapons]] of your choice 
+- **Gear.** explorers pack
 ## 1st Level
 ### Rage
 1 action
 You tap into your inner fury and begin raging. You gain a number of [[Temporary Hit Points]] equal to your level plus your Constitution modifier. While you are raging:
-* You deal 2 additional damage on melee attacks. This damage increases as you gain levels in this class.
+* You deal 2 additional damage on melee attacks. This damage increases as you gain levels in this class (as listed in your classes table).
 * You have [[Favored and Hindered (Advantage System)|Favored]] on all strength d20 rolls
 * You gain resistance to [[physical damage]] equal to your barbarian level + 2.
 	* NOTEL Might make it half your level
 
-Feats the can only be used while raging will have the #Rage tag.
+Feats that can only be used while raging will have the #Rage tag.
 
 ### Temper
 Barbarians are granted a unique gift of unbridled fury that is channeled into their lives. However, a barbarian cannot let this fury grow to strong or they might lash out.
@@ -66,7 +70,6 @@ If you exceed your maximum Temper during your turn.
 * On a success, your Temper remains at its maximum value. 
 * On a failure, you immediately use your instincts Breaking Point feature. 
 * You then lose your rage and are [[01 Condition#Off-Guard|Off-Guard]] and [[01 Condition#Weakened (Strength)|Weakened]] until the start of your next turn.
-
 
 ### Focus Up
 - **Target:** Self 

@@ -21,9 +21,9 @@
 You increase your maximum [[Hit Points]] by this number at 1st level and every level thereafter.
 **[[Stamina]]:** 4 + your Dexterity modifier (Minimum of 1).
 You increase your [[Stamina]] by this number at 1st level and every level thereafter.
-**[[Stamina|Recovery Dice]].** 1d6
+**[[Stamina|Recovery Dice]].** 1d6 
 ## Proficiencies
-**Armor:** Trained in [[Unarmored Defense]], [[Light Armor]], [[01 medium armor]], [[01 Shields]]
+**Armor:** Trained in [[Unarmored Defense]], [[Light Armor]], [[medium armor]], [[Shields]]
 **Weapons:** Trained in all [[simple weapons]], [[unarmed attacks]] and the favored weapon determined by your [[Domain]] (see [[Favored Weapon List]])
 **Tools:** None  
 **Saving Throws:** Expert in Wisdom and Charisma and trained in the other ones.
@@ -32,9 +32,13 @@ You increase your [[Stamina]] by this number at 1st level and every level therea
 Trained in one skill determined by your [[Domain]]
 Trained in a number of additional skills equal to 2 plus your Intelligence modifier
 
-
+## [[Class DC]]
+You start trained in your Class DC. A class DC sets the difficulty for certain abilities granted by your character's class. This DC equals 10 plus training bonus for their class DC plus your Wisdom modifier. Your training in your Class DC increases to expert at level 5 and master at level 9.
 ## Equipment
-
+11 GP
+- **Armor.** (a) [[Hide Armor]], (b) [[Scale Mail]], (c) [[Chain Mail]] (if proficient) 
+- **Weapon.** 2 [[simple weapons]] of your choice
+- **Gear.** explorers pack, religious symbol of your deity, 
 ## Sources and Behaviors
 At level 1, clerics gain access to the Divine list of sources, gaining access to more powerful sources as listed in [[Cleric Sources]]. They gain access to other sources as determined by their Domain.
 ## Spellcasting 
@@ -51,10 +55,10 @@ At 1st level, you choose a domain shaped by your choice of Deity and the gifts t
 | [[Martyr Domain]] |
 
 ## Favored Weapon
-At 1st Level, as a symbol of your deity you wield a weapon that represents them. The types of favored weapons you can pick from are determined by your Domain. This weapon is your spell casting focus for casting spells. You can only have one favored weapon that accomplishes this purpose, requiring an [[01 Investment]] slot. You can choose to invest in a different weapon of the same weapon type, losing investment in the original weapon. 
+At 1st Level, as a symbol of your deity you wield a weapon that represents them. The favored weapon options you can pick from is determined by your Domain. This weapon is your spell casting focus for casting spells. You can only have one favored weapon that accomplishes this purpose, requiring an [[01 Investment]] slot. You can choose to invest in a different weapon of the same weapon type, losing investment in the original weapon. 
 
-### Divine Imbuement - WIP
-You pick an additional effect that your Favored Weapon gets. 
+### Divine Imbuement 
+When you choose your favored weapon, you can choose a Divine Imbuement to infuse onto your weapon based on your Domain.
 
 ## Channel Divinity
 At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. The effects of your doctrine are determined by your domain.

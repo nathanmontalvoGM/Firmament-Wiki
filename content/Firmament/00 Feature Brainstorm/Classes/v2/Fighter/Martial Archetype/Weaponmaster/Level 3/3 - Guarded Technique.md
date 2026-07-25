@@ -3,7 +3,7 @@
 - **Tag:** #Aegis #CombatExploit 
 - **Type:** #RudimentaryFeat 
 
-**Trigger:** You make an attack with a weapon you're Signature Weapon
+**Trigger:** You make an attack with you're Signature Weapon
 **Fundamental:** After hitting with an attack, you gain a bonus to your AC determined by your training until the start of your next turn.
 
 - **Trained:** +2 AC. 

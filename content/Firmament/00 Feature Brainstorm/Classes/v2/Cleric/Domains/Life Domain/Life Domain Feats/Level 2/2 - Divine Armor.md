@@ -12,7 +12,7 @@
 
 You are imbued with your deity’s power. You gain a +1 bonus to AC. When a creature deals damage to you, you can use your reaction to deal radiant damage back to that creature.
 
-- **Trained:** you deal 1d4 radiant damage. Your next attack roll against that creature gains a +2 bonus to its attack roll.
+- **Trained:** you deal 1d4 radiant damage. Your next attack roll against that creature is [[Favored and Hindered (Advantage System)|Favored]].
 - **Expert:** The damage increases to 2d4. 
 - **Master:** The damage increases to 3d4. The AC bonus increases to +2
 

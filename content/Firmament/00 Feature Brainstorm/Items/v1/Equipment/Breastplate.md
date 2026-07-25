@@ -1,0 +1,4 @@
+- **AC Bonus** +4
+- **Dex Cap** +1
+- **Strength** +3;
+- **Category** Medium

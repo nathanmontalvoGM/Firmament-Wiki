@@ -1,5 +1,5 @@
  **[[Hit Points]]:** 6
-* **Age:**
+* **Age:** Goblins reach adulthood at age 8 and live up to 60 years.
 * **Speed:** 30ft.
 * **Ability Score Increase:** +1 to three stats, -1 to one stat
 * **Features:**

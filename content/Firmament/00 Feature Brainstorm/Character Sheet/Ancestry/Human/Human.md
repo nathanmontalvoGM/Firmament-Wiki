@@ -3,7 +3,7 @@
 > Humans are often regarded as a young, impulsive and short-lived species with reckless ambition and adaptability. Their drive and passion has led them to be the worlds predominant ancestry. There is one thing however that humans alone possess that even the oldest elf cannot claim: dreams. Dreams are the closet any ancestry has been to the veil of the firmament. What this means, exactly, no one has fully agreed on.
 
  * **[[Hit Points]]:** 8
-* **Age:**
+* **Age:** Human lifespan
 * **Speed:** 30ft.
 * **Ability Score Increase:** +1 to three stats
 * **Features:**

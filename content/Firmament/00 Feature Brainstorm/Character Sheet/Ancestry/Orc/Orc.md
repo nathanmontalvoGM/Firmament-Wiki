@@ -1,5 +1,5 @@
  * **[[Hit Points]]:** 10
-* **Age:**
+* **Age:** Orcs reach adulthood at age 12 and live up to 50 years.
 * **Speed:** 30ft.
 * **Ability Score Increase:** +1 to three stats, -1 to one stat
 * **Features:**
@@ -8,3 +8,8 @@
 	* **Adrenaline Rush.** You take the [[Move]] action. Your movement speed is doubled for this move. You can use this trait a number of times equal to your [[Class DC]] s training bonus
 	* **Orc Resilience.** The first time you take damage while in combat, you gain 10 temporary hit points.
 * **Languages:**
+
+## Heritages
+- [[Blazing Fury Orc]]
+- [[Fallen Orc]]
+- [[Inscribed Orc]]

@@ -3,7 +3,7 @@
 > LOREEEE
  
  **[[Hit Points]]:** 8
-* **Age:**
+* **Age:** Lizardfolk reach maturity around age 14 and rarely live longer than 60 years.
 * **Speed:** 30
 * **Ability Score Increase:** +1 to three stats, -1 to one stat
 * **Features:** 
