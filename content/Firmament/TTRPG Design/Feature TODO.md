@@ -8,7 +8,7 @@
 ### Increasing or Decreasing odds of success
 * [x] [[Favored and Hindered (Advantage System)]]
 ### Critical Hits
-* [x] [[01 Critical Hits]]
+* [x] [[Critical Hits]]
 ### Rules
 * [x] Dying 
 * [x] [[Healing Surge]] - allows characters to spend hit dice in combat to heal as a 2 action ability 

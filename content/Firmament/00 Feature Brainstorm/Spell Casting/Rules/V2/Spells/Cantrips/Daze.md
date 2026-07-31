@@ -13,7 +13,7 @@ casting_requirements: "#Verbal #Somatic"
 
 You push into the target's mind and daze it with a mental jolt. The target must succeed a [[Basic Saving Throw|Basic]] Wisdom saving throw or take 1d6 mental damage.
 
-**Critical Failure:** The target takes [[01 Critical Hits#Critical Damage|Critical Damage]] and is [[01 Condition#Stunned|Stunned]].
+**Critical Failure:** The target takes [[Critical Hits#Critical Damage|Critical Damage]] and is [[01 Condition#Stunned|Stunned]].
 **Critical Success:** The target takes no damage and you are [[01 Condition#Stunned|Stunned]] until the end of your next turn. 
 
 **Empower:** increase the damage by 1d6

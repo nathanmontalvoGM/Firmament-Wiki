@@ -2,7 +2,9 @@
 You can't see. All d20 rolls requiring vision fail and all enemies are considered undetected. All enemies gain [[Favored and Hindered(Advantage System)|Favored]]against you. 
 
 ## Bloodied (WIP)
-You receive this condition when you reduce your [[Hit Points]] below their maximum. 
+A character is **bloodied** when the character's [[Hit Points]] are equal to or less than one-half the character's maximum hit points, rounded down.
+
+For example, a character with 50 maximum hit points has a bloodied value of 25, and is bloodied whenever the character's hit points are equal to or less than 25.
 
 > NOTE: doesn't do much on its own but certain abilities can exploit a bloodied creature 
 ## Clumsy (Dex)
@@ -37,6 +39,8 @@ You are hidden from a creatures sight, but they know the space you are in but ca
 ## Invisible
 You can't be seen. Your location can be detected by noises, tracks or magical effects. Your attacks gain [[Favored and Hindered (Advantage System)|Favored]] and attacks against you are [[Favored and Hindered (Advantage System)|Hindered]]
 
+## Immobilized
+
 ## Off-Guard
 You're distracted or otherwise unable to focus your full attention on defense. You gain a -2 penalty to your AC. 
 
@@ -44,7 +48,7 @@ You're distracted or otherwise unable to focus your full attention on defense. Y
 You're frozen in place. Paralyzed always has a value. The value determines in how many rounds it takes before you become paralyzed. While you are being paralyzed but before its effects have applied, your movement is [[Strained Movement]]. If you become paralyzed, you are [[01 Condition#Unconscious|Unconscious]]. You automatically fail Strength and Dexterity based saving throws. Attack rolls against you are [[Favored and Hindered (Advantage System)|Favored]] and any attack within 5ft increase its [[Degree of Success]] of its attacks by 1 step.
 
 ## Persistent Damage
- Persistent damage always lists a die value (i.e. 1d4) you will be taking and a damage type dealt (such as fire). This damage is taken at the end of your turn. Afterwards, you roll a DC 15 flat check to see if you recover from the persistent damage. If you succeed this condition ends.
+ Persistent damage always lists a die value (i.e. 1d4) you will be taking and a damage type dealt (such as fire). This damage is taken at the end of your turn. Afterwards, you roll a DC 10 flat check to see if you recover from the persistent damage. If you succeed this condition ends.
 
 Multiple instances of the same persistent damage type stack, up to a maximum of 3 instances. If a 4th instance of the same type would be applied, compare it to the lowest existing instance and keep whichever die is higher.
 
@@ -52,8 +56,13 @@ When rolling to recover from persistent damage, a single recovery roll applies t
 
 Persistent damage also only counts as one filled segment on your [[Death Clock]], instead of each individual instance of damage counting. 
 
-## Petrified WIP
-
+## Petrified
+A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
+- You are [[01 Condition#Unconscious|Unconscious]] 
+- attack rolls against you are [[Favored and Hindered (Advantage System)|Favored]]
+- you critically fail Strength and Dexterity saving throws
+- all damage against you is halved
+- you gain immunity to poison
 ## Prone 
 You're lying on the ground. You're [[01 Condition#Off-Guard|Off-Guard]] and your attacks are [[Favored and Hindered (Advantage System)|Hindered]] and against you are [[Favored and Hindered (Advantage System)|Hindered]] unless the attacker is within 5 feet then they gain [[Favored and Hindered (Advantage System)|Favored]]. The only actions you can use while you're prone are to crawl with [[Strained Movement]] and [[Stand]]. Standing up ends the prone condition. 
 

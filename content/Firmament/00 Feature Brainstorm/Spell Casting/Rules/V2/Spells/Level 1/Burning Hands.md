@@ -13,7 +13,7 @@ casting_requirements: "#Verbal #Somatic"
 - **Duration:** #Instantaneous 
 A thin sheet of flames shoots forth from your outstretched fingertips. All creatures within range must make a basic Dexterity saving throw or take 2d6 fire damage.
 
-**Critical Fail:** [[01 Critical Hits#Critical Damage|Critical Damage]] and they take 1d4 persistent fire damage
+**Critical Fail:** [[Critical Hits#Critical Damage|Critical Damage]] and they take 1d4 persistent fire damage
 
 The fire ignites any flammable objects in the area that aren’t being worn or carried.
 

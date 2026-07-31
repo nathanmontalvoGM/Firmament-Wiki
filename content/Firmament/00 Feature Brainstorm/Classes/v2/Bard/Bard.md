@@ -27,7 +27,6 @@ UPDATE: spell table
 - You increase your maximum [[Hit Points]] by this number at 1st level and every level thereafter.
 - **[[Stamina]]:** 3 + your Dexterity modifier (Minimum of 1). 
 - You increase your [[Stamina]] by this number at 1st level and every level thereafter.
-- **[[Stamina|Recovery Dice]].** 1d6
 ## Proficiencies
 - **Armor:** Trained in [[Light Armor]] 
 - **Weapons:** Trained in simple and martial weapons.

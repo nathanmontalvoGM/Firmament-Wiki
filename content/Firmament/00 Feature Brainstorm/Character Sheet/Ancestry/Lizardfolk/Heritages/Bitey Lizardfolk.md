@@ -3,7 +3,7 @@
 > Your lineage has developed an especially potent bite, honed over generations of hunting larger prey
 ## 1st - Venomous Bite
 Your saliva carries a potent toxin developed through centuries of hunting poisonous prey.
-- **Trained:** Increase the damage of your Bite to 1d8 + your Strength modifier. On a [[01 Critical Hits|Critical Hit]], your bite also deals 1d4 persistent poison damage. You are immune to the [[01 Condition#Sickened|Sickened]] condition.
+- **Trained:** Increase the damage of your Bite to 1d8 + your Strength modifier. On a [[Critical Hits|Critical Hit]], your bite also deals 1d4 persistent poison damage. You are immune to the [[01 Condition#Sickened|Sickened]] condition.
 - **Expert:** The damage increases to 2d8 + your Strength modifier. The persistent poison damage increases to 2d4. 
 - **Master:** The damage increases to 3d8 + your Strength modifier. While a creature is afflicted with the persistent poison damage, they are [[01 Condition#Sickened|Sickened]]. 
 

@@ -69,3 +69,24 @@ Twice per scene, when this feat affects a creature, you sanctify the ground arou
 ##### Favored Weapon
 
 - **Prerequisite:** Feats with the #FavoredWeapon tag.
+
+### Martyr Domain
+#### Level 2+
+
+##### Vulnerability
+
+Once per scene, when this feat affects a creature, you weaken yourself to increase your potency.
+
+- **Trained:** You take a −2 penalty to AC until the start of your next turn. The feat's attack roll or spell save DC increases by 2.
+- **Expert:** The AC penalty increases to −3 and the bonus increases to 3. This source can be used twice per scene instead of once.
+- **Master:** The AC penalty increases to −4 and the bonus increases to 4. Additionally the target cannot benefit from resistance to the feat's damage type until the start of your next turn.
+
+##### Sacrifice of Mind
+
+Once per scene, when this feat affects a creature, you reduce your own mental capacity to empower yourself.
+
+- **Trained:** All your wisdom d20 rolls are [[Favored and Hindered (Advantage System)|Hindered]]. You, or the target of this feat, has their next, Strength, Dexterity or Constitution rolls [[Favored and Hindered (Advantage System)|Favored]]. Once this [[Favored and Hindered (Advantage System)|Favored]] roll is used, or 10 minutes have past (whichever happens first), your wisdom rolls are no longer [[Favored and Hindered (Advantage System)|Hindered]].
+- **Expert:** This source can be used twice per scene instead of once. Additionally the [[Favored and Hindered (Advantage System)|Favored]] now applies to the next two Strength, Dexterity, or Constitution rolls.
+- **Master:** When the [[Favored and Hindered (Advantage System)|Hindered]] effect ends, you regain [[Hit Points]] equal to your Wisdom modifier × 2
+
+##### Sacrifice of Body

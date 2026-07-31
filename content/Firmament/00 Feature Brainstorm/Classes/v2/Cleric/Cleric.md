@@ -11,7 +11,7 @@
 | 7th   | [[Cleric#Skill Increases\|Skill Increases]]                                                                                                                     | 5        | 4   | 3   | 3   | 2   |     |
 | 8th   | Domain Feature. [[Cleric#Potent Divinity]]                                                                                                                      | 5        | 4   | 3   | 3   | 3   |     |
 | 9th   | [[Cleric#Skill Increases\|Skill Increases]]                                                                                                                     | 5        | 4   | 3   | 3   | 3   | 2   |
-| 10th  |                                                                                                                                                                 | 5        | 4   | 3   | 3   | 3   | 3   |
+| 10th  | Domain Feature                                                                                                                                                  | 5        | 4   | 3   | 3   | 3   | 3   |
 - **Key Ability:** Wisdom
 - When you choose this class at 1st level, you gain an attribute boost to Wisdom. 
 
@@ -21,7 +21,6 @@
 You increase your maximum [[Hit Points]] by this number at 1st level and every level thereafter.
 **[[Stamina]]:** 4 + your Dexterity modifier (Minimum of 1).
 You increase your [[Stamina]] by this number at 1st level and every level thereafter.
-**[[Stamina|Recovery Dice]].** 1d6 
 ## Proficiencies
 **Armor:** Trained in [[Unarmored Defense]], [[Light Armor]], [[medium armor]], [[Shields]]
 **Weapons:** Trained in all [[simple weapons]], [[unarmed attacks]] and the favored weapon determined by your [[Domain]] (see [[Favored Weapon List]])
@@ -63,7 +62,7 @@ When you choose your favored weapon, you can choose a Divine Imbuement to infuse
 ## Channel Divinity
 At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. The effects of your doctrine are determined by your domain.
 ## Cleric Feats
-At 2nd level and every 2 levels thereafter, you gain a [[Cleric Class Feat]] 
+At 2nd level and every 2 levels thereafter, you gain a  Domain feature based on your chosen Domain.
 
 ## Skill Increases
 At 3rd level and every 2 levels thereafter you gain a skill increase. You can use this increase to become trained in one skill you are untrained in, or to become an expert in a skill you are already trained in.

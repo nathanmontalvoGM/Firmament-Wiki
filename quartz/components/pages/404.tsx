@@ -3,7 +3,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 
 const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
   const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
-  const baseDir = `https://nathanmontalvogm.github.io/pathfinder-and-dragons-wiki/${url.pathname.split("/").slice(0, -1).join("/")}/`
+  const baseDir = `https://nathanmontalvogm.github.io/Firmament-Wiki/${url.pathname.split("/").slice(0, -1).join("/")}/`
 
   return (
     <article class="popover-hint">
@@ -20,7 +20,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
             '**How I got here:**\\n\\n' +
             '**Expected content:**\\n\\n'
           )
-          btn.href = 'https://github.com/nathanmontalvoGM/pathfinder-and-dragons-wiki/issues/new?title=' + issueTitle + '&body=' + issueBody
+          btn.href = 'https://nathanmontalvogm.github.io/Firmament-Wiki/issues/new?title=' + issueTitle + '&body=' + issueBody
         }
       `}} />
     </article>

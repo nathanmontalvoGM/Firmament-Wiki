@@ -5,18 +5,20 @@
 
 Spells are split between two core features: its fundamental and its source. The spells **Fundamental** defines its core effect while its source is a modifier or additional effect you select when casting the spell. Different classes have access to different spell sources, similar to how classes have different spell lists.
 
-### Casting & Mana
-
-All spells function as cantrips locked behind level requirements. There are no spell slots. Instead, you spend **Mana** to empower a spell beyond its base effect. 
-
-**Empower:** Each spell lists an Empower keyword describing what improves when Mana is spent. Some spells list **Empower (X)**, indicating empowering costs X Mana rather than 1.
 ### Spell Slots
 Works like dnd with one note
 
 when you want to upcast a spell to a higher level (casting a first level spell as a second level for example) you automatically empower the spell by 1 level.
+
+### Mana
+Mana allows you alter your spells such as changing their range and area of effect. You have a limited amount of Mana determined by your class and you gain more as you level up within that class. 
+
+**Mana** to empower a spell beyond its base effect. 
+
+**Empower:** Each spell lists an Empower keyword describing what improves when Mana is spent. Some spells list **Empower (X)**, indicating empowering costs X Mana rather than 1.
 ### Sources
 
-Sources are a modular list applied to spells at the time of casting. Each source has a **spell level prerequisite** — a source with a spell level 2 prerequisite can only be applied to a spell of level 2 or lower. Sources scale automatically with the spell level they are applied to. Cantrip sources are an exception, scaling with the Cantrip itself rather than a spell level.
+Sources are a modular list applied to spells at the time of casting. Each source has a **spell level prerequisite**. A source with a spell level 2 prerequisite can only be applied to a spell of level 2 or lower. Sources scale automatically with the spell level they are applied to. Cantrip sources are an exception, scaling with the Cantrip itself rather than a spell level.
 
 Sources cannot be empowered with Mana — their effect is fixed at their spell level.
 

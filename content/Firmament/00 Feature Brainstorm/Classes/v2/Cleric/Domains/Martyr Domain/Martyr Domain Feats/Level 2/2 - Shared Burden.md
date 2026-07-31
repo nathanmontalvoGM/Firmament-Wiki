@@ -7,7 +7,7 @@
 - **Range:** 30 feet.
 - **Action Cost:** 1 reaction
 - **Duration:** #Instantaneous 
-- **Trigger:** An ally within 30 feet takes damage.
+- **Trigger:** An ally within 30 feet takes damage from a source you can see.
 
 **Fundamental:** 
 As a reaction, you may reduce the damage an ally takes by an amount determined by your training. You then reduce your [[Hit Points]] by the same amount. This damage cannot be ignored or reduced in any way. If you are [[Bloodied]] when you use this feature, the ally also gains temporary Hit Points equal to the damage you absorbed.

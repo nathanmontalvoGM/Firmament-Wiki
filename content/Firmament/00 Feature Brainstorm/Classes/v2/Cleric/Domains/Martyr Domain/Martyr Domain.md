@@ -30,17 +30,21 @@ At 1st level, years of dedication to your deity has made your body resilient and
 
 At 2nd level you offer your own vitality as a conduit for divine power. 
 
-**Fundamental:** When you cast a #Vitality spell, you may spend a number of [[Hit Points]] before rolling. For every 5 [[Hit Points]] spent this way, the next spell you cast has its [[Mana]] cost reduced by 1. You also gain additional effects determined by your training. 
+**Fundamental:** When you cast a #Vitality spell, you may spend a number of [[Hit Points]] before rolling. For every 5 [[Hit Points]] spent this way, the spell gains the following effects determined by your training. 
 
 You cannot reduce yourself below 1 Hit Point using this feature.
 
 - **Trained:** The spell is empowered by 1 level at no [[Mana]] cost.
-- **Expert:** If you spend 10 [[Hit Points]] or more, and for every 10 [[Hit Points]] thereafter, all of the spells damage or healing dice is increased by one step (maximum of a d12)
+- **Expert:** If you spend 10 [[Hit Points]] or more, and for every 10 [[Hit Points]] thereafter, all of the spells damage or healing dice is increased by one step and you roll an additional die.
 - **Master:** If you spend 20 [[Hit Points]], or more, and for 20 [[Hit Points]] thereafter, the spells attack roll is [[Favored and Hindered (Advantage System)|Favored]] and enemies are [[Favored and Hindered (Advantage System)|Hindered]] on its saves. 
 
-## Something Bloodied
+## Something Healing Surge
 At 4th Level, Flavor text.
-If an enemy deals additional damage to you because of the [[01 Condition#Bloodied (WIP)|Bloodied]] condition, you reduce the damage by an amount equal to your Cleric level. 
+You get two uses of [[Healing Surge]] per hour instead of one. If you are [[01 Condition#Bloodied (WIP)|Bloodied]] when you use [[Healing Surge]], you gain additional benefits determined by your training. 
+
+- **Trained:** you add an additional [[Hit Dice]] to the roll without expending it.
+- **Expert:** You increases value of the [[Hit Dice]] rolled by 1 step. 
+- **Master:** You gain three uses of [[Healing Surge]] per hour. You reroll 1s and 2s and must make take the new result.
 
 ## Suffering Made Holy
 At 6th level, your devotion to your deity has granted you resilience to your markings. You gain resistance to bleed damage equal to your level. You also gain the following effects while you have the [[01 Condition#Bloodied (WIP)|Bloodied]] condition:

@@ -1,1 +1,1 @@
-You avert your gaze from danger. You gain immunity to effects that rely on sight. Your gaze remains averted until the start of your next turn.
+You avert your gaze from danger. You gain immunity to effects that rely on sight. Your gaze remains averted until the start of your next turn. If averting your gaze would cause to not look at the target of an attack, spell or other effect that relies on sight, you are [[Favored and Hindered (Advantage System)|Hindered]] against that effect.

@@ -1,3 +1,3 @@
-The maximum amount of [[Hit Points]] you can have.
+The combination of your maximum [[Stamina]] and [[Hit Points]].
 
 #Rule #revision1 

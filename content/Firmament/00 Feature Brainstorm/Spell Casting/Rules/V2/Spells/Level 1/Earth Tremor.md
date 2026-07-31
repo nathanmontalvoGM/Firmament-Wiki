@@ -14,6 +14,6 @@ casting_requirements: "#Verbal #Somatic"
 
 You cause the earth to shake and tremble. All targets within range must make a basic Dexterity saving throw. On a failure, they take 1d6 bludgeoning damage are knocked [[01 Condition#Prone|Prone]]. 
 
-**Critical Failure:**  [[01 Critical Hits#Critical Damage|Critical Damage]] and the target(s) is [[01 Condition#Dazzled|Dazzled]]
+**Critical Failure:**  [[Critical Hits#Critical Damage|Critical Damage]] and the target(s) is [[01 Condition#Dazzled|Dazzled]]
 
 **Empower:**

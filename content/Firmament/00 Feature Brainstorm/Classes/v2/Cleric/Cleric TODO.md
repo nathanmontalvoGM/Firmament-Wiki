@@ -14,19 +14,23 @@
 - [x] 4 feat options at Level 6 [priority:: critical] [class:: cleric] [notes::]
 - [ ] 4 feat options at Level 8 [priority:: critical] [class:: cleric] [notes::]
 - [x] 4 feat options at Level 10 [priority:: critical] [class:: cleric] [notes::]
+#### Sources
+- [x] Level 6 sources (min 3) [priority:: critical] [class:: cleric] [notes::]
+- [x] Level 2 sources (min 3) [priority:: critical] [class:: cleric] [notes::]
+- [x] Level 10 sources (min 3) [priority:: critical] [class:: cleric] [notes::]
 ### Marty Domain
 - [x] Favored weapon list [priority::important] [class:: cleric] [notes::]
 - [ ] Spell List [priority:: critical] [class:: cleric] [notes::]
 - [x]  4 feat options at Level 2 [priority:: critical] [class:: cleric] [notes::]
 - [x] 4 feat options at Level 4 [priority:: critical] [class:: cleric] [notes::]
 - [x] 4 feat options at Level 6 [priority:: critical] [class:: cleric] [notes::]
-- [ ] 4 feat options at Level 8 [priority:: critical] [class:: cleric] [notes::]
-- [ ] 4 feat options at Level 10 [priority:: critical] [class:: cleric] [notes::]
+- [x] 4 feat options at Level 8 [priority:: critical] [class:: cleric] [notes::]
+- [x] 4 feat options at Level 10 [priority:: critical] [class:: cleric] [notes::]
 
 #### Sources
 - [ ] Level 6 sources (min 3) [priority:: critical] [class:: cleric] [notes::]
-- [x] Level 2 sources (min 3) [priority:: critical] [class:: cleric] [notes::]
-- [x] Level 10 sources (min 3) [priority:: critical] [class:: cleric] [notes::]
+- [ ] Level 2 sources (min 3) [priority:: critical] [class:: cleric] [notes::]
+- [ ] Level 10 sources (min 3) [priority:: critical] [class:: cleric] [notes::]
 
 ## 🟡 Important Tasks
 

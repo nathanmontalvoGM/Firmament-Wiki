@@ -22,7 +22,6 @@
 - You increase your maximum number of [[Hit Points]] by this number at 1st level and every level thereafter.
 - **[[00 Feature Brainstorm/Rules/subs systems/Stamina/Stamina|Stamina]]:** 2 + your Dexterity modifier (Minimum of 1). 
 - You increase your Stamina by this number at 1st level and every level thereafter.
-- **[[Stamina|Recovery Dice]].** 1d4
 ## Proficiencies
 
 - **Armor:** Trained in light armor, medium armor, and unarmored defense
