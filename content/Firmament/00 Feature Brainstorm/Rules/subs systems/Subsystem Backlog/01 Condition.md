@@ -21,7 +21,7 @@ You can't hear. A deafened creature can’t hear and automatically fails any [[a
 ## Drained (Con)
 Your health and constitution has been depleted. All constitution based d20 rolls are [[Favored and Hindered (Advantage System)|Hindered]] and your maximum health is reduced by your level times 2. 
 ## Exhausted x
-Exhausted always has a value. This Condition is cumulative. Each time you receive it, you gain 1 level of exhaustion. You die if your exhaustion level exceeds 10. When you make a d20 roll, subtract your exhausted value from that roll. Finishing a Long Rest removes 1 of your levels of exhaustion. When your exhaustion level reaches 0, you are no longer Exhausted.
+Exhausted always has a value. This Condition is cumulative. Each time you receive it, you gain 1 level of exhaustion. You die if your exhaustion level exceeds 10. When you make a d20 roll, subtract your exhausted value from that roll. Finishing a [[Long Rest]] removes 1 of your levels of exhaustion. When your exhaustion level reaches 0, you are no longer Exhausted.
 ## Fascinated (Charisma)
 You're compelled to focus your attention on someone or something. All Charisma based d20 rolls are [[Favored and Hindered (Advantage System)|Hindered]] and you struggle to concentrate on a spell or other effect.  If you are maintaining [[concentration]] on spell while this condition is active, it costs 1 additional Mana. Enemies also gain [[Favored and Hindered (Advantage System)|Favored]] VS your [[spell save DC]].
 
