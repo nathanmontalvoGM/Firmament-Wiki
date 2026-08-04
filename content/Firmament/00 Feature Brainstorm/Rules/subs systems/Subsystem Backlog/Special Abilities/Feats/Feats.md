@@ -18,7 +18,7 @@
 - **Master:** 
 
 ## Sources
-
+Each feat can draw from a source with the same tag as the feat. a feat with the #Vitality tag can draw from sources with the same tag. Sources can only be used once per turn. 
 ## Fundamental
 
 ## Feat Training

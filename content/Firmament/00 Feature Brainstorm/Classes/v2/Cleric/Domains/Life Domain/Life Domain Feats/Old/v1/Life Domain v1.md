@@ -13,7 +13,7 @@ A life domain cleric must follow a deity aligned with good. You gain that deitie
 ## Favored Weapon
 
 ## 1st Level
-You get your choice of the [[1 - Healing Hands v1]],  [[1 - Divine Armor v1]]  feats or a Versatile Cleric feat. 
+You get your choice of the [[00 Feature Brainstorm/Classes/v2/Cleric/Domains/Life Domain/Life Domain Feats/Old/v1/Level 1/1 - Healing Hands v1]],  [[00 Feature Brainstorm/Classes/v2/Cleric/Domains/Life Domain/Life Domain Feats/Old/v1/Level 1/1 - Divine Armor v1]]  feats or a Versatile Cleric feat. 
 ## 2nd Level
 ### Channel Divinity: Preserve Life
 2 action

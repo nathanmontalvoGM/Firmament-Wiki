@@ -9,10 +9,8 @@
 - **Duration:** #Instantaneous 
 
 **Fundamental:**
+You can spend 2 actions to harden you and your allies resolve against oncoming attacks. You and all allies within range gain resistance equal to your training to all damage types from sources you can see until the start of your next turn. 
 
-**Fundamental:**
-You gain proficiency in Heavy Armor. You can spend 2 actions to harden you and your allies resolve against oncoming attacks. You and all allies within range gain resistance equal to your training to all damage types from sources you can see until the start of your next turn. 
-
-- **Trained:** Resistance 5
-- **Expert:** Resistance 10
-- **Master:** Resistance 15
+- **Trained:** Resistance 5 as an **Aegis Bonus**
+- **Expert:** Resistance 10 as an **Aegis Bonus**
+- **Master:** Resistance 15 as an **Aegis Bonus**

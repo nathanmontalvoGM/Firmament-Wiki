@@ -14,7 +14,7 @@ A complete list of all feats for Life Domain
 When you choose this domain at 1st level, you gain training in medicine.
 
 ## 1st level
-You get your choice of the [[2 - Divine Armor]], [[2 - Heal to Harm|2 - Heal to Harm]], or [[2 - Healing Hands|2 - Healing Hands]].
+You get your choice of the [[00 Feature Brainstorm/Classes/v2/Cleric/Domains/Life Domain/Life Domain Feats/Level 2/2 - Divine Armor]], [[00 Feature Brainstorm/Classes/v2/Cleric/Domains/Life Domain/Life Domain Feats/Level 2/2 - Heal to Harm|2 - Heal to Harm]], or [[00 Feature Brainstorm/Classes/v2/Cleric/Domains/Life Domain/Life Domain Feats/Level 2/2 - Healing Hands|2 - Healing Hands]].
 ## Favored Weapon
 Pick a favored weapon from the list below. 
 * [[Quarterstaff]]
