@@ -1,7 +1,5 @@
 \---
 
-## title: Firmament Wiki
-
 <div class="hero">
   <h1>Firmament</h1>
   <p>Sick tagline here</p>

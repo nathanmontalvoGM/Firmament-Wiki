@@ -4,11 +4,14 @@ import { CONTENT_PREFIX } from "../../config/paths"
 export const InjectContentPrefix: QuartzTransformerPlugin = () => {
   return {
     name: "InjectContentPrefix",
-    textTransform(_ctx, src) {
-      if (typeof src === "string") {
-        return src.replaceAll("{{CONTENT_PREFIX}}", CONTENT_PREFIX)
-      }
-      return src
+    markdownPlugins() {
+      return [
+        () => (tree: any, file: any) => {
+          if (typeof file.value === "string") {
+            file.value = file.value.replaceAll("{{CONTENT_PREFIX}}", CONTENT_PREFIX)
+          }
+        },
+      ]
     },
   }
 }
