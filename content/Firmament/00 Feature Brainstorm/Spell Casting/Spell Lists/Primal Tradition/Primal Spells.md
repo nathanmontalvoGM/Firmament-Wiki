@@ -4,7 +4,7 @@ title: Primal Spells
 
 <div class="hero">
   <h1>Primal Spells</h1>
-  <p>Magic granted by rigorous study of the [[Firmament]]. Arcane casters use logic and reason to interpret and harness the magic around them</p>
+  <p>Magic granted by deep connection to the natural order of the world. Primal casters call upon the magic of nature through deep faith and a connection to the plants and animals around them.</p>
 </div>
 
 ## Cantrips

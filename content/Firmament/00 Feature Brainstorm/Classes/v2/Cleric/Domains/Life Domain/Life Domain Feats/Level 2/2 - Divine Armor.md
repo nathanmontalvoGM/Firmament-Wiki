@@ -9,7 +9,6 @@
 - **Duration:** #Instantaneous 
 
 **Fundamental:**
-
 You are imbued with your deity’s power. You gain a +1 **Aegis Bonus** bonus to AC. When a creature deals damage to you, you can use your reaction to deal radiant damage back to that creature as **Strike Damage**.
 
 - **Trained:** You deal 1d4 radiant damage. Your next attack roll against that creature is [[Favored and Hindered (Advantage System)|Favored]].

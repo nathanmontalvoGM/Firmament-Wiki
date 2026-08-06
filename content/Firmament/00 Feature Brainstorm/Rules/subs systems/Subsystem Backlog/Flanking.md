@@ -1,0 +1,2 @@
+*Taken from pf2e*
+When you and an ally are flanking a foe, it has a harder time defending against you. To flank a creature, you and your ally must be on opposite sides of the creature. When you do so, you gain a +2 bonus to melee weapon attack rolls. 

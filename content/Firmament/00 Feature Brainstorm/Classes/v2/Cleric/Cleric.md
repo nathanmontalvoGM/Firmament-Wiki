@@ -38,8 +38,8 @@ You start trained in your Class DC. A class DC sets the difficulty for certain a
 - **Armor.** (a) [[Hide Armor]], (b) [[Scale Mail]], (c) [[Chain Mail]] (if proficient) 
 - **Weapon.** 2 [[simple weapons]] of your choice
 - **Gear.** explorers pack, religious symbol of your deity, 
-## Sources and Behaviors
-At level 1, clerics gain access to the Divine list of sources, gaining access to more powerful sources as listed in [[Cleric Sources]]. They gain access to other sources as determined by their Domain.
+## Powers
+At level 1, clerics gain access to powers with the #Divinity. The point cost for powers with this tag have their cost reduced by 1.
 ## Spellcasting 
 ### Spells
 You learn 4 spells. You learn new spells based on your level in this class.

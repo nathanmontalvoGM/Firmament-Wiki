@@ -4,7 +4,7 @@ title: Occult Spells
 
 <div class="hero">
   <h1>Occult Spells</h1>
-  <p>Desc</p>
+  <p>Mgaic channeled by the unknown, bizarre and unexplainable. Occult casters channel magic in orthodox and unusual ways that appear unnerving to anyone but them.</p>
 </div>
 
 ## Cantrips

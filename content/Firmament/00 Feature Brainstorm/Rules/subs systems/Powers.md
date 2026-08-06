@@ -34,6 +34,10 @@ You could enhance a power but you can't enhance a flaw. Flaws don't apply to fea
 Flaws would allow you to gain points for picking them, at the cost of a penalty
 
 ---
+## Unused Points
+Unused points from one feat can be carried over and spent on another feat of your choice. These points are added directly to that feat's budget and follow all the same rules as normal. You may only carry points forward to a feat of equal or higher level (you cannot spend unused points from a level 4 feat on a level 2 feat).
+
+Any unused points that aren't spend on feats are wasted.
 
 # Example Powers
 
@@ -41,29 +45,29 @@ Flaws would allow you to gain points for picking them, at the cost of a penalty
 - All powers are assuming a level 2 feat has a 10 point maximum
 
 ## Affinity Powers
-Instead of spending points on a power for a feat, you may choose an Affinity Power, a power drawn from outside your class's regular power list. Each Affinity Power lists a point cost and a minimum ability score bonus required to choose it. 
-### Elemental Affinity (+5)
-- **Point Cost:** +5
+Instead of spending points on a power for a feat, you may choose an Affinity Power, a power drawn from outside your class's regular power list. Affinity powers are available to all feats your class has access to and don't need to be unlocked again. Each Affinity Power lists a point cost and a minimum ability score bonus required to choose it. 
+### Elemental Affinity (+3)
+- **Point Cost:** +3
 - **Prerequisite:** +1 to constitution 
 * Grants access to powers with the #Elemental tag
-### Martial Affinity (+5)
-* **Point Cost:** +5
+### Martial Affinity (+3)
+* **Point Cost:** +3
 - **Prerequisite:** a +1 to Strength or Dexterity 
 * Grants access to powers with the #Martial tag
-### Arcane Affinity (+5)
-* **Point Cost:** +5
+### Arcane Affinity (+3)
+* **Point Cost:** +3
 - **Prerequisite:** a +1 to Intelligence 
 * Grants access to powers with the #Arcane tag
-### Divine Affinity (+5)
-* **Point Cost:** +5
+### Divine Affinity (+3)
+* **Point Cost:** +3
 - **Prerequisite:** +1 to Wisdom
-* Grants access to powers with the #Divine tag
-### Primal Affinity (+5)
-* **Point Cost:** +5
+* Grants access to powers with the #Divinity  tag
+### Primal Affinity (+3)
+* **Point Cost:** +3
 - **Prerequisite:** a +1 to Wisdom or Dexterity
 * Grants access to powers with the #Primal tag
-### Occult Affinity (+5)
-* **Point Cost:** +5
+### Occult Affinity (+3)
+* **Point Cost:** +3
 - **Prerequisite:** a +1 to Charisma
 * Grants access to powers with the #Occult tag
 ## #Aegis Powers
@@ -75,7 +79,7 @@ Instead of spending points on a power for a feat, you may choose an Affinity Pow
 - **Point Cost:** +4
 - **Tag:** #Aegis
 
-When you gain an **Aegis Bonus** from this feat, your protection extends outward. One ally within 15 feet gains half that bonus (rounded down, minimum 1) for the same duration.
+When you gain an **Aegis Bonus** from this feat, your protection extends to your allies. One ally within 15 feet gains half that bonus (rounded down, minimum 1) for the same duration.
 
 **Enhance (+4)** One additional ally within range gains this benefit and the range increases by 15 feet.
 
@@ -133,7 +137,7 @@ The first time each round you successfully negate an attack while benefiting fro
 - **Point Cost:** +6
 - **Tag:** #Aegis
 
-While benefiting from this feats **Aegis Bonus,** the first time you would be reduced to 0 [[Hit Points]], you are instead reduced to 1 and this feats **Aegis Bonus** immediately ends.
+While benefiting from this feats **Aegis Bonus,** the first time per scene you would be reduced to 0 [[Hit Points]], you are instead reduced to 1 and this feats **Aegis Bonus** immediately ends.
 
 **Restriction.** You can only use this power once per scene, you can only take it once, and it cannot be enhanced in any way.
 
@@ -275,14 +279,14 @@ You refuse to let anyone fall. You can use this feat as a reaction when a creatu
 
 **Restriction.** This power cannot be enhanced in any way.
 
-#### Life (+3)
+#### Life (+4)
 
-- **Point Cost:** +3
+- **Point Cost:** +4
 - **Tag:** #Vitality
 
 When you roll **Vitality Dice** with this feat, roll an additional die.
 
-**Enhance (+3)** Roll an additional **Vitality Die**
+**Enhance (+4)** Roll an additional **Vitality Die**
 
 #### Mending (+4)
 
@@ -339,6 +343,72 @@ Your healing leaves a lasting guard. When this feat restores [[Hit Points]] to a
 **Enhance (+4)** Increase the AC bonus by +1.
 
 ## #Divine Powers
+#### Sacred Strike (+3)
+
+- **Point Cost:** +3
+- **Prerequisite:** #Divinity
+- **Tag:** #Strike
+
+If you successfully deal damage with **Strike Dice** with this feat, the damage type becomes radiant. The target then gains weakness 3 to radiant damage.
+
+**Enhance (+3):** The weakness to radiant damage increases by 3.
+
+#### Resist Fear (+3)
+
+- **Point Cost:** +3
+- **Prerequisite:** #Divinity
+- **Tag:** #Aegis
+
+While benefiting from this feat's Aegis Bonus, the target gains a bonus to saving throws against the [[01 Condition#Frightened|Frightened]] and [[01 Condition#Stunned|Stunned]] conditions equal to the **Aegis Bonus** granted.
+
+**Enhance (+3):** The bonus increases by +2 in addition to your **Aegis Bonus.
+
+#### Mending (+3)
+
+- **Point Cost:** +3
+- **Prerequisite:** #Divinity
+- **Tag:** #Vitality
+
+When this feat rolls **Vitality Dice** to heal a creature, the target also removes 1 persistent damage of any type currently affecting them.
+
+**Enhance (+3):** Remove 1 additional persistent damage type.
+
+#### Conduit (+5)
+
+- **Point Cost:** +5
+- **Prerequisite:** #Divinity
+- **Tag:** #Vitality
+
+When this feat rolls **Vitality Dice** to heal a creature, that creature's next attack before the start of your next turn deals 1 **Strike Die** of radiant damage on a hit.
+
+**Enhance (+5):** The Strike Die increases by 1.
+
+#### Smiting Blow (+4)
+
+- **Point Cost:** +4
+- **Prerequisite:** #Divinity
+- **Tag:** #Strike
+
+If you successfully deal damage with **Strike Dice** with this feat, the target must make a Wisdom saving throw against your Spell Save DC or be [[01 Condition#Frightened|Frightened]] until the end of their next turn.
+
+**Enhance (+4):** The duration increases by 1 round and the target takes a -2 penalty to the save.
+
+#### Overflowing Radiance (+3)
+
+- **Point Cost:** +3
+- **Prerequisite:** #Divinity
+- **Tag:** #Vitality
+
+When this feat restores Hit Points, excess healing beyond the target's maximum is converted to radiant damage dealt to one enemy within 15 feet rather than being lost.
+
+**Restriction:** This power cannot be enhanced in any way.
+
+#### Inspire the Faithful (+4)
+- **Point Cost:** +4
+- **Prerequisite:** #Divinity
+- **Tag:** #Vitality
+- 
+When this feat restores Hit Points to a creature that is [[Bloodied]], the target gains [[Favored and Hindered (Advantage System)|Favored]] on their next d20 roll.
 
 ## Variable Powers
 
@@ -444,6 +514,7 @@ When you use this feat, you sacrifice your skill and training for powerful boons
 ---
 
 # Flaws
+You can willing choose a flaw to apply to a feat of your choice to gain points to spend elsewhere. You can have no more than 2 flaws on a feat.
 ## #Aegis Flaws
 #### Shoddy Protection (-4)
 - **Point Cost:** -4
