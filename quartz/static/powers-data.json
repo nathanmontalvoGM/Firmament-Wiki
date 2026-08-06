@@ -1,0 +1,769 @@
+[
+  {
+    "name": "Bulwark",
+    "cost": "+4",
+    "tags": [
+      "Aegis"
+    ],
+    "prereq": null,
+    "desc": "When you gain an Aegis Bonus from this feat, your protection extends to your allies. One ally within 15 feet gains half that bonus (rounded down, minimum 1) for the same duration.",
+    "enhance": "One additional ally within range gains this benefit and the range increases by 15 feet.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Entrenched",
+    "cost": "+3",
+    "tags": [
+      "Aegis"
+    ],
+    "prereq": null,
+    "desc": "You dig in. If you did not move during your turn, increase this feats Aegis Bonus by 1 until the start of your next turn. This effect stacks with itself to a maximum of +2, and resets the moment you move.",
+    "enhance": "Increase the maximum by +1.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Interpose",
+    "cost": "+5",
+    "tags": [
+      "Aegis",
+      "Martial"
+    ],
+    "prereq": "#Martial",
+    "desc": "While benefiting from this feats Aegis Bonus, you can throw yourself in the way of danger. When a creature you can see attacks an ally within 15 feet, you can choose to become the target of that attack instead, gaining a +2 to AC for the attack.",
+    "enhance": "Increase the range by 15 feet and the AC bonus by +2.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Resolute",
+    "cost": "+4",
+    "tags": [
+      "Aegis"
+    ],
+    "prereq": null,
+    "desc": "This feats Aegis Bonus also applies to saving throws made with one stat of your choice, chosen when you take this power.",
+    "enhance": "Choose an additional stat.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Riposte",
+    "cost": "+5",
+    "tags": [
+      "Aegis",
+      "Martial"
+    ],
+    "prereq": "#Martial",
+    "desc": "If you successfully negate an attack while benefiting from this feats Aegis Bonus, you answer it in kind. Roll 1 Strike Die against the attacker, provided they are within your feats range.",
+    "enhance": "Roll one additional Strike Die.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Siphon",
+    "cost": "+4",
+    "tags": [
+      "Aegis"
+    ],
+    "prereq": null,
+    "desc": "The first time each round you successfully negate an attack while benefiting from this feats Aegis Bonus, you draw strength from the blow. You gain 3 Temporary Hit Points.",
+    "enhance": "Increase the Temporary Hit Points gained by 3.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Unyielding",
+    "cost": "+6",
+    "tags": [
+      "Aegis"
+    ],
+    "prereq": null,
+    "desc": "While benefiting from this feats Aegis Bonus, the first time per scene you would be reduced to 0 Hit Points, you are instead reduced to 1 and this feats Aegis Bonus immediately ends.",
+    "enhance": null,
+    "restriction": "You can only use this power once per scene, you can only take it once, and it cannot be enhanced in any way.",
+    "flaw": false
+  },
+  {
+    "name": "Deadly",
+    "cost": "+4",
+    "tags": [
+      "Strike"
+    ],
+    "prereq": null,
+    "desc": "If you successfully deal Critical Damage with Strike Dice with this feat, you deal an additional Strike Dice.",
+    "enhance": "You roll one additional Strike Dice.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Engulf",
+    "cost": "+5",
+    "tags": [
+      "Strike"
+    ],
+    "prereq": null,
+    "desc": "If you successfully deal damage with Strike Dice with this feat, you deal 1 Strike Die to all creatures within 10 feet.",
+    "enhance": "You deal an additional Strike Dice and the range increases by 10 feet.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Fester",
+    "cost": "+5",
+    "tags": [
+      "Strike"
+    ],
+    "prereq": null,
+    "desc": "If you successfully deal damage with Strike Dice with this feat to a Bloodied creature, the damage leaves them infected. The creature gains vulnerability 5 to the Strike Dices damage type for 1 round.",
+    "enhance": "The vulnerability increases by 5 and duration increases by 1 round.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Penetrating",
+    "cost": "+4",
+    "tags": [
+      "Strike"
+    ],
+    "prereq": null,
+    "desc": "If you successfully deal damage with Strike Dice with this feat, the target gains a -1 penalty to their AC for 1 round.",
+    "enhance": "increase the AC penalty by -1 and the duration by 1 round.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Rapid",
+    "cost": "+5",
+    "tags": [
+      "Strike"
+    ],
+    "prereq": null,
+    "desc": "This feat is harder to dodge. Saving throws with physical stats (Strength, Dexterity and Constitution) gain a -2 penalty. Attack rolls gains a +2 bonus.",
+    "enhance": "Increase the saving throw penalty by -2 and the attack roll bonus by +2.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Far Sight",
+    "cost": "+3",
+    "tags": [
+      "Universal"
+    ],
+    "prereq": null,
+    "desc": "Increase the range of this effect by half its value (minimum of 5 feet). For example, if an effect has a range of 60 feet, you would increase this effects range by 30 feet. This power has no effect on feats with a range of self. If the feta has a range of Touch, or a range of 5 feet, increase the feats range by 10 instead.",
+    "enhance": "Increases this effects range by an additional half of its value.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Fortune",
+    "cost": "+4",
+    "tags": [
+      "Universal"
+    ],
+    "prereq": null,
+    "desc": "If this feat affects an ally (healing them, applying a bonus, etc.) the allies next d20 roll gains a +2 bonus.",
+    "enhance": "increase the d20 roll bonus by +2.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Interference",
+    "cost": "+6",
+    "tags": [
+      "Universal"
+    ],
+    "prereq": null,
+    "desc": "When you use this feat, you impose Hindered on a creature you can see within 30 feet. This has no effect on creatures who already have a stack of Hindered.",
+    "enhance": null,
+    "restriction": "You can only take this power once and it cannot be enhanced in any way.",
+    "flaw": false
+  },
+  {
+    "name": "Misfortune",
+    "cost": "+4",
+    "tags": [
+      "Universal"
+    ],
+    "prereq": null,
+    "desc": "If this feat affects an enemy (applies a condition, deals damage etc.) the enemies next d20 roll takes a -2 penalty.",
+    "enhance": "Increase the d20 roll penalty by 2",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Persistence",
+    "cost": "+5",
+    "tags": [
+      "Universal"
+    ],
+    "prereq": null,
+    "desc": "Extend the duration of this feat. If the feat lists its duration in rounds, increase it by 1 round. If it lists its duration in minutes, increase the duration by 1 minute. This power has no effect on feats with #Instantaneous as their duration.",
+    "enhance": "Increase the duration further by 1 round or by 1 minute.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Cascading Vitality",
+    "cost": "+4",
+    "tags": [
+      "Vitality"
+    ],
+    "prereq": null,
+    "desc": "When this feat heals a creature, a portion of that healing spreads to a nearby ally. One ally within 15 feet of the target receives 1 Vitality Dice.",
+    "enhance": "increase the Vitality Dice healed by 1 and the range increases by 15 feet.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Cleansing",
+    "cost": "+5",
+    "tags": [
+      "Vitality"
+    ],
+    "prereq": null,
+    "desc": "When this feat restores Hit Points, the target is also purged of what ails them. End one condition of your choice currently affecting the target.",
+    "enhance": "End one additional condition on the target or a different target you can see.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Defiance",
+    "cost": "+6",
+    "tags": [
+      "Vitality"
+    ],
+    "prereq": null,
+    "desc": "You refuse to let anyone fall. You can use this feat as a reaction when a creature you can see within its range would be reduced to 0 Hit Points. The healing resolves before the damage is applied.",
+    "enhance": null,
+    "restriction": "You can only use this power once per scene, you can only take it once, and it cannot be enhanced in any way.",
+    "flaw": false
+  },
+  {
+    "name": "Enduring Grace",
+    "cost": "+2",
+    "tags": [
+      "Vitality"
+    ],
+    "prereq": null,
+    "desc": "Hit Points restored by this feat cannot be reduced, prevented, or ignored by any effect.",
+    "enhance": null,
+    "restriction": "This power cannot be enhanced in any way.",
+    "flaw": false
+  },
+  {
+    "name": "Life",
+    "cost": "+4",
+    "tags": [
+      "Vitality"
+    ],
+    "prereq": null,
+    "desc": "When you roll Vitality Dice with this feat, roll an additional die.",
+    "enhance": "Roll an additional Vitality Die",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Mending",
+    "cost": "+4",
+    "tags": [
+      "Vitality"
+    ],
+    "prereq": null,
+    "desc": "None of your effort is wasted. If this feat would restore more Hit Points than the target is missing, the excess is granted as Temporary Hit Points instead. The maximum amount of Temporary Hit Points a target can regain from this effect is 10.",
+    "enhance": null,
+    "restriction": "This power cannot be enhanced in any way.",
+    "flaw": false
+  },
+  {
+    "name": "Reciprocal",
+    "cost": "+3",
+    "tags": [
+      "Vitality"
+    ],
+    "prereq": null,
+    "desc": "The care you give returns to you. When this feat restores Hit Points to a creature other than yourself, you regain 2 Hit Points.",
+    "enhance": "Increase the Hit Points you regain by 2.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Renewing",
+    "cost": "+5",
+    "tags": [
+      "Vitality"
+    ],
+    "prereq": null,
+    "desc": "When this feat affects a creature, the healing lingers. The target regains 1d4 Lesser Healing at the start of each of their turns 1 minute. This effect does not stack.",
+    "enhance": "Increase the Lesser Healing regained by 1d4.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Swift Recovery",
+    "cost": "+5",
+    "tags": [
+      "Vitality"
+    ],
+    "prereq": null,
+    "desc": "Your healing gets people back on their feet. When this feat restores Hit Points to a creature, that creatures next action that costs 2 action or more, has its cost reduced by 1.",
+    "enhance": null,
+    "restriction": "This power cannot be enhanced in any way.",
+    "flaw": false
+  },
+  {
+    "name": "Triage",
+    "cost": "+5",
+    "tags": [
+      "Vitality"
+    ],
+    "prereq": null,
+    "desc": "You focus your efforts where they are needed most. When you roll Vitality Dice with this feat to heal a Bloodied creature, roll 2 additional Vitality Dice.",
+    "enhance": "Roll one additional Vitality Dice.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Warding Grace",
+    "cost": "+4",
+    "tags": [
+      "Vitality"
+    ],
+    "prereq": null,
+    "desc": "Your healing leaves a lasting guard. When this feat restores Hit Points to a creature, that creature gains a +1 bonus to AC until the start of your next turn.",
+    "enhance": "Increase the AC bonus by +1.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Sacred Strike",
+    "cost": "+3",
+    "tags": [
+      "Strike",
+      "Divinity"
+    ],
+    "prereq": "#Divinity",
+    "desc": "If you successfully deal damage with Strike Dice with this feat, the damage type becomes radiant. The target then gains weakness 3 to radiant damage.",
+    "enhance": "The weakness to radiant damage increases by 3.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Resist Fear",
+    "cost": "+3",
+    "tags": [
+      "Aegis",
+      "Divinity"
+    ],
+    "prereq": "#Divinity",
+    "desc": "While benefiting from this feat's Aegis Bonus, the target gains a bonus to saving throws against the Frightened and Stunned conditions equal to the Aegis Bonus granted.",
+    "enhance": "The bonus increases by +2 in addition to your **Aegis Bonus.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Mending",
+    "cost": "+3",
+    "tags": [
+      "Vitality",
+      "Divinity"
+    ],
+    "prereq": "#Divinity",
+    "desc": "When this feat rolls Vitality Dice to heal a creature, the target also removes 1 persistent damage of any type currently affecting them.",
+    "enhance": "Remove 1 additional persistent damage type.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Conduit",
+    "cost": "+5",
+    "tags": [
+      "Vitality",
+      "Divinity"
+    ],
+    "prereq": "#Divinity",
+    "desc": "When this feat rolls Vitality Dice to heal a creature, that creature's next attack before the start of your next turn deals 1 Strike Die of radiant damage on a hit.",
+    "enhance": "The Strike Die increases by 1.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Smiting Blow",
+    "cost": "+4",
+    "tags": [
+      "Strike",
+      "Divinity"
+    ],
+    "prereq": "#Divinity",
+    "desc": "If you successfully deal damage with Strike Dice with this feat, the target must make a Wisdom saving throw against your Spell Save DC or be Frightened until the end of their next turn.",
+    "enhance": "The duration increases by 1 round and the target takes a -2 penalty to the save.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Overflowing Radiance",
+    "cost": "+3",
+    "tags": [
+      "Vitality",
+      "Divinity"
+    ],
+    "prereq": "#Divinity",
+    "desc": "When this feat restores Hit Points, excess healing beyond the target's maximum is converted to radiant damage dealt to one enemy within 15 feet rather than being lost.",
+    "enhance": null,
+    "restriction": "This power cannot be enhanced in any way.",
+    "flaw": false
+  },
+  {
+    "name": "Inspire the Faithful",
+    "cost": "+4",
+    "tags": [
+      "Vitality",
+      "Divinity"
+    ],
+    "prereq": "#Divinity",
+    "desc": "- When this feat restores Hit Points to a creature that is Bloodied, the target gains Favored on their next d20 roll. ## Variable Powers These powers can be applied to a feat carrying any of the three core tags, and change their effect based on which tag is matched.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Acidic",
+    "cost": "+3",
+    "tags": [
+      "Strike",
+      "Aegis",
+      "Vitality",
+      "Elemental"
+    ],
+    "prereq": "#Elemental",
+    "desc": "#Strike: If you successfully deal damage with Strike Dice with this feat, you deal 1 persistent acid damage to the target. While they are afflicted by this acid damage, their AC is reduced by 1. | #Aegis: When this feat grants an Aegis Bonus to a creature, the protected creature becomes laced with corrosive residue. The next creature to hit the protected target takes persistent acid damage equal to the Aegis Bonus provided. While afflicted by this acid damage their attack rolls take a −1 penalty. | #Vitality: When this feat restores rolls Vitality Dice, the healing is laced with a corrosive agent that burns away infection, poison, and disease. The targets next attempt on saving throw against a poison or disease gains a +2 bonus.",
+    "enhance": "increase this bonus by +2.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Burning",
+    "cost": "+3",
+    "tags": [
+      "Strike",
+      "Aegis",
+      "Vitality",
+      "Elemental"
+    ],
+    "prereq": "#Elemental",
+    "desc": "#Strike: If you successfully deal damage with Strike Dice with this feat, you deal persistent 1d6 fire damage. | #Aegis: If you successfully negate an attack while benefiting from this feats Aegis Bonus, you add 1d4 fire damage to your next Strike Dice. | #Vitality: When you restore Hit Points with this feat, you enflame the target. The targets next attack roll gains a +1 bonus.",
+    "enhance": "Increase this bonus by +1",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Electrocuting",
+    "cost": "+3",
+    "tags": [
+      "Strike",
+      "Aegis",
+      "Vitality",
+      "Elemental"
+    ],
+    "prereq": "#Elemental",
+    "desc": "#Strike: If you successfully deal damage with Strike Dice with this feat, this damage chains to an adjacent target. One creature within 10 feet takes 1d6 electricity damage. | #Aegis: If you take damage from a source you can see while benefiting from this feats Aegis Bonus, the damage dealer takes 1d6 electricity damage. | #Vitality: When you restore Hit Points with this feat, you Invigorate the target. The target gains a 5 foot bonus to movement speed for 1 round.",
+    "enhance": "The movement speed bonus increases by 5 feet and the duration increases by 1 round.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Frigid",
+    "cost": "+3",
+    "tags": [
+      "Strike",
+      "Aegis",
+      "Vitality",
+      "Elemental"
+    ],
+    "prereq": "#Elemental",
+    "desc": "#Strike: If you successfully deal damage with Strike Dice with this feat, the target takes 1 persistent cold damage. While they take persistent damage in this way, they gain a -5 movement speed penalty. This cannot reduce their movement speed below 5. | #Aegis: When you use this feat, you can choose to increase your defenses at the cost of your movement speed. You gain a -10 penalty to movement speed. In exchange, you gain a +2 bonus to AC. | #Vitality: When this feat affects a creature, the cold wards them from incoming threats. The target gains 4 Temporary Hit Points.",
+    "enhance": "The target regains an additional 4 Temporary Hit Points.",
+    "restriction": null,
+    "flaw": false
+  },
+  {
+    "name": "Limitless",
+    "cost": "+6",
+    "tags": [
+      "Strike",
+      "Aegis",
+      "Vitality"
+    ],
+    "prereq": null,
+    "desc": "#Strike: You roll 2 additional Strike Dice and you increase all Strike Dice by 1 step. Once you deal damage in this way, you lose Hindered on your classes key ability. | #Aegis: You gain resistance 10 to the next instance of damage you receive. Once you reduce damage in this way, you lose Hindered on your classes key ability. | #Vitality: You roll 2 additional Vitality Dice and you increase all Vitality Dice by 1 step. Once you roll Vitality Dice in this way, you lose Hindered on your classes key ability. | #Aegis: Flaws",
+    "enhance": null,
+    "restriction": "You can only take this power once and it cannot be enhanced in any way.",
+    "flaw": false
+  },
+  {
+    "name": "Shoddy Protection",
+    "cost": "-4",
+    "tags": [
+      "Aegis"
+    ],
+    "prereq": null,
+    "desc": "If you take damage while benefiting from an Aegis Bonus from this feat, you take an additional Weapon Dice or Strike Dice of damage.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Exposed Flanks",
+    "cost": "-5",
+    "tags": [
+      "Aegis"
+    ],
+    "prereq": null,
+    "desc": "While the Aegis Bonus from this feat is active, the Flanking bonus for enemy creatures increase by +2.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Fading Defense",
+    "cost": "-4",
+    "tags": [
+      "Aegis"
+    ],
+    "prereq": null,
+    "desc": "The Aegis Bonus granted by this feat decreases by 1 at the start of each of the target's turns until it reaches 0 and ends. It cannot be refreshed by reapplying this feat to the same target within the same scene.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Delayed Protection",
+    "cost": "-4",
+    "tags": [
+      "Aegis"
+    ],
+    "prereq": null,
+    "desc": "The Aegis Bonus from this feat does not take effect until the start of the target's next turn.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Weighty Ward",
+    "cost": "-5",
+    "tags": [
+      "Aegis"
+    ],
+    "prereq": null,
+    "desc": "While the Aegis Bonus from this feat is active the target's movement speed is reduced by 10 feet. ## #Strike Flaws",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Sapped Strength",
+    "cost": "-4",
+    "tags": [
+      "Strike"
+    ],
+    "prereq": null,
+    "desc": "When you roll Strike Dice with this feat, reduce its die value by 1 (minimum of a d4).",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Telegraphed",
+    "cost": "-4",
+    "tags": [
+      "Strike"
+    ],
+    "prereq": null,
+    "desc": "The target is never Off-Guard against this feat's attacks.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Exhausting Blows",
+    "cost": "-4",
+    "tags": [
+      "Strike"
+    ],
+    "prereq": null,
+    "desc": "After dealing damage with this feat you are Hindered on your next attack roll.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Inconsistent Strikes",
+    "cost": "-6",
+    "tags": [
+      "Strike"
+    ],
+    "prereq": null,
+    "desc": "- When you deal damage with Strike Dice dice, if the result is lower than half the dies value, it is ignored (for example, on a d8, results of 4 or lower are ignored).",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Clumsy Attacks",
+    "cost": "-4",
+    "tags": [
+      "Strike"
+    ],
+    "prereq": null,
+    "desc": "When you use this feat, you are Off-Guard until the start of your next turn.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Diminishing Returns",
+    "cost": "-6",
+    "tags": [
+      "Strike"
+    ],
+    "prereq": null,
+    "desc": "Each time you use this feat against the same target during this scene, reduce the die step of its Strike Dice rolled by 1 (minimum of 1d4). If the feat already deals 1d4 Strike Damage, then the damage is instead further reduced to 1 damage. ## #Universal Flaws",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Exhaustive",
+    "cost": "-5",
+    "tags": [
+      "Universal"
+    ],
+    "prereq": null,
+    "desc": "You can only use this feat once per scene. Subsequent uses apply one level of Exhaustion.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Fragile",
+    "cost": "-6",
+    "tags": [
+      "Universal"
+    ],
+    "prereq": null,
+    "desc": "While Bloodied, you cannot use this feat.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Horrifying",
+    "cost": "-2",
+    "tags": [
+      "Universal"
+    ],
+    "prereq": null,
+    "desc": "If a creature has seen you use this feat, they are appalled and disgusted. You are Hindered on all Charisma rolls to interact with them and they are less likely to want to be around you. You eventually lose this penalty with a character who becomes accustomed to you. How long this takes is up to the GM.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Backlash",
+    "cost": "-4",
+    "tags": [
+      "Universal"
+    ],
+    "prereq": null,
+    "desc": "Your abilities are so powerful, they hurt you. When you use this feat, you take 1d4 force damage that cannot be ignored or reduced in any way. This effect can not reduce you below 1 Hit Point.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Mental Strain",
+    "cost": "-3",
+    "tags": [
+      "Universal"
+    ],
+    "prereq": null,
+    "desc": "When you use this feat, you suffer a -2 penalty to a mental stat of your choice for the next hour. You can take this flaw multiple times, but must pick a new mental stat each time.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Physical Strain",
+    "cost": "-3",
+    "tags": [
+      "Universal"
+    ],
+    "prereq": null,
+    "desc": "When you use this feat, you suffer a -2 penalty to a physical stat of your choice for the next hour. You can take this flaw multiple times, but must pick a new physical stat each time.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Slow",
+    "cost": "-3",
+    "tags": [
+      "Universal"
+    ],
+    "prereq": null,
+    "desc": "When you use this feat, reduce your movement speed by 5 feet for 1 minute. Multiple uses stack with the previous, but does not refresh the duration. Once your movement speed has been reduced to 5 feet, you can no longer use this feat until the penalty wears off.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Uncontrollable",
+    "cost": "-8",
+    "tags": [
+      "Universal"
+    ],
+    "prereq": null,
+    "desc": "When you would select a target(s) for this feat, you make a DC 11 flat check. On a failure, the feat randomly affects a target (including yourself). ## #Vitality Flaws",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Overabundant Vitality",
+    "cost": "-3",
+    "tags": [
+      "Vitality"
+    ],
+    "prereq": null,
+    "desc": "You are sometimes a bit overzealous with your healing efforts. If you roll the maximum value on Vitality Dice with this feat, you deal force damage equal to half the value rolled to the target instead of healing them. This damage cannot be reduced or ignored in any way.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Sapped Vitality",
+    "cost": "-4",
+    "tags": [
+      "Vitality"
+    ],
+    "prereq": null,
+    "desc": "When you roll Vitality Dice with this feat, reduce its die value by 1 (minimum of a d4).",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  },
+  {
+    "name": "Healing Resilient",
+    "cost": "-4",
+    "tags": [
+      "Vitality"
+    ],
+    "prereq": null,
+    "desc": "When you use this feat, you gain a -5 penalty to all healing received for the next minute.",
+    "enhance": null,
+    "restriction": null,
+    "flaw": true
+  }
+]

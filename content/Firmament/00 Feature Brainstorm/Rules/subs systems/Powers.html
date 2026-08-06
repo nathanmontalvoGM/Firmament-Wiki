@@ -1,0 +1,161 @@
+---
+title: Powers
+---
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Source+Sans+Pro:wght@400;600&display=swap" rel="stylesheet">
+
+<style>
+  .powers-page { font-family: 'Source Sans Pro', sans-serif; color: #2c1a0e; max-width: 1100px; margin: 0 auto; padding: 1rem 0 3rem; }
+  .powers-intro { font-size: 15px; color: #555; margin-bottom: 2rem; line-height: 1.6; }
+  .section-title { font-family: 'Cinzel', serif; font-size: 1rem; font-weight: 600; color: #1a3d2b; text-transform: uppercase; letter-spacing: 0.08em; margin: 0 0 0.75rem; padding-bottom: 0.4rem; border-bottom: 1px solid #d4c5a0; }
+  .filter-section { margin-bottom: 1.5rem; }
+  .filter-bar { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 0.75rem; }
+  .filter-btn { padding: 5px 14px; border-radius: 999px; border: 1px solid #c9a84c; background: #faf5ec; color: #8b6914; font-size: 13px; cursor: pointer; transition: all 0.15s; font-family: 'Source Sans Pro', sans-serif; }
+  .filter-btn:hover { background: #f5ead0; }
+  .filter-btn.active { background: #1a3d2b; color: #f5f0e8; border-color: #1a3d2b; }
+  .filter-btn.all-btn.active { background: #2c1a0e; color: #f5f0e8; border-color: #2c1a0e; }
+  .filter-mode { display: flex; gap: 8px; align-items: center; font-size: 13px; color: #888; }
+  .mode-btn { padding: 4px 12px; border-radius: 6px; border: 1px solid #d4c5a0; background: #faf5ec; color: #888; font-size: 12px; cursor: pointer; font-family: 'Source Sans Pro', sans-serif; transition: all 0.15s; }
+  .mode-btn.active { background: #2c1a0e; color: #f5f0e8; border-color: #2c1a0e; }
+  .powers-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; }
+  .power-card { background: #faf5ec; border: 1px solid #d4c5a0; border-radius: 10px; padding: 1rem 1.25rem; display: flex; flex-direction: column; gap: 8px; transition: border-color 0.15s; }
+  .power-card:hover { border-color: #c9a84c; }
+  .power-card.hidden { display: none; }
+  .power-card.is-flaw { border-left: 3px solid #c0392b; }
+  .card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+  .power-name { font-family: 'Cinzel', serif; font-size: 14px; font-weight: 600; color: #1a3d2b; }
+  .flaw-label { font-size: 10px; font-weight: 600; color: #c0392b; text-transform: uppercase; letter-spacing: 0.05em; display: inline-block; margin-left: 6px; }
+  .power-cost { font-size: 12px; font-weight: 600; padding: 3px 9px; border-radius: 999px; white-space: nowrap; }
+  .cost-pos { background: #e8f5e3; color: #2d6b4a; border: 1px solid #b8ddb0; }
+  .cost-neg { background: #fbe9e7; color: #c0392b; border: 1px solid #f0c0bb; }
+  .tag-pills { display: flex; flex-wrap: wrap; gap: 4px; }
+  .tag-pill { font-size: 11px; padding: 2px 8px; border-radius: 999px; border: 1px solid; font-weight: 600; }
+  .tag-Strike { background: #fbe9e7; color: #c0392b; border-color: #f0c0bb; }
+  .tag-Vitality { background: #e8f5e3; color: #2d6b4a; border-color: #b8ddb0; }
+  .tag-Aegis { background: #e8f0fb; color: #1a5ca8; border-color: #b0c8f0; }
+  .tag-Universal { background: #fef8e7; color: #8b6914; border-color: #f0d880; }
+  .tag-Divinity { background: #f0eafa; color: #6b3fa0; border-color: #d0b8f0; }
+  .tag-Elemental { background: #fef0e0; color: #a05010; border-color: #f0c888; }
+  .tag-Martial { background: #f0f0f0; color: #555; border-color: #ccc; }
+  .power-prereq { font-size: 11px; color: #aaa; margin-top: 2px; }
+  .power-desc { font-size: 13px; color: #4a3828; line-height: 1.6; }
+  .power-enhance { font-size: 12px; color: #888; border-top: 1px solid #e8ddc8; padding-top: 8px; margin-top: 4px; line-height: 1.5; }
+  .power-enhance strong { color: #6b5030; }
+  .power-restriction { font-size: 12px; color: #a05010; font-style: italic; margin-top: 2px; }
+  .no-results { padding: 3rem; text-align: center; color: #aaa; font-size: 14px; }
+  .results-count { font-size: 12px; color: #aaa; margin-bottom: 1rem; }
+  .loading { padding: 3rem; text-align: center; color: #aaa; font-size: 14px; }
+</style>
+
+<div class="powers-page">
+  <p class="powers-intro">Select one or more tags to filter powers. Use <strong>Match any</strong> to show powers with at least one selected tag, or <strong>Match all</strong> to show only powers that have every selected tag.</p>
+  <div class="filter-section">
+    <div class="section-title">Filter by tag</div>
+    <div class="filter-bar" id="filterBar"><span style="color:#aaa;font-size:13px;">Loading...</span></div>
+    <div class="filter-mode">
+      <span>Filter mode:</span>
+      <button class="mode-btn active" id="modeAny" onclick="setMode('any')">Match any tag</button>
+      <button class="mode-btn" id="modeAll" onclick="setMode('all')">Match all tags</button>
+    </div>
+  </div>
+  <div class="results-count" id="resultsCount"></div>
+  <div class="powers-grid" id="powersGrid"><div class="loading">Loading powers...</div></div>
+  <div class="no-results hidden" id="noResults">No powers match the selected tags.</div>
+</div>
+
+<script>
+let allPowers = []
+let selectedTags = new Set()
+let filterMode = 'any'
+
+function getAllTags(powers) {
+  return [...new Set(powers.flatMap(p => p.tags))].sort()
+}
+
+function buildFilters(powers) {
+  const bar = document.getElementById('filterBar')
+  bar.innerHTML = ''
+  const allBtn = document.createElement('button')
+  allBtn.className = 'filter-btn all-btn active'
+  allBtn.textContent = 'All'
+  allBtn.onclick = () => { selectedTags.clear(); updateFilters() }
+  bar.appendChild(allBtn)
+  getAllTags(powers).forEach(tag => {
+    const btn = document.createElement('button')
+    btn.className = 'filter-btn'
+    btn.textContent = '#' + tag
+    btn.dataset.tag = tag
+    btn.onclick = () => { selectedTags.has(tag) ? selectedTags.delete(tag) : selectedTags.add(tag); updateFilters() }
+    bar.appendChild(btn)
+  })
+}
+
+function setMode(mode) {
+  filterMode = mode
+  document.getElementById('modeAny').className = 'mode-btn' + (mode === 'any' ? ' active' : '')
+  document.getElementById('modeAll').className = 'mode-btn' + (mode === 'all' ? ' active' : '')
+  updateFilters()
+}
+
+function updateFilters() {
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    if (btn.classList.contains('all-btn')) btn.classList.toggle('active', selectedTags.size === 0)
+    else btn.classList.toggle('active', selectedTags.has(btn.dataset.tag))
+  })
+  let visible = 0
+  document.querySelectorAll('.power-card').forEach(card => {
+    const cardTags = card.dataset.tags.split(',')
+    const show = selectedTags.size === 0 ||
+      (filterMode === 'any'
+        ? [...selectedTags].some(t => cardTags.includes(t))
+        : [...selectedTags].every(t => cardTags.includes(t)))
+    card.classList.toggle('hidden', !show)
+    if (show) visible++
+  })
+  document.getElementById('noResults').classList.toggle('hidden', visible > 0)
+  document.getElementById('resultsCount').textContent = selectedTags.size > 0
+    ? `Showing ${visible} of ${allPowers.length} powers`
+    : `${allPowers.length} powers total`
+}
+
+function buildCards(powers) {
+  const grid = document.getElementById('powersGrid')
+  grid.innerHTML = ''
+  powers.forEach(p => {
+    const card = document.createElement('div')
+    card.className = 'power-card' + (p.flaw ? ' is-flaw' : '')
+    card.dataset.tags = p.tags.join(',')
+    const costClass = p.cost.startsWith('-') ? 'cost-neg' : 'cost-pos'
+    const flawLabel = p.flaw ? '<span class="flaw-label">Flaw</span>' : ''
+    const tagPills = p.tags.map(t => `<span class="tag-pill tag-${t}">#${t}</span>`).join('')
+    const prereq = p.prereq ? `<div class="power-prereq">Requires: ${p.prereq}</div>` : ''
+    const enhance = p.enhance ? `<div class="power-enhance"><strong>Enhance:</strong> ${p.enhance}</div>` : ''
+    const restriction = p.restriction ? `<div class="power-restriction">&#x2691; ${p.restriction}</div>` : ''
+    card.innerHTML = `
+      <div class="card-header">
+        <div><div class="power-name">${p.name}${flawLabel}</div>${prereq}</div>
+        <span class="power-cost ${costClass}">${p.cost}</span>
+      </div>
+      <div class="tag-pills">${tagPills}</div>
+      <div class="power-desc">${p.desc}</div>
+      ${enhance}${restriction}
+    `
+    grid.appendChild(card)
+  })
+}
+
+fetch('/static/powers-data.json')
+  .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json() })
+  .then(powers => {
+    allPowers = powers
+    buildFilters(powers)
+    buildCards(powers)
+    updateFilters()
+  })
+  .catch(err => {
+    document.getElementById('powersGrid').innerHTML =
+      `<div class="loading">Could not load powers data.<br>Run <code>node parse-powers.mjs</code> before building the site.<br><small style="color:#bbb">${err.message}</small></div>`
+    document.getElementById('filterBar').innerHTML = ''
+  })
+</script>

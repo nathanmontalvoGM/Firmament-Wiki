@@ -499,7 +499,8 @@ When this feat restores rolls **Vitality Dice**, the healing is laced with a cor
 #### Limitless (+6), Variable
 
 - **Point Cost:** +6
-- **Tag:** #Strike #Aegis #Vitality
+- **Tag:** #Strike #Aegis #Vitality 
+**Variable:** This power includes several variants depending on what tag the feat it's applied to uses. If a feat would have multiple matching tags, choose one to gain the benefits of this power.
 
 When you use this feat, you sacrifice your skill and training for powerful boons. You are [[Favored and Hindered (Advantage System)|Hindered]] on all rolls with your classes Key Ability until you use this powers effects. Depending on this feats tag, you gain different benefits.
 
@@ -514,7 +515,7 @@ When you use this feat, you sacrifice your skill and training for powerful boons
 ---
 
 # Flaws
-You can willing choose a flaw to apply to a feat of your choice to gain points to spend elsewhere. You can have no more than 2 flaws on a feat.
+You can willing choose a flaw to apply to a feat of your choice to gain points to spend on that feat. The flaw must match a tag the feat has. You can have no more than 2 flaws per feat.
 ## #Aegis Flaws
 #### Shoddy Protection (-4)
 - **Point Cost:** -4
@@ -674,6 +675,23 @@ When you roll **Vitality Dice** with this feat, reduce its die value by 1 (minim
 
 When you use this feat, you gain a -5 penalty to all healing received for the next minute. 
 
+## #Divinity Flaws
+#### Heretical (-6). Variable
+- **Prerequisite:** #Divinity 
+- **Point Cost:** -5
+- **Tag:** #Strike #Vitality #Aegis 
+**Variable:** This power includes several variants depending on what tag the feat it's applied to uses. If a feat would have multiple matching tags, choose one to gain the benefits of this power.
+
+Using this feat breaks a fundamental tenet of your deity and you are punished for it. 
+
+#Strike 
+When you deal **Strike Damage** with this feat, half the damage rolled is dealt back to you as force damage. This damage cannot be ignored or reduced in any way. 
+
+#Vitality 
+When you roll **Vitality Dice** with this feat, a random enemy creature within 120 feet is healed half the amount.
+
+#Aegis 
+When you grant an **Aegis Bonus** with this feat, a random enemy creature within 120 feet also receives the bonus.
 ### Unused
 
 #### Simple Powers
