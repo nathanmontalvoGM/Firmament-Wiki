@@ -3,7 +3,7 @@
 ### Core Idea
 
 - Want a way to for players to customize existing basic feats with powers to make their own spin of a subclass.
-- I want to keep the core of what I've built for this system (feats, subclasses and classes should hopefully remained unchanged).
+- I want to keep the core of what I've built for this system (feats, subclasses and classes should hopefully remained unchanged). s
 
 ### Things to Change
 
