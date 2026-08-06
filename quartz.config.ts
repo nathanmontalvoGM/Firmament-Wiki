@@ -11,10 +11,10 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Firmament WIKI",
     ignorePatterns: [
-      `${CONTENT_PREFIX}/Templates/**`,
-      `${CONTENT_PREFIX}/Rejected Ideas/**`,
-      `${CONTENT_PREFIX}/PAD TODO/**`,
-      `${CONTENT_PREFIX}/TTRPG Design/**`,
+      `$Firmament/Templates/**`,
+      `$Firmament/Rejected Ideas/**`,
+      `$Firmament/PAD TODO/**`,
+      `$Firmament/TTRPG Design/**`,
       `Firmament/**/*private*`,
       `Firmament/**/*draft*`,
       `Firmament/**/*wip*`,
