@@ -8,11 +8,11 @@ title: Fighter
 </div>
 
 <div class="hub-grid">
-  <a class="hub-card fighter" href="/{{CONTENT_PREFIX}}/00 Feature Brainstorm/Classes/v2/Fighter/Fighter">
+  <a class="hub-card fighter" href="/Firmament/00 Feature Brainstorm/Classes/v2/Fighter/Fighter">
     <div class="hub-status">Needs training scaling, core class features are mostly done</div>
     <div class="hub-title">Class Features</div>
   </a>
-  <a class="hub-card fighter" href="/{{CONTENT_PREFIX}}/00 Feature Brainstorm/Classes/v2/Fighter/Fighter Sources">
+  <a class="hub-card fighter" href="/Firmament/00 Feature Brainstorm/Classes/v2/Fighter/Fighter Sources">
     <div class="hub-status">Needs more options at level 6 and 10</div>
     <div class="hub-title">Sources</div>
   </a>

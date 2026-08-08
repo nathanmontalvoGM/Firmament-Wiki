@@ -1,16 +1,12 @@
 - **Prerequisite:** [[Fury Instinct]]  
 - **Level:** 6  
-- **Tag:** #Tempo #Rage 
+- **Tag:** #Tempo #Rage #Swift
 - **Type:** #FlexibleFeat
 
 - **Target:** Self  
 - **Range:** —  
 - **Action Cost:** 1 Reaction
 - **Duration:** #Instantaneous
-
-
-
-
 
 **Fundamental:**  
 When an enemy leaves your melee reach while you are raging, you may move toward them as a reaction at the end of their current turn.

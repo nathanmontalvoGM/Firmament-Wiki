@@ -18,5 +18,4 @@ When you hit with a melee attack while raging, gain bonuses based on your curren
 - **Trained:** +1 damage per 3 Temper.  
 - **Expert:** +2 damage per 3 Temper.  
 - **Master:** +3 damage per 3 Temper.  
-- **Legendary:** +4 damage per 3 Temper.
 

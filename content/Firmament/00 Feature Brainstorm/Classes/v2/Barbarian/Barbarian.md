@@ -68,7 +68,7 @@ If you exceed your maximum Temper during your turn.
 
 * On a success, your Temper remains at its maximum value. 
 * On a failure, you immediately use your instincts Breaking Point feature. 
-* You then lose your rage and are [[01 Condition#Off-Guard|Off-Guard]] and [[01 Condition#Weakened (Strength)|Weakened]] until the start of your next turn.
+* You then lose your rage and are [[01 Condition#Off-Guard|Off-Guard]] until the start of your next turn.
 
 ### Focus Up
 - **Target:** Self 
@@ -88,7 +88,11 @@ Subclass
 * [[Ancestral Instinct]]
 ## 3rd Level
 ### Furious Footfalls
-The urge to fight drives you ever forward. Your speed increases by 10 feet while you aren't wearing heavy armor.
+The urge to fight drives you ever forward. Your speed increases by an amount equal to your training while you aren't wearing heavy armor.
+
+- **Trained:** 10 feet
+- **Expert:** 15 feet
+- **Master:** 20 feet. You are immune to the [[01 Condition#Slowed|Slowed]] condition.
 
 ### Instant Fury
 
@@ -99,20 +103,17 @@ The urge to fight drives you ever forward. Your speed increases by 10 feet while
 Free action
 So long as you are able to move freely, your fury is instinctive and instantaneous. You Rage.
 
-### Lesser to Greater Healing (WIP)
-Some feature the allows barbarians to have a limited number of times that [[Greater and Lesser Healing|Lesser Healing]] can heal [[Hit Points]]. This is because Barbarians will be balanced around have it very little stamina.
 ## 5th Level
 ### Brutality
-Your fury makes your weapons lethal. Your proficiency ranks for simple weapons, martial weapons, and [unarmed](https://2e.aonprd.com/Traits.aspx?ID=719) attacks increase to expert. While [raging](https://2e.aonprd.com/Actions.aspx?ID=2802), you have the critical specialization benefits for melee weapons and unarmed attacks.
-
+Your fury makes your weapons lethal. Your proficiency ranks for simple weapons, martial weapons, and [unarmed](https://2e.aonprd.com/Traits.aspx?ID=719) attacks increase to expert. While raging, all weapons your are proficient with gain the [[Weapon Tags|Deadly]] trait. 
 ### Dexterity Trainer
 You gain training in Dexterity Saving throws.
 
 ### Beaten and Bruised
-Your body has grown accustomed to constant injury. You now receive the [[01 Condition#Bloodied (WIP)|Bloodied]] condition when you reach half your total  [[Hit Points]] instead of when you run out of [[Stamina]]
+Your body has grown accustomed to constant injury. You now receive the [[01 Condition#Bloodied (WIP)|Bloodied]] condition when you reach a quarter of your total [[Hit Points]] instead of when you reach half.
 ## 7th Level
 ### Weapon Specialization
-Your rage helps you hit harder. You deal an additional 2 damage with weapons and unarmed attacks in which you have expert proficiency. This damage increases to 3 if you’re a master, and 4 if you’re legendary. You gain your instinct’s specialization ability.
+Your rage helps you hit harder. You deal an additional 2 damage with weapons and unarmed attacks in which you have expert proficiency. This damage increases to 3 once you’re a master. You gain your instinct’s specialization ability.
 
 ### Juggernaut
 Your body is accustomed to physical hardship and resistant to ailments. Your proficiency rank for Strength and Constitution saves increases to master. When you roll a success on a Strength or Constitution save, you get a critical success instead.

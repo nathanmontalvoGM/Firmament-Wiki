@@ -10,10 +10,6 @@
 
 **Trigger:** A creature within your reach targets an ally with an attack.
 
-
-
-
-
 **Fundamental:**  
 You punish those who ignore you.
 

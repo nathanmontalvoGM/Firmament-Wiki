@@ -83,7 +83,7 @@ Need ancestry progression system
 ##### Dwarf 
 * [x] [[Elemental Dwarf]]
 * [x] [[Death Walker Dwarf v1]]
-* [x] [[Forge Dwarf]]
+* [x] [[00 Feature Brainstorm/Character Sheet/Ancestry/Dwarf/Dwarf Heritages/UNFINISHED/Forge Dwarf]]
 * [x] [[Mountain Dwarf]]
 * [x] [[Primordial Dwarf]]
 * [x] [[Stone-Blood Dwarf]]

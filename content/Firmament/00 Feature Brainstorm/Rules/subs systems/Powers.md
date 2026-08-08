@@ -3,7 +3,7 @@
 ### Core Idea
 
 - Want a way to for players to customize existing basic feats with powers to make their own spin of a subclass.
-- I want to keep the core of what I've built for this system (feats, subclasses and classes should hopefully remained unchanged). s
+- I want to keep the core of what I've built for this system (feats, subclasses and classes should hopefully remained unchanged).
 
 ### Things to Change
 
@@ -52,7 +52,7 @@ Instead of spending points on a power for a feat, you may choose an Affinity Pow
 * Grants access to powers with the #Elemental tag
 ### Martial Affinity (+3)
 * **Point Cost:** +3
-- **Prerequisite:** a +1 to Strength or Dexterity 
+- **Prerequisite:** a +1 to Strength 
 * Grants access to powers with the #Martial tag
 ### Arcane Affinity (+3)
 * **Point Cost:** +3
@@ -191,8 +191,7 @@ This feat is harder to dodge. Saving throws with physical stats (Strength, Dexte
 
 **Enhance (+5)** Increase the saving throw penalty by -2 and the attack roll bonus by +2.
 
----
-
+## #Swift Powers
 ## #Universal Powers
 
 #### Far Sight (+3)
@@ -512,7 +511,6 @@ When you use this feat, you sacrifice your skill and training for powerful boons
 
 #Vitality You roll 2 additional **Vitality Dice** and you increase all **Vitality Dice** by 1 step. Once you roll **Vitality Dice** in this way, you lose [[Favored and Hindered (Advantage System)|Hindered]] on your classes key ability.
 
----
 
 # Flaws
 You can willing choose a flaw to apply to a feat of your choice to gain points to spend on that feat. The flaw must match a tag the feat has. You can have no more than 2 flaws per feat.

@@ -10,6 +10,7 @@
 - [x] 3rd Level feature [priority:: critical] [class:: Barbarian [notes::]
 - [x] 7th Level feature [priority:: critical] [class:: Barbarian [notes::]
 - [x] 9th Level feature [priority:: critical] [class:: Barbarian [notes::]
+- [ ] Remove Legendary and update existing feats [priority:: critical] [class:: Barbarian [notes::]
 #### feats
 - [x]  4 feat options at Level 2 [priority:: critical] [class:: Barbarian] [notes::]
 - [x] 4 feat options at Level 4 [priority:: critical] [class:: Barbarian] [notes::]
